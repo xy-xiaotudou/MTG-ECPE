@@ -1,0 +1,422 @@
+1056 21
+ (8,7), (17,15)
+1,null,null,几年前
+2,null,null,李某认识了做建筑生意的刘某
+3,null,null,两人同居在一起
+4,null,null,李某没有工作
+5,null,null,平时全靠刘某给的生活费维持生计
+6,null,null,刘某在家很霸道
+7,null,null,常常因为小事打骂李某
+8,fear,惧怕,女儿小兰因此惧怕继父
+9,null,null,刘某不但对母亲施暴
+10,null,null,连继女也不放过
+11,null,null,2011年
+12,null,null,小兰才13岁
+13,null,null,一天
+14,null,null,刘某趁李某不在家
+15,null,null,溜进小兰的卧室强奸了她
+16,null,null,事后
+17,fear,害怕,小兰害怕得一直哭泣
+18,null,null,但想到刘某是整个家的经济支柱
+19,null,null,平时常常殴打母亲
+20,null,null,小兰害怕母亲得知此事后再遭毒手
+21,null,null,于是一直隐瞒着1071 29
+ (12,10)
+1,null,null,2012年6月11日
+2,null,null,亳州市中院再次作出判决
+3,null,null,判处王什彩15年有期徒刑
+4,null,null,王什彩第3次上诉
+5,null,null,羁押4年多等来了无罪释放今年4月3日
+6,null,null,对于王什彩来说是个特殊的日子
+7,null,null,你被无罪释放了
+8,null,null,当天下午
+9,null,null,王什彩正等着开饭
+10,null,null,民警对他宣读了这个好消息
+11,null,null,当时
+12,happiness,激动,王什彩十分激动
+13,null,null,一分钱都没有
+14,null,null,怎么回家
+15,null,null,他问
+16,null,null,当时
+17,null,null,还是一位热心民警给了他10块钱
+18,null,null,让他坐车
+19,null,null,亳州市看守所离王什彩所在的村庄有40多公里的路程
+20,null,null,当天下午
+21,null,null,王什彩一路坐车到了当地的集镇
+22,null,null,身上已只剩下1块钱了
+23,null,null,饥饿难耐的他用这块钱买了一个鸡蛋填肚子
+24,null,null,然后又步行了七八里路到了舅舅家
+25,null,null,此时已是晚上八九点钟
+26,null,null,舅舅和家人都已睡觉了
+27,null,null,舅舅开门一看
+28,null,null,敲门的是王什彩
+29,null,null,两个人相拥而泣
+1072 14
+ (10,8)
+1,null,null,五年前开始建设的这栋风尚国际商品房
+2,null,null,如今已成为郴州房产界一个老大难项目——开发商收了消费者438套房子的认购金5000多万元后
+3,null,null,又将房子转卖给他人作为债务抵押
+4,null,null,数百名认购户
+5,null,null,目前既没购得房子
+6,null,null,也未获得本金和赔偿
+7,null,null,这个楼盘开工时根本就没有审批手续
+8,null,null,我们认购户完全上当了
+9,null,null,7月20日
+10,anger,气愤,认购户邓女士气愤地告诉记者
+11,null,null,郴州市房产管理局工作人员证实
+12,null,null,风尚国际楼盘在建设和销售过程中存在违法违规行为
+13,null,null,目前
+14,null,null,郴州有关部门已介入调查
+1080 14
+ (4,2)
+1,null,null,29岁的牛某无意间发现
+2,null,null,丈夫与32岁的女网友史某有暧昧关系
+3,null,null,她先是打电话责骂
+4,anger,气愤,气愤不过又打车从兴平赶到咸阳史某住处
+5,null,null,7月5日
+6,null,null,两人在小区楼下争吵
+7,null,null,推搡中
+8,null,null,牛某持刀刺向史某脖子
+9,null,null,瞬间鲜血喷出
+10,null,null,男子赶到抱起受伤女子5日晚7时许
+11,null,null,在事发的咸阳市人民西路彩虹新区家属区
+12,null,null,仍留有大量被扯掉的头发
+13,null,null,血迹从事发现场一直到小区门外
+14,null,null,长达数十米
+1092 18
+ (8,8), (12,11), (10,13)
+1,null,null,李某初中辍学后不想外出做事
+2,null,null,一直在村里东游西晃
+3,null,null,父母多次劝说
+4,null,null,李某先是不理不睬
+5,null,null,后来嫌父母唠叨干脆不着家
+6,null,null,瞅着村里哪户人家出去打工家里没人
+7,null,null,就采取溜门撬窗的方式进入屋内找吃的喝的衣服和钱物
+8,happiness,高兴,吃饱喝足后高兴了就在人家住几天
+9,null,null,直到找到下一家为止
+10,anger,气愤,令受害人气愤的是
+11,null,null,如果被偷的人家没什么油水
+12,disgust,不爽,李某觉得不爽
+13,null,null,会在床上拉屎
+14,null,null,自从去年元月份
+15,null,null,李某到一农户家偷方便面衣服得手后
+16,null,null,他胆子愈来愈大
+17,null,null,觉得这是一条养活自己的门道
+18,null,null,四处作案直到东窗事发
+1096 15
+ (12,10), (12,11)
+1,null,null,昨日13时左右
+2,null,null,多名亲属在重症监护室外面等待
+3,null,null,都是一脸疲惫
+4,null,null,一名40多岁的瘦高男子双眼通红
+5,null,null,不时地用衣袖擦擦眼
+6,null,null,衣服上还残留着一些血迹
+7,null,null,旁边的亲属称
+8,null,null,他就是死者小周的父亲
+9,null,null,伤者的丈夫
+10,null,null,女儿被杀死
+11,null,null,妻子被砍成了重伤
+12,sadness,伤心欲绝,这名中年男子伤心欲绝
+13,null,null,根本就不愿意多说什么
+14,null,null,只是告诉记者我家现在一死一伤
+15,null,null,但凶手家没有任何一个人来问候一下
+1119 26
+ (17,19), (17,20)
+1,null,null,从2009年到2013年
+2,null,null,梁剑兴花了整整4年时间研究
+3,null,null,在请教了老中医后
+4,null,null,同步进行试验
+5,null,null,一次性鼻内套成形——它的外层是银丝网做成的
+6,null,null,口子做成齿轮状
+7,null,null,方便伸缩
+8,null,null,适合大小不一的鼻孔
+9,null,null,中间塞进丝瓜络
+10,null,null,浸渍过的纯天然植物剂
+11,null,null,两个鼻孔套用连接带就行了
+12,null,null,原理也很简单
+13,null,null,银做的网格释放银离子
+14,null,null,可以杀灭呼吸中的细菌
+15,null,null,同时含纯天然植物剂成分的丝瓜络
+16,null,null,能通经活络
+17,happiness,高兴,梁剑兴很高兴
+18,null,null,去年在北京
+19,null,null,国家级中医呼吸科专家论证他的发明
+20,null,null,认为做进一步改进后有很大的推广价值
+21,null,null,2015年1月
+22,null,null,梁剑兴即将结束社区矫正
+23,null,null,真正回归社会
+24,null,null,他说
+25,null,null,出来后
+26,null,null,想多为社会做点贡献
+1123 23
+ (22,20)
+1,null,null,17日晚上
+2,null,null,开开一边做作业一边悄悄玩电脑
+3,null,null,爷爷多次劝告
+4,null,null,孙子仍然不听
+5,null,null,继续玩
+6,null,null,爷爷终于忍不住
+7,null,null,大声说了孙子几句
+8,null,null,一骂引来了儿子的不满
+9,null,null,双方引发了争吵
+10,null,null,张爷爷一直觉得以前对儿子管教约束不够
+11,null,null,导致儿子吊儿郎当
+12,null,null,对孙子的教育要求更加严格
+13,null,null,就是怕孙子走上儿子的老路
+14,null,null,没想到儿子不仅不帮助一起给孩子分析道理
+15,null,null,还处处阻拦
+16,null,null,回回唱对台戏
+17,null,null,老先生顿时气不打一处来
+18,null,null,我一个老教师
+19,null,null,你没资格和我谈教育
+20,null,null,父子俩激烈争吵起来
+21,null,null,言语激动
+22,anger,气不过,张爷爷气不过
+23,null,null,报了警
+1144 10
+ (7,3)
+1,null,null,昨日上午11时40分左右
+2,null,null,巴南鱼洞派出所接到一起报警报警人陈先生称上午和女友在电话里大吵一架
+3,null,null,随后就收到女友发来的一条短信上面说她马上就要去跳河
+4,null,null,之后无论陈先生怎么打电话
+5,null,null,对方就是不接听
+6,null,null,由于陈先生并不在本地
+7,fear,心急如焚,心急如焚的他只得拨打了110报警电话
+8,null,null,民警很快问清了其女友谭小姐的家庭住址以及身份信息
+9,null,null,并出发前往其家中寻找
+10,null,null,同时派巡逻民警来到陈先生所说的跳河地点查看
+1149 23
+ (18,16)
+1,null,null,为了给孙子挣学费
+2,null,null,老人在3月23日在集市上买来羊羔
+3,null,null,准备喂养
+4,null,null,但是3月24日上午
+5,null,null,被拴在屋内的小羊羔不停叫唤
+6,null,null,老人耳朵不好
+7,null,null,未能听见
+8,null,null,上午10时左右
+9,null,null,宋德让打开房门
+10,null,null,发现羊羔奄奄一息
+11,null,null,急忙给羊羔揉肚子
+12,null,null,做人工呼吸
+13,null,null,还给羊羔喂了药
+14,null,null,不过
+15,null,null,一番忙碌后
+16,null,null,羊羔还是死去了
+17,null,null,身体渐渐冰凉
+18,sadness,伤心,老人伤心之余抱着羊羔久久不愿意放手
+19,null,null,据林世有介绍
+20,null,null,他当时也在现场
+21,null,null,亲眼目睹了宋德让老人给羊羔做人工呼吸
+22,null,null,很感慨
+23,null,null,所以拍下了照片
+1160 6
+ (4,6)
+1,null,null,周达标眼看新屋就要入住了
+2,null,null,竟突然变成粪池
+3,null,null,增城市民列先生盼了半辈子的房子就这样毁于一旦
+4,anger,气愤,而更令他气愤的是
+5,null,null,由于公共管道堵塞粪水外溢给他家造成的损失
+6,null,null,事后物业公司却撒手不管
+1174 19
+ (15,13), (16,13)
+1,null,null,为此
+2,null,null,他夜不能寐
+3,null,null,食不下咽
+4,null,null,每次看到孩子
+5,null,null,内心总泛起一种奇怪的情绪
+6,null,null,为了消除怀疑
+7,null,null,他遂以去医院做检查为名
+8,null,null,偷偷地带着孩子做了亲子鉴定
+9,null,null,在等待鉴定结果的日子里
+10,null,null,他如坐针毡
+11,null,null,最终
+12,null,null,经鉴定
+13,null,null,孩子确实非他亲生
+14,null,null,拿到鉴定书后
+15,surprise,震惊,他先是非常震惊
+16,sadness,沮丧,随后异常沮丧
+17,null,null,含辛茹苦地养了8年
+18,null,null,到头来却不是自己的孩子
+19,null,null,真成冤大头了
+1176 19
+ (8,6)
+1,null,null,50多岁的吴阿姨化名左顾右盼
+2,null,null,终于盼来了小孙子的出生
+3,null,null,可没过多久
+4,null,null,她却乐不起来了
+5,null,null,因为她隐约感觉
+6,null,null,儿媳妇不检点
+7,null,null,对此
+8,anger,气愤,她感到十分气愤
+9,null,null,没多久
+10,null,null,她甚至对孙子是否是儿子亲生骨肉产生了怀疑
+11,null,null,为消除疑虑
+12,null,null,她开始动员儿子去做亲子鉴定
+13,null,null,起初
+14,null,null,儿子对她的要求感到既震惊又抗拒
+15,null,null,可经过母亲一番劝说
+16,null,null,他最终拗不过
+17,null,null,便瞒着妻子
+18,null,null,带着儿子
+19,null,null,在母亲的陪同下做了鉴定
+1180 12
+ (9,7)
+1,null,null,第二天
+2,null,null,王大娘一大早就到附近接着找狗
+3,null,null,她听附近的两位住户告诉她
+4,null,null,他们昨天下午看到有只小狗在朝阳桥上被一辆货车给撞了
+5,null,null,司机撞到小狗后就把狗带走了
+6,null,null,据说是带它去宠物医院治疗了
+7,null,null,从得到这个消息时开始
+8,null,null,王大娘就变得茶不思饭不想
+9,sadness,闷闷不乐,天天闷闷不乐
+10,null,null,然而
+11,null,null,更让人意想不到的事发生了老人的高血压毛病又犯了
+12,null,null,家人不得不把她送进了医院
+1189 21
+ (19,21)
+1,null,null,归案后的二人如实供述了犯罪经过两个人曾经在宜昌市某职业学校上过学
+2,null,null,在校期间关系就较好
+3,null,null,双双辍学后一直联系频繁
+4,null,null,去年两个人因为共同入室盗窃还双双被判刑
+5,null,null,其中汪某被判的实刑
+6,null,null,徐某某被判的缓刑
+7,null,null,案发时
+8,null,null,汪某出狱还不到一个月
+9,null,null,两个人都特别喜欢上网
+10,null,null,9月6日晚上
+11,null,null,两个人身上的钱也花光了
+12,null,null,无法继续上网
+13,null,null,于是两人提议搞点钱
+14,null,null,经过一番搜索
+15,null,null,最终将目光锁定在当晚单独行走的郑某某
+16,null,null,并顺利得手
+17,null,null,然而
+18,null,null,当他们清点战利品时
+19,sadness,大失所望,却大失所望
+20,null,null,原来
+21,null,null,除了一部廉价手机外仅有两元钱
+1193 18
+ (9,9), (15,12)
+1,null,null,据美国中文网9月11日报道
+2,null,null,美国密歇根州小城庞蒂亚克最近发生了一件离奇的强拆事件
+3,null,null,原定被拆房子的主人改变地址
+4,null,null,把自家门牌号和自己隔壁的偷偷调换
+5,null,null,最终却导致他邻居的房子遭到强拆
+6,null,null,他的邻居麦克告诉记者
+7,null,null,他本打算10月1号之前把房子租出去
+8,null,null,现在他想知道庞蒂亚克市是否会还他一栋新房子
+9,happiness,开心,但是很多邻居对拆错了房子表示很开心
+10,null,null,他们说这栋房子破破烂烂的窗户实在是太碍眼
+11,null,null,他们还说有陌生人擅自住在那里
+12,null,null,当我听说他们不小心把那座房子给拆了
+13,null,null,我想送他们一打啤酒
+14,null,null,邻居弗雷德萨金特说
+15,happiness,高兴,我太高兴了
+16,null,null,想把这栋房子租出去的人
+17,null,null,脑子肯定有病
+18,null,null,萨金特补充道
+1201 10
+ (5,1)
+1,null,null,李某在淹死两个女儿后跑到徐州
+2,null,null,被砀山警方抓获
+3,null,null,在法庭上
+4,null,null,25岁的父亲再也无法见到两个可爱的女儿
+5,sadness,悔恨,李某听到女儿的名字时流下了悔恨的泪水
+6,null,null,昨日
+7,null,null,宿州中院对李某判处死刑
+8,null,null,缓期二年执行
+9,null,null,同时
+10,null,null,判处李某赔偿附带民事原告人沈某经济损失四万元
+1216 15
+ (8,9), (8,10)
+1,null,null,李朝兵的妻子搞不懂程金为什么这么多年没帮衬一下家里
+2,null,null,隔壁七队的赵光辉
+3,null,null,父母智障
+4,null,null,他一个人撑起家
+5,null,null,还把房子修起了
+6,null,null,跟他年纪差不多
+7,null,null,杜秀蓉闭着眼望天他还没懂事吧
+8,disgust,烦恼,杜秀蓉还有很多烦恼
+9,null,null,她至今没有和孙成合办结婚证
+10,null,null,也没办户口迁移
+11,null,null,杜秀蓉说
+12,null,null,1991年程金出生时
+13,null,null,只花了2元钱就顺利落到了户
+14,null,null,但她的大女儿孙苗至今不能落户
+15,null,null,要落户还得花2000元
+1217 23
+ (10,11), (10,12), (10,13)
+1,null,null,昨天
+2,null,null,硬皮病患者小周到武汉市中医医院风湿科复查
+3,null,null,她的皮肤光滑紧绷
+4,null,null,像蜡像一样面无表情
+5,null,null,但和半年前相比
+6,null,null,她的肢体已经灵活了不少
+7,null,null,精神也明显好转
+8,null,null,35岁的小周原在一家银行工作
+9,null,null,5年前
+10,fear,惊恐,她惊恐地发现
+11,null,null,全身的皮肤正悄悄发黑变硬
+12,null,null,说话舌头不听使唤
+13,null,null,行动僵硬无力
+14,null,null,每到气温下降
+15,null,null,她的手指先是发白
+16,null,null,随后变得青紫
+17,null,null,像虎爪一样蜷缩着
+18,null,null,无法握拳和抓取物品
+19,null,null,去年年底
+20,null,null,市中医医院风湿科主治医生熊源胤运用中药辨症施治
+21,null,null,配合西药使用
+22,null,null,半年过去
+23,null,null,小周病情控制比较理想
+1218 12
+ (7,9)
+1,null,null,国博旁边没有赛道
+2,null,null,我们的车跑不起来
+3,null,null,昨天
+4,null,null,由武汉理工大学学生制作的方程式赛车
+5,null,null,吸引了不少观众前来观摩
+6,null,null,不过
+7,sadness,惋惜,令大家惋惜的是
+8,null,null,由于展馆场地受限
+9,null,null,赛车没能现场试跑
+10,null,null,这辆迷你型赛车仅重240公斤
+11,null,null,0至100公里加速时间仅3.6秒
+12,null,null,是同级别赛车中的佼佼者
+1230 15
+ (8,6)
+1,null,null,民警了解到
+2,null,null,原来家中儿子小高化名初中毕业后上了五年制的大专
+3,null,null,但自去年夏天从学校毕业后就处于没工作的状态
+4,null,null,小高自己也一直陆陆续续的在找工作
+5,null,null,但是如今严峻的就业形势使得小高有些力不从心
+6,null,null,找了半年多的工作一点消息也没有
+7,null,null,最近
+8,sadness,闷闷不乐,小高变的闷闷不乐而且脾气也发生了微妙变化
+9,null,null,经常在家莫名其妙冲父母发脾气
+10,null,null,小高的父母向民警说
+11,null,null,小高属于明显的眼高手低
+12,null,null,本来学历就不很过硬
+13,null,null,还偏要挑工作
+14,null,null,一些基层基础的工作根本不愿意接受
+15,null,null,亲戚朋友的意见压根听不进去
+1238 16
+ (7,5), (7,6)
+1,null,null,究竟是什么纠纷让老人非得要住在车上呢
+2,null,null,对此
+3,null,null,中年妇女称
+4,null,null,老人前段时间在老福山坐车回家
+5,null,null,不料被公交车司机一脚踹下了车
+6,null,null,老人住院期间司机也没来过
+7,anger,气愤,他们一家人很气愤
+8,null,null,因此决定讨个说法
+9,null,null,才住到公交车上
+10,null,null,对此
+11,null,null,当时开这辆公交车的何司机却予以否认
+12,null,null,当时我停好车去买水
+13,null,null,回来就看见老人坐在我的车上不下去
+14,null,null,何司机称
+15,null,null,自己当时只是停好车去买了瓶水喝
+16,null,null,可是回来就看见这位老人坐在自己的车上

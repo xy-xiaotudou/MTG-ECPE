@@ -1,0 +1,292 @@
+638 15
+ (13,11)
+1,null,null,从1991年到2013年
+2,null,null,阿不力孜一共救了60多人
+3,null,null,所救的人里
+4,null,null,有汉族维吾尔族哈萨克族
+5,null,null,有本地人外地人外国人
+6,null,null,在他的眼里
+7,null,null,他们都是兄弟姐妹
+8,null,null,救人帮人
+9,null,null,阿不力孜说他啥都不图
+10,null,null,不过
+11,null,null,每当听到有人喊他雷锋
+12,null,null,他就像大热天喝了杯冰爽的饮料
+13,happiness,舒坦,浑身都舒坦
+14,null,null,他知道雷锋
+15,null,null,那是个大好人
+640 11
+ (4,1)
+1,null,null,蒋兴保的义举
+2,null,null,周围的邻居都看到了
+3,null,null,也听说了
+4,happiness,感动,大家都很感动
+5,null,null,蒋兴保的邻居说
+6,null,null,这么高的楼跳下来
+7,null,null,如果说不接他这一下的话
+8,null,null,这个人是不是
+9,null,null,从二楼掉下来的我们都不敢接
+10,null,null,这还是从四楼掉下来
+11,null,null,真的挺勇敢的
+643 14
+ (11,9), (11,10)
+1,null,null,办案民警透露
+2,null,null,吕万鹏在路边行走时
+3,null,null,看到了独自一人行走的吕晶晶
+4,null,null,临时起了抢劫的念头
+5,null,null,尾随被发现后
+6,null,null,吕万鹏追上吕晶晶
+7,null,null,想抢夺其手中的包
+8,null,null,没想到
+9,null,null,吕晶晶高声呼救拼命反抗
+10,null,null,同时又有路过的朱思洋上前帮忙
+11,fear,害怕,吕万鹏害怕了
+12,null,null,为了能顺利逃脱
+13,null,null,吕万鹏掏出了刀子
+14,null,null,朝吕晶晶和朱思洋身上一顿乱捅
+664 10
+ (6,4)
+1,null,null,2013年2月22日
+2,null,null,蓝向前范金凤夫妇两人来到甘肃省红十字会办理了遗体捐献登记手续
+3,null,null,甘肃省红十字会为这对夫妻颁发了遗体捐献卡和志愿捐献遗体纪念证
+4,null,null,他们的奉献精神
+5,null,null,是何等的高尚
+6,happiness,尊敬,是何等的令人尊敬
+7,null,null,他们的爱心和善举
+8,null,null,传递了正能量
+9,null,null,理应受到全社会的尊重和赞扬
+10,null,null,甘肃省血液中心机采科的工作人员说
+693 10
+ (4,2)
+1,null,null,二肖霞7岁那年
+2,null,null,如亲外公样的肖盛林不幸因病逝世
+3,null,null,送葬那日
+4,sadness,哭叫,肖霞哭叫着外公
+5,null,null,我要外公啊
+6,null,null,那伤感凄楚的哭喊
+7,null,null,让一村人动容
+8,null,null,从此
+9,null,null,蒋冬姣外婆成了孤苦伶仃的寡妇
+10,null,null,而懂事的肖霞担负起了照顾老人的责任
+726 19
+ (15,14), (17,18), (17,19)
+1,null,null,当时的确有很多好心人帮助我
+2,null,null,也给我打了不少钱
+3,null,null,国家美说
+4,null,null,但对于一个白血病患者来说
+5,null,null,这些钱无异于杯水车薪
+6,null,null,骨髓配型已经成功的她
+7,null,null,每次化疗费用仍需东拼西凑
+8,null,null,五十多万元的换骨髓费用对于一个农村家庭来说
+9,null,null,就是天文数字
+10,null,null,看着身边病友一个个地离开
+11,null,null,国家美开始动摇了
+12,null,null,不但治不好病
+13,null,null,还花那么多钱
+14,null,null,浪费那么多好心人的钱
+15,sadness,愧疚,心里感觉挺愧疚的
+16,null,null,9月份
+17,surprise,震惊,国家美作出了一个让所有人都震惊的决定
+18,null,null,放弃治疗
+19,null,null,转而帮助更多需要帮助的人
+734 19
+ (4,2), (18,18)
+1,null,null,2001年
+2,null,null,江志超的老伴突发心肌梗塞离世
+3,null,null,持续了33年的幸福婚姻戛然而止
+4,sadness,消沉,不期而至的沉重打击让江志超消沉了许久
+5,null,null,他难以忘却过往的种种
+6,null,null,更难以自遣内心的郁结
+7,null,null,老伴下葬后
+8,null,null,他每天都会徒步上山
+9,null,null,到老伴的墓前坐一坐
+10,null,null,说说话
+11,null,null,仿佛老伴还在世一样
+12,null,null,提到唱歌的原因
+13,null,null,江志超说老伴年轻时很喜欢听他唱歌
+14,null,null,两人恋爱时也常常以歌声传情
+15,null,null,老伴尤其喜欢听他唱乌苏里船歌
+16,null,null,上山的人渐渐知道了他的故事
+17,null,null,当地媒体也报道了二人的爱情故事
+18,happiness,感动,乌苏里船歌原唱男高音歌唱家郭颂也被江志超的故事感动
+19,null,null,在2010年辗转联系到了他
+740 25
+ (13,11), (22,21), (23,23)
+1,null,null,有一件事
+2,null,null,妈妈是不知道的
+3,null,null,莉莉说出了一个埋在心底的秘密
+4,null,null,上高中时
+5,null,null,我的亲生父母曾来找过我
+6,null,null,他们给我钱
+7,null,null,要补偿我
+8,null,null,还伤心地解释他们的苦衷
+9,null,null,但是
+10,null,null,我没有收下
+11,null,null,还狠心把他们赶走了
+12,null,null,莉莉说
+13,sadness,难过,她对此很难过
+14,null,null,把与亲生父母间的对话全部写进了日记
+15,null,null,闺女
+16,null,null,这件事
+17,null,null,妈其实早就知道
+18,null,null,祖振荣说
+19,null,null,她在帮莉莉收拾书桌时
+20,null,null,看到了这本日记
+21,null,null,看完之后
+22,sadness,难受,我心里确实很难受
+23,fear,害怕,害怕她会离开我
+24,null,null,但我不想给她增添心理负担
+25,null,null,就把这件事埋在了心里
+743 14
+ (10,8)
+1,null,null,这个女儿
+2,null,null,是上天送给我最珍贵的礼物
+3,null,null,祖振荣抚摸着怀里的莉莉
+4,null,null,我老了
+5,null,null,身体不好
+6,null,null,不知道能照顾你到什么时候
+7,null,null,不知道还能不能看着你嫁人
+8,null,null,但只要你后半生过得好
+9,null,null,不管你在谁身边
+10,happiness,高兴,妈都高兴
+11,null,null,你就是我的亲妈
+12,null,null,你在哪
+13,null,null,哪就是我的家
+14,null,null,莉莉的眼泪扑簌簌地掉下来
+759 7
+ (5,3), (5,4)
+1,null,null,昨天一大早
+2,null,null,老人的儿孙们带着1万元钱和礼物看望老人
+3,null,null,告诉他们骗子被抓住
+4,null,null,钱也追回来了
+5,happiness,喜笑颜开,老人喜笑颜开
+6,null,null,在儿孙的陪同下
+7,null,null,把钱存入银行
+762 21
+ (16,15), (21,19)
+1,null,null,昨天早上8点多
+2,null,null,自己在江北区红旗河沟附近
+3,null,null,准备打车前往渝中区一号桥原市中医院附近
+4,null,null,当时正值上班高峰期
+5,null,null,过往出租车很多
+6,null,null,他拦了很多辆
+7,null,null,一听说到去渝中区
+8,null,null,司机直接开车走人
+9,null,null,我当时都绝望了
+10,null,null,就在忧心忡忡时
+11,null,null,一位女司机开着出租车来到了他面前
+12,null,null,拉开车门
+13,null,null,说了目的地
+14,null,null,冯先生悠闲自得地坐在座位上
+15,null,null,好不容易打到车的心情
+16,happiness,高兴,完全无法用高兴来形容
+17,null,null,我摸了一下荷包
+18,null,null,遭了
+19,null,null,没带钱
+20,null,null,这时
+21,fear,着急,冯先生开始着急起来
+767 10
+ (5,3)
+1,null,null,今年9月
+2,null,null,嫣然天使基金工作人员联系到我
+3,null,null,说可以为小桂花的兔唇提供免费治疗
+4,null,null,让我们10月份来北京
+5,happiness,高兴,把我高兴坏了
+6,null,null,刘启宣表示
+7,null,null,这次从衡阳来
+8,null,null,就是为了小桂花的治疗
+9,null,null,一路到京
+10,null,null,刘启宣还收获了很多爱心人士的帮助
+772 27
+ (17,15)
+1,null,null,虽然目前胡凤玲已经出院
+2,null,null,但因为她的左脑遭到严重伤害
+3,null,null,令身体的右半边使不上力
+4,null,null,所以上厕所洗澡仍需要他人协助
+5,null,null,本身就是摄影爱好者的李需仁
+6,null,null,每天都帮住院的老婆拍照
+7,null,null,把太太的治疗过程以照片和文字于部落格写成日记
+8,null,null,当中有乐也有苦
+9,null,null,但李需仁说
+10,null,null,只要妻子没放弃
+11,null,null,他就不会放弃
+12,null,null,随着家人的陪伴与接受治疗
+13,null,null,胡凤玲的记忆也逐渐恢复
+14,null,null,他仁坦言
+15,null,null,意外发生后
+16,null,null,他也曾经觉得无助
+17,anger,愤怒,甚至感到愤怒
+18,null,null,但随后转念
+19,null,null,认为既然太太出车祸已成事实
+20,null,null,那就得勇敢面对
+21,null,null,家人要齐心把家里给稳住
+22,null,null,才能让妻子找回信心
+23,null,null,两人的女儿玲玲说
+24,null,null,因为妈妈曾数度病危
+25,null,null,感到生命脆弱的她随即成长许多
+26,null,null,她表示因为曾失去过
+27,null,null,所以现在对家人和生命都会更珍惜
+819 16
+ (9,7), (9,8), (13,12)
+1,null,null,吕永锋说
+2,null,null,其实
+3,null,null,救人是件高兴的事
+4,null,null,何乐而不为
+5,null,null,吕永锋告诉记者
+6,null,null,因为救人
+7,null,null,儿子给他竖大拇指
+8,null,null,老婆也表扬他
+9,happiness,高兴,他为此高兴了好几天
+10,null,null,最近
+11,null,null,老父亲过来看他们
+12,null,null,听说了他救人的事
+13,happiness,高兴,也高兴得不得了
+14,null,null,把报道他的报纸政府发的荣誉证书全都包好带回了老家
+15,null,null,说是要珍藏起来
+16,null,null,留着教育下一代
+829 13
+ (5,3)
+1,null,null,在25日早上
+2,null,null,睿睿的外公接到了阳逻派出所打来的电话
+3,null,null,称找到了睿睿
+4,null,null,得到消息后
+5,happiness,欣喜若狂,睿睿的家人欣喜若狂
+6,null,null,立刻赶往阳逻接孩子回家
+7,null,null,由于睿睿不会说话
+8,null,null,在外的4天4夜是怎么度过的
+9,null,null,家人不得而知
+10,null,null,据民警介绍
+11,null,null,睿睿先是被不知名的好心人送到了硚口社会福利院
+12,null,null,后因福利院满员
+13,null,null,他又被辗转送到了阳逻派出所
+834 12
+ (7,9)
+1,null,null,杜金领曾做过焊工
+2,null,null,现在瘦到了70多斤
+3,null,null,38岁看起来像老太太
+4,null,null,出去小孩都叫我奶奶
+5,null,null,家里洗衣做饭都依靠廖丹
+6,null,null,家中还有12岁的孩子
+7,fear,担心,廖丹之前担心
+8,null,null,如果他判刑了
+9,null,null,妻子和孩子的生活将陷入困境
+10,null,null,开庭当天早上
+11,null,null,廖丹特意拍醒睡梦中的儿子
+12,null,null,今后好好听你妈的话
+836 15
+ (9,6)
+1,null,null,为了筹集给妻子治病的钱
+2,null,null,常赞准备做点小生意
+3,null,null,但他长期在汽修厂工作
+4,null,null,毫无做生意的经验
+5,null,null,百般无奈下最终他选择了沿街叫卖西瓜这种最简单的生意
+6,null,null,做生意真难啊
+7,null,null,第一天上街
+8,null,null,我连钱袋子和零钱都不知道准备
+9,sadness,心酸,常赞说起来一阵心酸
+10,null,null,白天卖西瓜再累
+11,null,null,晚上还要去医院看望妻子
+12,null,null,常赞说
+13,null,null,康君性格好强
+14,null,null,有什么难受不愿意跟他说
+15,null,null,他恨不能每分每秒都陪在妻子身边

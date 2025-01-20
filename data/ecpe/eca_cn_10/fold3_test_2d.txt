@@ -1,0 +1,383 @@
+429 20
+ (14,12), (14,13)
+1,null,null,金医生说
+2,null,null,目前
+3,null,null,胡向红受伤的食指康复后
+4,null,null,不会影响自理能力
+5,null,null,但内固定康复要好一些
+6,null,null,现在伤口已经缝合
+7,null,null,如果再次手术将造成二次损伤
+8,null,null,劈柴伤手
+9,null,null,只为给老伴做口饭下午6点半
+10,null,null,记者跟着胡开庆来到他在郑店街涂洲村的家
+11,null,null,路上胡开庆说
+12,null,null,现在他父亲已经到肺结核晚期了
+13,null,null,母亲又受伤
+14,fear,担心,他非常担心
+15,null,null,胡向红一下车
+16,null,null,就径直走进了丈夫胡学江的房间
+17,null,null,记者还没进门就听到屋内传来的咳嗽声
+18,null,null,走进胡学江的卧室
+19,null,null,看到他面容憔悴地躺在床上
+20,null,null,十分的瘦弱
+430 8
+ (8,1)
+1,null,null,可偏偏有个男生同学竟然点了个赞
+2,null,null,把她气死了
+3,null,null,以前两人关系还不错
+4,null,null,她实在不明白对方怎么想的
+5,null,null,她给那男生打个电话
+6,null,null,果断绝交
+7,null,null,对此
+8,sadness,后悔,男生小孙也很后悔
+433 16
+ (3,1), (3,2)
+1,null,null,亲爱的涵涵看到你一天天长大
+2,null,null,从只会哭到开口喊爸爸
+3,happiness,自豪,这都让我无比自豪和欣慰
+4,null,null,我开始变得贪心
+5,null,null,甚至希望能见证你人生的每一时刻
+6,null,null,现在我只盼时间慢一点
+7,null,null,而我再抓紧一点
+8,null,null,这样给予你更多的爱
+9,null,null,就像歌里唱的那样
+10,null,null,谢谢你
+11,null,null,我的小怪物
+12,null,null,你是我写过的最美的情书
+13,null,null,爸爸也不知道能否陪你一生看日出
+14,null,null,不管
+15,null,null,最后爸爸去了哪里
+16,null,null,请记得爸爸是你一生的大树
+435 13
+ (6,4)
+1,null,null,昨日上午11时许
+2,null,null,成都商报记者来到自贡市东方广场
+3,null,null,见到了甘蔗西施的父亲陈实化名
+4,null,null,对于女儿小轩在网络上走红
+5,null,null,陈实化名并不感到高兴
+6,sadness,无奈,反而有些无奈
+7,null,null,陈实说
+8,null,null,七八年前
+9,null,null,他和妻子相继下岗
+10,null,null,为了维持生计开起了奶茶店
+11,null,null,小轩很懂事
+12,null,null,自初中开始
+13,null,null,就利用假期到店里帮忙
+439 14
+ (5,3), (13,12)
+1,null,null,前天下午
+2,null,null,家住宁波江东东柳的小郑化名在鼓楼逛街时
+3,null,null,钱包莫名其妙不见了
+4,null,null,包内现金不多但都是些重要的证件
+5,sadness,绝望,正当绝望时
+6,null,null,一位好心人将钱包送了回来
+7,null,null,小郑没有想到
+8,null,null,好心人是一位才来到宁波三天的贵州大哥
+9,null,null,冒着寒风
+10,null,null,在陌生的城市
+11,null,null,一路询问了半天
+12,null,null,徒步走了五六公里送上门来
+13,happiness,感动,感动的同时
+14,null,null,女孩将此事发在了微博上
+453 14
+ (4,2)
+1,null,null,用乐心的话说
+2,null,null,儿子走了
+3,null,null,这个曾经幸福的家庭便跌进了万丈深渊
+4,sadness,心灰意冷,心灰意冷已经无法形容他们现在的心情
+5,null,null,乐心说
+6,null,null,第一得养老吧
+7,null,null,第二个有病
+8,null,null,上医院得治病吧
+9,null,null,拿什么去
+10,null,null,我们怎么去
+11,null,null,医院我们还去不起
+12,null,null,养老院我们进不去啊
+13,null,null,没有给我们签字的啊
+14,null,null,人家都不收
+458 16
+ (6,8)
+1,null,null,平时这些小事一般不记
+2,null,null,因为是年三十
+3,null,null,大家在一起工作
+4,null,null,写下来留个纪念
+5,null,null,提起自己女朋友
+6,happiness,感激,袁阅非常感激
+7,null,null,她是个善解人意的女孩
+8,null,null,非常支持我
+9,null,null,平时我工作忙
+10,null,null,聚少离多
+11,null,null,她从不抱怨
+12,null,null,在2月3日的日记里
+13,null,null,袁阅写道今天执行沈阳至北京616
+14,null,null,她提前买好票
+15,null,null,往返坐10个小时火车
+16,null,null,只为能陪陪我
+470 10
+ (8,6)
+1,null,null,没想到
+2,null,null,那女人一下从地上跳了起来
+3,null,null,指着范先生的鼻子嚷嚷小姐是你乱叫的吗
+4,null,null,我像坐台的吗
+5,null,null,范先生刚想解释
+6,null,null,女人又是一阵臭骂
+7,null,null,这下
+8,anger,恼火,范先生也恼火了
+9,null,null,说我看你就像混夜场的怎么样
+10,null,null,随后两人发生激烈争吵
+476 11
+ (6,4)
+1,null,null,阳明大学附设医院指出
+2,null,null,台湾器官移植技术已经成熟
+3,null,null,但器官来源仍有困难
+4,null,null,曲家的大爱
+5,null,null,让更多人能活下来
+6,happiness,佩服,让人佩服及感动
+7,null,null,值得肯定
+8,null,null,目前
+9,null,null,全台还有8千多人等待器官移植
+10,null,null,期望大家发挥大爱
+11,null,null,让更多人重生
+477 12
+ (11,9)
+1,null,null,此刻
+2,null,null,他唯一可以做的就是用绳子拴着孩子去街上跑摩的
+3,null,null,似乎只有这个时候
+4,null,null,豪豪才会露出久违的笑容
+5,null,null,两米长的粗布绳子一头拴在摩的上
+6,null,null,另一头拴在孩子的腰上
+7,null,null,有人说这是现实版的爸爸去哪儿
+8,null,null,老杜笑着点了点头说真想一辈子把娃拴在身边
+9,null,null,豪豪患上了自闭症
+10,null,null,这是个世界医学难题
+11,sadness,痛苦绝望,无数个和杜建民相同的家庭为此痛苦绝望
+12,null,null,甚至是支离破碎
+501 16
+ (6,5), (9,7)
+1,null,null,昨晚
+2,null,null,华西都市报记者采访了吴颂今
+3,null,null,听他讲述了创作包子铺的背后故事去年12月28日
+4,null,null,我从电视上看到新闻报道
+5,null,null,说是习主席在北京排队买包子
+6,happiness,激动,心情很激动
+7,null,null,这种亲民作风
+8,null,null,大街小巷都在热议
+9,happiness,感动,也深深感动了我
+10,null,null,于是
+11,null,null,我和作词者邹当荣合作
+12,null,null,满怀激情地用了三天时间
+13,null,null,创作出包子铺歌词
+14,null,null,接着我又用了七天时间
+15,null,null,借用京剧的曲调
+16,null,null,谱成了包子铺歌曲
+506 11
+ (7,5), (7,6)
+1,null,null,据他称
+2,null,null,他姓朱
+3,null,null,是四川自贡人
+4,null,null,在家从事装修行业
+5,null,null,因为被上聊了三个多月的女网友甩了
+6,null,null,坐飞机到北京找不到人
+7,disgust,郁闷,心里郁闷便喝了一瓶酒
+8,null,null,因为酒劲发作
+9,null,null,才上演了裸奔北京西站的一幕
+10,null,null,目前
+11,null,null,民警正在根据其提供的身份证号联系男子家属
+511 12
+ (8,5), (8,6)
+1,null,null,一天
+2,null,null,小飞又到学校门口堵小蕊
+3,null,null,在尾随父女俩走到一个胡同时
+4,null,null,小飞欲上前与小蕊搭话
+5,null,null,小蕊的父亲却出面对他一顿痛骂
+6,null,null,还准备上前动手打他
+7,null,null,幸亏被小蕊拦下
+8,anger,激怒,小飞也因此被激怒
+9,null,null,再回想起这段时期所受的委屈痛苦
+10,null,null,他迅速掏出裤兜里的刀子
+11,null,null,朝小蕊胸前重重地连捅四刀
+12,null,null,随后转头跑掉
+512 11
+ (6,4)
+1,null,null,小飞也因此被激怒
+2,null,null,再回想起这段时期所受的委屈痛苦
+3,null,null,他迅速掏出裤兜里的刀子
+4,null,null,朝小蕊胸前重重地连捅四刀
+5,null,null,随后转头跑掉
+6,surprise,震惊,等小蕊父亲从震惊中清醒过来时
+7,null,null,小飞已经跑得很远了
+8,null,null,虽然父亲以最快的速度将小蕊送往医院救治
+9,null,null,可由于伤口较深
+10,null,null,小蕊因胸腔受伤严重造成了血气胸
+11,null,null,且两根肋骨骨折
+525 10
+ (6,4)
+1,null,null,事情要从去年12月27日说起
+2,null,null,当天下午2点半
+3,null,null,王先生的岳父孙老先生出门散步
+4,null,null,一直到下午6点多还没回家
+5,null,null,因为老人没带通讯工具
+6,fear,着急,一家人非常着急
+7,null,null,王先生说
+8,null,null,种种方式都试过
+9,null,null,但仍没有老人的消息
+10,null,null,这时时间已到了晚上10点半
+527 13
+ (7,9)
+1,null,null,虽然一生坎坷
+2,null,null,王阿姨却很乐观
+3,null,null,我这人福大命大
+4,null,null,风风雨雨
+5,null,null,习惯了
+6,null,null,但昨日出事后
+7,fear,担心,王阿姨还是担心
+8,null,null,她不担心自己受伤
+9,null,null,却怕这事让女儿知道
+10,null,null,她一直不同意我出来工作
+11,null,null,这事如果她听说了
+12,null,null,肯定和我吵吵
+13,null,null,王阿姨说
+540 12
+ (7,5)
+1,null,null,大火是从居民楼西侧开始燃烧的
+2,null,null,居民刘先生告诉记者
+3,null,null,也就是10分钟的工夫
+4,null,null,大火借着风势一路烧到了东边
+5,null,null,很快引燃了整个楼顶
+6,null,null,壮小伙背起老人逃生起火楼下聚集着数十位衣着单薄的居民
+7,fear,惊恐,不少居民还未从刚才的惊恐中缓过来
+8,null,null,真是吓死了
+9,null,null,一名80多岁的老大爷告诉记者
+10,null,null,他家住七楼
+11,null,null,火灾发生时只有他和老伴在家
+12,null,null,根本就不知道楼顶已经起了大火
+558 12
+ (7,4), (7,5)
+1,null,null,他说
+2,null,null,如果哪天他真的走了
+3,null,null,他也没什么好遗憾的
+4,null,null,有同学的帮助
+5,null,null,有社会上好心人的捐助
+6,null,null,让我多活了这么久
+7,happiness,感激,我心里很感激
+8,null,null,届时生命结束了
+9,null,null,我希望捐献遗体
+10,null,null,把有用的器官捐献出来
+11,null,null,去帮助那些有需要的人
+12,null,null,回报社会
+561 11
+ (7,9)
+1,null,null,去年12月
+2,null,null,查出来癌症又复发了
+3,null,null,医生要我切除整个子宫
+4,null,null,知道手术后需要化疗
+5,null,null,需要费用
+6,null,null,陈敏莉不得不放弃
+7,sadness,难受,更让她难受的是
+8,null,null,最简单的治疗
+9,null,null,她也无力应付费用
+10,null,null,痛的时候要打止痛针
+11,null,null,吊水的钱还是别人帮我筹来的
+567 19
+ (4,3), (13,12), (17,15)
+1,null,null,但汉斯一听到这些
+2,null,null,就显得很有醋意
+3,null,null,宋扬有了儿子
+4,happiness,开心,汉斯也很开心
+5,null,null,从小就教他说英语
+6,null,null,他还会说西班牙语和德语
+7,null,null,经常到楼下小区内教孩子们英语
+8,null,null,武术节期间
+9,null,null,他还帮助做了不少翻译工作
+10,null,null,被评为先进工作者
+11,null,null,会议结束后
+12,null,null,市里组织所有参与者去旅游
+13,happiness,激动,老人非常激动
+14,null,null,但上车之前
+15,null,null,导游说他年龄太大不能去
+16,null,null,大家都能看出
+17,sadness,失落,汉斯很失落
+18,null,null,他就像老小孩儿
+19,null,null,爱吃醋
+584 13
+ (11,8)
+1,null,null,欧阳占仲刚把女婴抱出厕所
+2,null,null,就发现不远处有名男子正盯着他看
+3,null,null,我跟他对视了一下
+4,null,null,他转身就跑了
+5,null,null,我追了半天也没追上
+6,null,null,总觉得他可能是党培的爸爸
+7,null,null,不论如何
+8,null,null,也不能把亲生闺女给抛弃了啊
+9,null,null,时隔33年
+10,null,null,欧阳占仲在接受记者采访时
+11,sadness,痛心,仍对此感到痛心
+12,null,null,在确定党培是弃婴后
+13,null,null,欧阳占仲将她送到了当地民政部门设立的孤儿院里
+599 18
+ (8,10)
+1,null,null,热心市民围人墙遮挡寒风在救护车未到前
+2,null,null,十几个过往市民围成一个圈
+3,null,null,为钟远萍母女挡住寒风
+4,null,null,好心人拿出钟远萍包中的婴儿被子包裹着孩子
+5,null,null,要不要奶粉
+6,null,null,我给你拿奶粉下来
+7,null,null,一位初为人母的女士连忙上楼给钟远萍拿奶粉
+8,happiness,感动,非常感动
+9,null,null,以为现场是她的亲戚
+10,null,null,没想到全是不认识的周边群众
+11,null,null,妇产科医师于进强说
+12,null,null,当时室外温度不足10℃
+13,null,null,新生儿产热有限
+14,null,null,身上附着羊水是非常冷的
+15,null,null,包裹包得非常好
+16,null,null,很保暖
+17,null,null,孩子面色红润
+18,null,null,哭声响亮
+602 8
+ (6,8)
+1,null,null,今年以来
+2,null,null,随着老人年龄越来越大
+3,null,null,该社区居委会陆续安排志愿者接过老人的扫帚
+4,null,null,代替老人继续将桥扫下去
+5,null,null,并准备于11月29日举办窦珍志愿者服务队扫桥交接仪式
+6,sadness,惋惜,令人惋惜的是
+7,null,null,没等到仪式正式举行的这一天
+8,null,null,老人就先走了
+604 15
+ (7,9)
+1,null,null,截至目前
+2,null,null,他已经在医院躺了47天
+3,null,null,而仅仅在重症监护病房
+4,null,null,他就已经躺了35天
+5,null,null,他从鬼门关硬是被医生给拉了回来
+6,null,null,医药费已花了十多万元
+7,happiness,感动,而让他和父亲感动的是
+8,null,null,在他们急需手术又没钱但又急需输血的情况下
+9,null,null,和他们素不相识的该院骨科主任何双华拿出2万元现金
+10,null,null,让他们先拿钱去救人
+11,null,null,很意外
+12,null,null,也很感动
+13,null,null,孙凯的父亲孙先生表示
+14,null,null,何医生给钱的时候
+15,null,null,他就在病房内
+607 9
+ (6,4)
+1,null,null,当时
+2,null,null,可能女孩感觉耳朵里的音乐没有了
+3,null,null,下意识地摸了摸手机
+4,null,null,发现自己的苹果手机不见了之后
+5,null,null,女孩不知道如何是好
+6,fear,着急,特别地着急
+7,null,null,小朱说
+8,null,null,见状
+9,null,null,他跟同学小郑想都没想立马往小偷跑的方向追
+616 7
+ (4,2)
+1,null,null,几年前
+2,null,null,他的老丈人死于一场没有找到肇事者的车祸
+3,null,null,那起事故在陈天翼母女心中一直留着个阴影
+4,sadness,伤心,让母女俩伤心痛苦了好一阵子
+5,null,null,陈天翼的母亲后来得了轻微帕金森症半身瘫痪
+6,null,null,现在陈天翼又因为事故离开人世
+7,null,null,这是陈天翼的母亲无法接受的

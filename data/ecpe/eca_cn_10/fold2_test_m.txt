@@ -1,0 +1,274 @@
+218 16
+ (4,1), (4,2)
+1,null,null,他 只好 向 妻子 提出 离婚
+2,null,null,一直 被 蒙在鼓里 的 妻子
+3,null,null,犹如 晴天霹雳
+4,anger,气得大哭,气得 大哭 一场
+5,null,null,虽然 一万个 不 愿意
+6,null,null,但 看到 丈夫 情义 已绝
+7,null,null,只好 签 了 字
+8,null,null,李渡 自感 违心
+9,null,null,净身 出户
+10,null,null,谎言 连篇 的 情人 不辞而别 李渡 离婚 后 几次 向 美奇 提出 结婚
+11,null,null,美奇 却 一点儿 也 不 着急
+12,null,null,美奇 之前 住 在 妹妹 的 出租屋
+13,null,null,李渡 提出 再租 一套 房子 住
+14,null,null,美奇 说 住 宾馆
+15,null,null,吃 饭店
+16,null,null,这多 方便 啊
+221 18
+ (7,6), (18,17)
+1,null,null,徐先生 的 妻子 35 岁 左右
+2,null,null,漂亮 又 性感
+3,null,null,夫妻俩 结婚 虽然 有 七八年 了
+4,null,null,儿子 都 6 岁 了
+5,null,null,但 夫妻俩 感情 一直 不错
+6,null,null,老公 一门心思 看 世界杯
+7,sadness,不高兴,妻子 自然 心里 不 高兴 了
+8,null,null,但 也 没 办法
+9,null,null,看 完球 后 他 叫醒 妻子
+10,null,null,不料 太 激动 了 周一 凌晨 3 点多
+11,null,null,荷兰队 2 ∶ 1 赢 了 墨西哥队
+12,null,null,挺近 8 世界杯 八强
+13,null,null,作为 荷兰队 的 铁杆 球迷
+14,null,null,徐先生 激动 坏 了
+15,null,null,回到 房间
+16,null,null,看看 妻子 熟睡 的 脸
+17,null,null,他 突然 意识 到 最近 太 冷落 妻子 了
+18,sadness,过意不去,有些 过意不去
+237 11
+ (8,7), (10,9)
+1,null,null,让 徐连林 没想到 的 是
+2,null,null,有 七八位 乘客 竟然 留 了 下来
+3,null,null,他们 都 坐在 车上
+4,null,null,生怕 老太 讹 上 司机
+5,null,null,说 要 等 警察 来 了
+6,null,null,一起 去 派出所 作证
+7,null,null,我 车头 的 监控 是 坏 的
+8,fear,紧张,我 当时 心里 紧张 得 一塌糊涂
+9,null,null,看到 有 这么 多 乘客 愿意 留下来 帮 我 作证
+10,happiness,激动,当时 激动 得 都 忘 了 说 谢谢 了
+11,null,null,徐连林 如是说
+243 13
+ (7,6), (13,12)
+1,null,null,2013 年 8 月 20 日
+2,null,null,二人 约 好
+3,null,null,打算 次日 回 湖南 办理 离婚 手续
+4,null,null,小美说
+5,null,null,当日 下午 4 时许
+6,null,null,她 听到 大雄 在 电话 中 和 朋友 说 想 离婚 后 再娶
+7,anger,气愤,感觉 十分 气愤
+8,null,null,便 从 菜市场 买 了 一瓶 农药 回家
+9,null,null,准备 自杀
+10,null,null,晚上 10 时许
+11,null,null,一名 老乡 来到 店里 问起 小 美的 情况
+12,null,null,大 雄 抱怨 小美 不好
+13,sadness,难受,她 听到 后 感到 既 难受 又 生气
+263 15
+ (1,1), (4,5)
+1,happiness,激动,看到 这些 画 我 特别 激动
+2,null,null,把 画 摆 了 满满 一地
+3,null,null,边 摆边 流泪
+4,sadness,愧疚,我 很 愧疚
+5,null,null,我 对 老爸 了解 太少 了
+6,null,null,我 是 1965 年 出生 的
+7,null,null,我 找 不到 1965 年 之后 的 画
+8,null,null,我 想 父亲 一定 是因为 有 了 我
+9,null,null,工作 生活 压力 太 大
+10,null,null,才 被迫 放下 画笔
+11,null,null,李东凯 动情 地说
+12,null,null,如果 父亲 坚持 画下去
+13,null,null,说不定 会 有 一定 成就
+14,null,null,还有 一张 我 二姐 小时候 的 肖像画
+15,null,null,看得人 直想 哭
+266 10
+ (6,4), (7,8)
+1,null,null,通过 努力
+2,null,null,王 高兴 与 几位 志同道合 的 朋友
+3,null,null,在 今年 2 月 成立 了 这家 摄影 工作室
+4,null,null,随着 顾客 的 订单 越来越 多
+5,null,null,虽然 经常 熬夜 修片
+6,happiness,乐在其中,但王 高兴 却 乐在其中
+7,fear,担忧,可 这份 快乐 始终 蒙着 一层 担忧
+8,null,null,父母 还 不 知道 她 辞职 的 事
+9,null,null,而 她 也 不 知道 该 怎样 向 父母 开口
+10,null,null,尤其 是 对 母亲
+268 15
+ (14,14), (2,1)
+1,null,null,听说 能 回家
+2,happiness,激动,赵鹏 激动 得 整夜 未眠 昨日 上午
+3,null,null,省 肿瘤医院 5 号楼 5 楼 30 床 病房
+4,null,null,时而 欢声笑语
+5,null,null,时而 言语 哽咽
+6,null,null,一名 患有 可再生 障碍性 贫血 的 患者 即将 出院
+7,null,null,为了 这 一天
+8,null,null,一名 父亲 坚持 了 12 年
+9,null,null,现场 没有 仪式
+10,null,null,办理 完 出院 手续
+11,null,null,父子俩 各 拎 一两个 包
+12,null,null,普普通通
+13,null,null,但凡 见证 过 这段 经历 的
+14,happiness,无不动容,看到 这一 场景 无不 动容
+15,null,null,感慨万千
+270 9
+ (2,1), (9,8)
+1,null,null,小孙子 被 开水 烫伤
+2,fear,着急,着急 回家 的 张大妈 不慎 将 挎包 遗落 在 出租车 上
+3,null,null,出租车 司机 发现 老人 遗落 的 挎包 后
+4,null,null,在 小区 门口 等 了 半个 多 小时
+5,null,null,直到 张大妈 出来
+6,null,null,张大妈 今年 62 岁
+7,null,null,家住 省会 裕华 路 与 苑 东街 交叉口 附近 某 小区
+8,null,null,一 说起 昨日 上午 她 遇到 的 事
+9,happiness,感动,老人 的 言语 中 充满 了 感动
+273 15
+ (5,4), (13,14)
+1,null,null,2009 年 春节前夕
+2,null,null,龙 婆婆 再次 拨通 儿子 电话
+3,null,null,希望 他 能 回家 过年
+4,null,null,儿子 也 同意 了
+5,happiness,高兴坏了,当时 我 和 我 老伴 高兴 坏 了
+6,null,null,立马 打电话 给 两个 女儿
+7,null,null,嘱咐 她们 那天 一定 要 早点 回家
+8,null,null,龙 婆婆 说
+9,null,null,那天 早上 五点
+10,null,null,老两口 就 起床 煲汤
+11,null,null,忙碌 了 一 早上 后
+12,null,null,终于 等到 了 多年不见 的 儿子
+13,sadness,失望,但 让 两人 失望 的 是
+14,null,null,儿媳 和 孙女 并 没有 一起 回家
+15,null,null,儿子 也 只 坐 了 几分钟
+287 12
+ (8,6), (8,7)
+1,null,null,约 10 年前
+2,null,null,事主 抛妻 弃子
+3,null,null,独自 到 上海 任 保安 主管
+4,null,null,收入 不俗
+5,null,null,但 10 年来 没有 与 香港 的 妻儿 联络
+6,null,null,但 近年 事主 金钱 散尽
+7,null,null,加上 年纪 老迈
+8,fear,担心,担心 不获 公司 续约
+9,null,null,晚年生活 无依
+10,null,null,去年 开始 他 多次 返港 寻 妻儿
+11,null,null,盼 一家 团圆
+12,null,null,但 被 家人 拒绝
+337 17
+ (7,6), (13,13)
+1,null,null,2011 年 67 月间
+2,null,null,萍萍 怀有 身孕
+3,null,null,次年 就生 了 一个 儿子
+4,null,null,由于 不 知道 是 丈夫 的 还是 余 某 的
+5,null,null,她 就 告诉 余某 孩子 是 他 的
+6,null,null,得知 情妇 给 自己 生 了 个 大 胖小子
+7,happiness,高兴,余某 显得 格外 高兴
+8,null,null,对萍萍 和 孩子 也 是 体贴 有加
+9,null,null,在 母子 二人 身上 花 了 很多 钱
+10,null,null,也 花 了 不少 的 精力
+11,null,null,但是
+12,null,null,还 未 等 余 某 高兴 几天
+13,sadness,崩溃,一次 亲子鉴定 就让 余某 彻底 崩溃 了
+14,null,null,原来
+15,null,null,余某 为了 确认 孩子 是 自己 亲生 的
+16,null,null,就 和 萍萍 一同 带 着 孩子 去 南京 做 了 一次 亲子鉴定
+17,null,null,而 鉴定 结果 却是 — — 孩子 不是 他 的
+376 14
+ (8,7), (9,8), (12,11)
+1,null,null,为 查清 妻子 是否 出轨
+2,null,null,2014 年 年初
+3,null,null,张某 背着 胡某 偷偷 在家 安装 了 一个 摄像头
+4,null,null,没过多久
+5,null,null,胡某 就 发现 了 家中 多 出来 的 摄像头
+6,null,null,并 为此 和 张 某 吵 了 一架
+7,null,null,争吵 中
+8,anger,气愤,气愤 的 张 某 竟然 说出 了 安装 摄像头 就是 为了 查清 胡某 是否 出轨
+9,anger,气,胡某 越 想 越气
+10,null,null,跑 到 法院 起诉 离婚
+11,null,null,见到 妻子 动真格的 了
+12,fear,吓,张某 吓 得 是 声泪俱下
+13,null,null,向 胡某 道歉
+14,null,null,妻子 这才 原谅 了 他
+380 6
+ (5,3), (5,4)
+1,null,null,包括 震惊全国 的 安康市 汉阴 邱 兴华 杀死 10 人案
+2,null,null,一定 程度 上 也 是因为 感情 纠纷
+3,null,null,邱 兴华 与 道观 管理人员 发生争执
+4,null,null,并 认为 道观 住持 有 调戏 他 妻子 的 行为
+5,anger,愤怒,因此 心 生 愤怒
+6,null,null,产生 杀人 灭庙 的 恶念
+387 13
+ (7,6), (11,10)
+1,null,null,丽敏 看到 邢 大伟 的 衣服 掉 在 地上
+2,null,null,她 帮 着 收拾
+3,null,null,无意间 看到 衣服 口袋 里 的 手机
+4,null,null,她 出于 好奇 取出 手机 翻看
+5,null,null,结果 发现 手机 关机
+6,null,null,一个 生意人 平时 怎么 可能 关机
+7,disgust,起了疑心,丽敏 突然 起 了 疑心
+8,null,null,邢 大伟 的 手机 开机 密码 就是 丽敏 的 生日
+9,null,null,丽敏 顺利 地 打开 手机
+10,null,null,在 微信 中 她 发现 几条 信息内容 暧昧
+11,anger,火冒三丈,不由得 火冒三丈
+12,null,null,想想 自己 为 他 付出 那么 多
+13,null,null,他 竟然 还 与 其他 女人 有染
+389 12
+ (9,7), (9,8)
+1,null,null,两人 随即 发生 激烈 争吵
+2,null,null,邢 大伟 受不了 丽敏 的 责骂
+3,null,null,提高 嗓门 回应 你 以为 你 是 什么 好 东西 吗
+4,null,null,你 也 不是 我 老婆
+5,null,null,即使 你 是 我 老婆
+6,null,null,也 管不了 我
+7,null,null,丽敏 想到 自己 的 感情 被 骗
+8,null,null,还 为 他 落下 巨额 债务
+9,anger,盛怒,盛怒之下
+10,null,null,丽敏 冲进 厨房
+11,null,null,操 起 一把 长约 三十厘米 的 水果刀
+12,null,null,对 着 邢 大伟 便 刺
+391 6
+ (1,1), (5,4)
+1,fear,吓,丽敏 也 被 眼前 发生 的 一幕 吓呆了
+2,null,null,她 慌忙 扔掉 手里 的 刀
+3,null,null,用 毛巾 捂住 邢 大伟 的 伤口
+4,null,null,见 仍然 无法 止住 血
+5,fear,害怕,丽敏 害怕 了
+6,null,null,急忙 叫 女儿 拿来 手机 拨打 110 报警
+394 11
+ (9,10), (9,11)
+1,null,null,28 日 凌晨 1 点 左右
+2,null,null,汪汀 和 同事 们 赶到 两口子 家时
+3,null,null,周礼 也 已经 回家
+4,null,null,孩子 是 周礼 的 好友 送 回来 的
+5,null,null,他 同时 也 打电话 把 周礼 劝回 了 家
+6,null,null,让 汪汀 和 同事 揪心 的 是
+7,null,null,周礼 2 岁 半 的 儿子 已带 着 泪痕 睡着
+8,null,null,11 岁 的 女儿 仍 在 哭
+9,fear,害怕,女孩 很 害怕
+10,null,null,她 担心 父母 吵架
+11,null,null,更 担心 再次 被 丢弃
+400 10
+ (5,4), (9,7), (9,8)
+1,null,null,在 25 分钟 的 电话 和 视频 中
+2,null,null,女儿 和 母亲 最 关心 的 是
+3,null,null,孔庆 和 什么 时候 回去 看 他们
+4,null,null,也 就是 这些 普通 的话
+5,happiness,感动,感动 了 现场 所有 的 人
+6,null,null,如今 我 也 做 外公 了
+7,null,null,得知 女儿 已经 嫁人
+8,null,null,并 生下 小孩 后
+9,happiness,激动,孔庆 和 很 激动
+10,null,null,称 这些 都 是 龙川 中心 派出所 民警 的 功劳
+413 13
+ (4,2), (4,3)
+1,null,null,到 响水 老家 后
+2,null,null,吴丹 表现 得 乖巧 伶俐
+3,null,null,对 家务活 更是 抢 着 干
+4,happiness,开心,这 让 未来 的 婆婆 十分 开心
+5,null,null,不过 在 大年 初六 下午
+6,null,null,吴丹 急匆匆 地 找到 婆婆
+7,null,null,阿姨
+8,null,null,不好 了
+9,null,null,我 爸爸 生病 住院 了
+10,null,null,我 今年过年 一天 都 没 回家
+11,null,null,都 跟着 王伟 陪您 了
+12,null,null,现在 可 怎么办 啊 — — 此时
+13,null,null,王伟 刚好 不 在家

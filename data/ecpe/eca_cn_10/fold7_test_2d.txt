@@ -1,0 +1,276 @@
+1275 19
+ (17,15), (17,16)
+1,null,null,李涛介绍
+2,null,null,每当经过有水
+3,null,null,有桥的地方
+4,null,null,他都会想起儿子
+5,null,null,都会喊喊儿子的名字
+6,null,null,情不自禁的思念儿子
+7,null,null,当两个孩子长大一点的时候
+8,null,null,李涛一有空
+9,null,null,都会给子女讲述龙龙的事情
+10,null,null,让他们一定要好好学习
+11,null,null,听爸爸妈妈的话
+12,null,null,如今
+13,null,null,李涛的两个双胞胎孩子
+14,null,null,已经14岁了
+15,null,null,学习成绩好
+16,null,null,又非常聪明
+17,happiness,欣慰,让夫妻俩十分欣慰
+18,null,null,夫妻俩想着一定要把两个孩子培养成才
+19,null,null,一家人生活得非常幸福
+1278 11
+ (10,8), (10,9)
+1,null,null,龙龙的妻子很孝顺
+2,null,null,也很体贴
+3,null,null,李涛夫妇非常喜欢这个外国儿媳妇
+4,null,null,夫妇俩从不与龙龙视频
+5,null,null,因为龙龙和养父生活在一起
+6,null,null,他们要顾及龙龙养父的感受
+7,null,null,李涛夫妇告诉记者
+8,null,null,知道龙龙现在还活着
+9,null,null,还这么有出息
+10,happiness,高兴,真的是非常高兴
+11,null,null,这件事是天大的喜事和好事
+1297 13
+ (6,4), (6,5)
+1,null,null,在父亲的开导下
+2,null,null,张成告诉父亲
+3,null,null,当日喝酒是因为那天是他的生日
+4,null,null,由于思念自己生母张成7岁丧母
+5,null,null,并且因为住校不能回家与家人一起庆祝生日
+6,disgust,郁闷,备感郁闷
+7,null,null,才买了一瓶红星二锅头
+8,null,null,自己偷偷喝掉
+9,null,null,并把酒瓶藏在了床下
+10,null,null,随后
+11,null,null,张成和父亲再次找到秦老师承认错误
+12,null,null,但秦老师表示张成必须写检查
+13,null,null,还要当着全班同学的面念检查
+1310 15
+ (3,1)
+1,null,null,自从滕州这只悲催的哈士奇被当成狼对待之后
+2,null,null,事件迅速在网上发酵
+3,fear,焦虑,家有爱宠哈士奇的网友深表焦虑
+4,null,null,纷纷表示要限制自家小哈出门
+5,null,null,就算带出去溜达
+6,null,null,也要两手准备在小哈脖子上挂个牌牌
+7,null,null,上书我不是狼
+8,null,null,另外更要时刻拽紧狗绳
+9,null,null,以防砖家指狗为狼
+10,null,null,如果实在没有时间陪它出门
+11,null,null,还有一个万全之策把小哈的毛剃掉一部分具体形状见图
+12,null,null,但很可能麻烦会跟着来
+13,null,null,据网友分析
+14,null,null,这种样貌的狗狗在外溜达
+15,null,null,很有可能以流氓罪被逮捕
+1331 15
+ (12,10)
+1,null,null,4月7日吃完晚饭后
+2,null,null,儿媳提出要去方便
+3,null,null,把两个月大的孩子递到李长女怀里时
+4,null,null,李长女立即抱着孙子走向屋后的一口水井
+5,null,null,因太慌乱
+6,null,null,李长女还摔了一跤
+7,null,null,起身后
+8,null,null,李长女走到水井边
+9,null,null,松开双手
+10,null,null,眼睁睁看着孙子坠落
+11,null,null,事后
+12,sadness,后悔,李长女又后悔又害怕
+13,null,null,躲进了邻村一间废弃的屋子里
+14,null,null,儿媳上完卫生间后发现婆婆和儿子均不知去向
+15,null,null,经全力寻找竟然发现儿子死在家后面的水井内
+1336 16
+ (8,7), (9,7), (13,13)
+1,null,null,去年11月
+2,null,null,14岁的提娅在和男友乔丹偷吃禁果后
+3,null,null,竟然一不小心怀上了身孕
+4,null,null,随着腹部不断隆起
+5,null,null,提娅意识到无法继续隐瞒下去
+6,null,null,不得不把自己怀孕的事实告诉了父亲
+7,null,null,当山姆得知14岁的女儿竟然怀上身孕后
+8,surprise,惊呆,他顿时被彻底惊呆了
+9,anger,暴跳如雷,继而暴跳如雷
+10,null,null,山姆回忆称我14岁时女儿就出生了
+11,null,null,现在她14岁就怀上了孩子
+12,null,null,这就仿佛历史再次重演一样
+13,anger,恼火,我为女儿小小年纪就怀上身孕而恼火不已
+14,null,null,由于我有亲身体验
+15,null,null,所以我知道十来岁就当上爹妈的日子有多么艰难
+16,null,null,而现在她必须经历同样的磨难
+1340 13
+ (5,5), (6,11)
+1,null,null,最有趣的是
+2,null,null,刚当上外公的山姆和他的新女友罗冰托马斯还生有一名9个月大的儿子
+3,null,null,这意味着
+4,null,null,提娅刚出生的女儿艾娃将必须称这名只比她大9个月的男婴叫舅舅
+5,happiness,高兴,尽管提娅的出生让山姆一家都高兴万分
+6,sadness,忧心忡忡,但已经与山姆分手的前女友刚当上外婆的凯丽却有些忧心忡忡
+7,null,null,如今30岁的凯丽是一名咖啡店员工
+8,null,null,她说当年我无法应付成为少女妈妈后带来的压力
+9,null,null,选择了逃跑
+10,null,null,一直以来
+11,null,null,我最坏的噩梦就是提娅会重复我的错误
+12,null,null,年纪轻轻就怀孕生子
+13,null,null,但万万没有想到噩梦还是变为了现实
+1369 16
+ (5,3)
+1,null,null,2003年12月27日
+2,null,null,网友骑士精神在百度音乐贴吧中发表了她在网上的第一个帖子喜欢周杰伦的请来
+3,null,null,5年来该帖始终无人关注
+4,null,null,今年9月24日
+5,sadness,伤心,她伤心地自我回帖
+6,null,null,不料却引来众多网友围观
+7,null,null,并将该帖奉为神帖
+8,null,null,截至9月28日21时
+9,null,null,这个帖子已吸引超过23万人次的浏览量
+10,null,null,超过5500名网友跟帖围观
+11,null,null,在记者的在线采访中
+12,null,null,骑士精神说
+13,null,null,她很喜欢看自己发过的帖
+14,null,null,不是每天都关注
+15,null,null,最少每周都会关注
+16,null,null,但5年多来帖子始终没有响应者
+1383 14
+ (9,7)
+1,null,null,在河源紫金县
+2,null,null,村民黄天维在草丛里抓到一条小蟒蛇
+3,null,null,就把它养了起来
+4,null,null,5天后
+5,null,null,蟒蛇爸爸找来了
+6,null,null,又被村民抓到和小蟒蛇放在一起
+7,null,null,父子团聚
+8,null,null,相互缠在一起
+9,happiness,欢喜,甚是欢喜
+10,null,null,前日上午
+11,null,null,村民把两条蛇交给了森林公安放养
+12,null,null,据村民称
+13,null,null,他们山上经常有蟒蛇出没
+14,null,null,两年就抓到4条大蟒蛇
+1404 15
+ (8,7), (11,9)
+1,null,null,从2005年开始
+2,null,null,成士忠开始准备创作
+3,null,null,每天有空去证券交易所时
+4,null,null,都会带上本子和笔
+5,null,null,观察和记录小股民的神态
+6,null,null,他发现
+7,null,null,当股票上涨时
+8,happiness,兴奋,股民往往兴奋得大叫
+9,null,null,暴跌时
+10,null,null,一些股民则捶胸顿足
+11,sadness,失声痛哭,失声痛哭
+12,null,null,成士忠把这些全都记了下来
+13,null,null,近三年时间里
+14,null,null,成士忠记录下10余万字
+15,null,null,几个笔记本记得满满的
+1426 19
+ (16,14)
+1,null,null,警讯中
+2,null,null,王嫌供称他先前到光华商场送修笔记本电脑
+3,null,null,等待期间逛到申弘公司选看一部高价计算机时
+4,null,null,店员讥讽他这台你买不起
+5,null,null,你看别台
+6,null,null,他觉得受到羞辱
+7,null,null,才找上罗嫌帮忙找人砸店报复
+8,null,null,罗嫌则供称替王嫌出气
+9,null,null,找来2名网吧认识的朋友一起行动
+10,null,null,不过
+11,null,null,店员对羞辱王嫌一事却毫无印象
+12,null,null,警方访查店家
+13,null,null,也得知王嫌与申弘公司的刘姓老板认识
+14,null,null,案发前曾向刘借钱不成
+15,null,null,气呼呼离去
+16,disgust,怨恨,不排除他为此心生怨恨
+17,null,null,蓄意砸店报复
+18,null,null,昨天先依毁损及恐吓罪嫌送办
+19,null,null,并追缉在逃共犯
+1430 18
+ (11,9)
+1,null,null,小章刚参加工作不久
+2,null,null,在一家公司做编程
+3,null,null,每天起早贪黑
+4,null,null,周末也是常常加班
+5,null,null,几乎没有什么业余时间
+6,null,null,一个月前
+7,null,null,他就掰着手指盼清明小长假了
+8,null,null,领导说
+9,null,null,这个假期公司不加班
+10,null,null,让大家好好休息一下
+11,happiness,高兴,小章心里可高兴了
+12,null,null,他特别爱唱歌
+13,null,null,已经很久没去了
+14,null,null,嗓子都痒了
+15,null,null,清明假期一到
+16,null,null,小章就叫上了三四位好哥们
+17,null,null,匆匆吃了午饭
+18,null,null,精神抖擞地去歌了
+1444 8
+ (3,5)
+1,null,null,武耀宗被授予郑州市见义勇为模范荣誉称号数日来
+2,null,null,大学生武耀宗跳水救人一事引发社会广泛关注
+3,sadness,痛心,令人痛心的是
+4,null,null,6天过去了
+5,null,null,仍未找到武耀宗
+6,null,null,昨日一早
+7,null,null,郑州市公安局部分民警武耀宗亲属及生前同学被救孩子及家人等100余人
+8,null,null,在他跳水救人的黄河岸边举行悼念送别仪式
+1457 23
+ (11,9), (18,17)
+1,null,null,当天晚上10点多
+2,null,null,宋女士终于赶到坂田派出所
+3,null,null,她紧紧地抱住儿子
+4,null,null,喜极而泣
+5,null,null,随后
+6,null,null,宋女士向警方透露了真相
+7,null,null,原来
+8,null,null,早在几年前
+9,null,null,小鹏的父亲已经在东莞打工时意外去世了
+10,null,null,孩子和他爸爸特别亲近
+11,sadness,伤心,怕他伤心
+12,null,null,便一直瞒着他
+13,null,null,宋女士含泪说
+14,null,null,她当场检讨道
+15,null,null,自己平时忙于工作
+16,null,null,对小鹏疏于照顾
+17,null,null,小鹏离家后
+18,fear,心急如焚,她心急如焚
+19,null,null,四处寻找
+20,null,null,但一直都没有音讯
+21,null,null,她一再向龙岗警方认真负责的态度表示感谢
+22,null,null,目前
+23,null,null,母子两人已经平安回到老家
+1460 19
+ (8,6)
+1,null,null,2013年年底
+2,null,null,钱老板听朋友建议
+3,null,null,投资100万元与朋友合伙开宾馆
+4,null,null,没想到
+5,null,null,宾馆还没开起来
+6,null,null,造房子时出了安全事故
+7,null,null,投资的钱还不够赔钱
+8,sadness,低落,钱老板一度情绪非常低落
+9,null,null,和朋友的应酬也都推掉了
+10,null,null,把自己关在家里整天闷闷不乐
+11,null,null,厂里也不去
+12,null,null,一开始
+13,null,null,家里人觉得他只是受了打击
+14,null,null,过段时间能好
+15,null,null,但他的情况越来越严重
+16,null,null,一天到晚
+17,null,null,神神叨叨地说世界末日来了
+18,null,null,有人要害他
+19,null,null,不想让他好过
+1463 10
+ (5,3)
+1,null,null,33岁的何亚军出生于四川内江
+2,null,null,10岁时因为长时间高烧失去了视力
+3,null,null,后天失明对他的心理造成了巨大的打击
+4,null,null,之后数年内
+5,sadness,情绪低落,何亚军情绪低落
+6,null,null,终日窝在家中
+7,null,null,在家人的劝说下
+8,null,null,何亚军在2003年只身来到北京学习盲人按摩
+9,null,null,来北京后我才感觉到自己是个有用的人
+10,null,null,原来会按摩可以帮助别人

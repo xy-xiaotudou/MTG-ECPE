@@ -1,0 +1,48 @@
+1910 14
+ (3,2), (6,4)
+1,null,null,河北省 张家口 宣化 人 苏永青 1992 年时 在外 经商
+2,null,null,途径 保定市 涞源县 遇到 挫折 身无分文
+3,sadness,万般无奈,万般无奈 下 尴尬 求助
+4,null,null,恰得 两位 年轻 姐妹 热心 收留 并 资助 其 返程
+5,null,null,22 年来
+6,happiness,感动,生意 渐 有起色 的 苏永青 一直 牢记 这份 温暖 和 感动
+7,null,null,坚持 通过 各种 途径 寻找 恩人
+8,null,null,终于 在 今年 4 月 15 日 达成 心愿
+9,null,null,据 涞源县 宣传部 介绍
+10,null,null,1992 年 的 夏天
+11,null,null,在外 做 机电 和 轮胎 生意 的 苏永青 路过 涞源
+12,null,null,因 缺少 经商 经验
+13,null,null,手续 不全
+14,null,null,货物 被 工商部门 罚没
+1925 17
+ (6,4), (12,10)
+1,null,null,不过 小 吴 还 比较 争气
+2,null,null,成绩 一向 不错
+3,null,null,谁知
+4,null,null,前 几天 的 考试 意外 失利
+5,null,null,小 吴 昨天 得知 成绩 后 心中 一直 自责
+6,sadness,闷闷不乐,她 闷闷不乐 地 回到 家中
+7,null,null,没想到 和 父母 说 了 以后
+8,null,null,父亲 不但 没有 安慰 她
+9,null,null,反而 还 责怪 她 贪玩 没考 好
+10,null,null,听 了 父亲 的 责备
+11,null,null,小 吴 心中 气急
+12,anger,一怒之下,一怒之下 就 冲到 厨房 拿 了 一把 菜刀
+13,null,null,在 家中 到处 乱砍
+14,null,null,以 发泄 情绪
+15,null,null,小 吴 的 父母 怕 女儿 拿 刀伤 到 她 自己
+16,null,null,赶紧 上前 夺取
+17,null,null,3 人 从 屋内 拉扯 到 家门口
+2104 11
+ (8,5), (8,6), (8,7)
+1,null,null,我们 夫妻 吵架
+2,null,null,你们 来 干什么
+3,null,null,朱 某某 质 问道
+4,null,null,小隐 嚣张 地 说 她 只是 你 名义 上 的 老婆
+5,null,null,同村 人 的 议论
+6,null,null,妻子 的 背叛
+7,null,null,奸夫 的 无视
+8,anger,怒火中烧,让 朱 某某 怒火中烧
+9,null,null,我 觉得 自己 太 窝囊
+10,null,null,觉得 自己 抬 不 起头 来
+11,null,null,觉得 自己 就是 全村 的 笑话

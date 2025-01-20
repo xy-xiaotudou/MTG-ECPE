@@ -1,0 +1,138 @@
+1699 18
+ (3,2), (10,11)
+1,null,null,据 其 交代
+2,null,null,他 曾 在 2010 年 5 月 做 足疗 时 被盗 走 1 万元 现金
+3,disgust,仇恨,后 实施 抢劫 被 判刑 而 仇恨 足疗 女
+4,null,null,2014 年 1 月 8 日晚 11 时许 出门 欲 杀 足疗 女 泄愤
+5,null,null,他 在 窜 至 市区 延安 西路 一足疗 店时
+6,null,null,发现 只有 店主 马 红霞 一人
+7,null,null,在 接受 按摩 后 用 双手 将 马 红霞 活活 掐死
+8,null,null,为 防止 马 红霞 未死
+9,null,null,顺手 拿 起 桌上 的 水果刀 朝其 心脏 位置 猛 捅 一刀
+10,fear,害怕,此时 的 秦飞 心里 不由得 害怕 起来
+11,null,null,唯恐 事情 败露
+12,null,null,于是
+13,null,null,他 想 一不做 二不休
+14,null,null,何不 将 马 的 尸体 烧掉
+15,null,null,制造 成 一起 火灾 假象
+16,null,null,随即 点燃 了 现场 的 被子 等 物品 后 逃离
+17,null,null,目前
+18,null,null,犯罪 嫌疑人 秦飞 已 被 刑事拘留
+1741 34
+ (27,26), (29,29)
+1,null,null,李玉凤 又 故意 打开 男 乘客 前方 的 车窗
+2,null,null,大声 报 站
+3,null,null,男 乘客 被 惊醒
+4,null,null,下意识 地 推开 正在 行窃 的 小偷
+5,null,null,偷 不成
+6,null,null,两名 小偷 就 干脆 打人 抢 东西
+7,null,null,李玉凤 看不下去
+8,null,null,警告 说 我 报警 了
+9,null,null,一名 小偷 抬手 就 扇 了 她 一 耳光
+10,null,null,并 拿出 匕首 将 她 的 手掌 刺伤
+11,null,null,公交车 的 司机 黄广现 是 李玉凤 的 丈夫
+12,null,null,他 快速 把 车 停 好
+13,null,null,冲上去 抢 匕首
+14,null,null,也 被 小偷 刺伤
+15,null,null,手臂 上 连接 拇指 的 手筋 被 割断
+16,null,null,当 我 把 那个 拿 匕首 的 按 在 地上 的 时候
+17,null,null,只要 有 一个 乘客 上来 帮 我
+18,null,null,我 就 不会 受伤 了
+19,null,null,黄广现 说
+20,null,null,假如 是 你
+21,null,null,你 敢 吗
+22,null,null,20 多名 乘客
+23,null,null,一大半 是 男性
+24,null,null,没 一个 人 帮忙
+25,null,null,先前 被 偷 的 乘客 周 小姐 很 感激 售票员
+26,null,null,没 上前 帮忙
+27,sadness,内疚,她 也 感到 很 内疚
+28,null,null,乘客 刘先生 则 说
+29,fear,害怕,小偷 拿 着 刀 让 他 看着 害怕
+30,null,null,他 很 想 帮忙
+31,null,null,但 没有勇气
+32,null,null,这种 情况 敢 帮忙 的 人 有 多少
+33,null,null,假如 是 你
+34,null,null,你 敢 吗
+1767 19
+ (8,7), (11,10)
+1,null,null,阿丽称
+2,null,null,自己 与 阿明 是 情侣 关系
+3,null,null,已经 到 了 谈婚论嫁 阶段
+4,null,null,因 发觉 阿明 没有 处理 好 与 家人 的 关系
+5,null,null,又 在 车上 听到 阿明 家人 不许 阿丽去 其家
+6,null,null,加上 其他 感情 因素
+7,null,null,发觉 自己 被 阿明 欺骗
+8,anger,愤怒,她 非常 愤怒
+9,null,null,于是 用手 拉扯 阿明
+10,null,null,还 骂 阿明 为 废柴
+11,anger,激怒,阿明 被 激怒 后 遂 对 她 施暴
+12,null,null,法院 认为
+13,null,null,阿明 故意伤害 他人 身体
+14,null,null,致一人 重伤
+15,null,null,其 行为 已 构成 故意伤害罪
+16,null,null,应 依法 惩处
+17,null,null,阿明 归案 后能 如实 供述 其 罪行
+18,null,null,认罪态度 较 好
+19,null,null,依法 可 从轻 处罚
+1784 17
+ (7,8), (7,9)
+1,null,null,而 小张
+2,null,null,本来 啥事 没有
+3,null,null,就 因为 一时 糊涂 答应 顶包
+4,null,null,也 要 被 追究 刑事责任
+5,null,null,涉嫌 包庇罪
+6,null,null,做 决定 前 一定 要 多 想想 事到如今
+7,sadness,后悔,小 陈 很 后悔
+8,null,null,不但 因为 自己 醉驾
+9,null,null,也 因为 自己 连累 了 小张
+10,null,null,而 对 小张 来说
+11,null,null,更是 后悔 万分
+12,null,null,因为 小 陈 即使 被 法院 判定 醉驾 成立
+13,null,null,依法 也 就是 拘役 1 至 6 个 月
+14,null,null,而 小张 自己 包庇罪 一旦 成立
+15,null,null,依法 判处 3 年 以下 有期徒刑
+16,null,null,并且
+17,null,null,因顶 包醉 驾 而 被 追究 刑事责任 的 嘉兴 第一 人 这样 的 名号 在 小张 看来 也 实在 丢脸
+1839 15
+ (5,4), (6,7)
+1,null,null,唐子 人 美国 同事   杰娜 · 克兰 我们 去年 开始 一起 工作
+2,null,null,最近 听说 他 在 海洋公园 救活 了 一个 病人
+3,null,null,我们 都 为 他 感到 骄傲
+4,null,null,他 在 这里 做 研究 的 同时 还 能 救人
+5,happiness,骄傲,我们 为 他 骄傲
+6,happiness,高兴,唐子 人 美国 同事   乔尔 · 珀雷克 我们 很 高兴
+7,null,null,他 救活 了 病人
+8,null,null,他 是 一个 非常 善良 的 人
+9,null,null,有 礼貌 有 修养
+10,null,null,很 高兴 能 和 他 一起 共事
+11,null,null,解说 这是 美国 同事 们 知道 唐 医生 救人 后 特意 送来 的 蛋糕
+12,null,null,上面 写 着 我们 的 英雄
+13,null,null,而 为 唐 医生 点赞 的
+14,null,null,不仅 有 美国 同事
+15,null,null,还 包括 他 的 中国 同事 们
+1858 23
+ (15,14), (7,6), (19,18)
+1,null,null,为了 防止 男子 有 过激 行为
+2,null,null,现场 几名 群众 和 赶到 的 民警 随即 将 醉酒 男子 制服
+3,null,null,抓住 其 胳膊 将 其 按倒 在 地
+4,null,null,随后 被 带 至 四所 村 派出所 醒酒
+5,null,null,直到 晚上 酒醒 后
+6,null,null,对于 酒后 滋事 怒 踹 学校 大门
+7,sadness,后悔,该 男子 表示 自己 也 很 后悔
+8,null,null,并 再三 解释 称
+9,null,null,中午 前后
+10,null,null,他 和 几个 朋友 在 饭店 小聚
+11,null,null,多 喝 了 几杯 白酒
+12,null,null,朋友 散去 后
+13,null,null,正巧 走 到 学校 门口
+14,null,null,想到 自己 家 孩子 今年 没 能 如愿 就读 该 学校
+15,anger,生气,越发 生气
+16,null,null,开始
+17,null,null,还 想 进 学校 找 老师 谈谈心
+18,null,null,被 保安 阻止 后
+19,disgust,不满,心中 更加 不满
+20,null,null,这才 借着 酒劲 踹 坏 学校 电动门 的
+21,null,null,目前
+22,null,null,该 男子 不但 要 赔偿 学校 的 损失
+23,null,null,还要 接受 警方 处罚

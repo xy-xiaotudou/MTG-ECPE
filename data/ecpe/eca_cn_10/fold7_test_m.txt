@@ -1,0 +1,326 @@
+1267 13
+ (1,1), (7,7)
+1,anger,不快,因 与 女友 分手 而 心生 不快
+2,null,null,为 发泄 心中 的 怨恨 竟 盗窃 棺材
+3,null,null,结果 难逃 牢狱 之苦
+4,null,null,21 日
+5,null,null,涉嫌 盗窃 的 晏 某 被 上 高 警方 依法 刑事拘留
+6,null,null,今年 8 月份
+7,disgust,怨恨,晏 某 因 女友 与其 分手 而 心生 怨恨
+8,null,null,9 月 25 日 凌晨
+9,null,null,他 驾驶 一辆 三轮车 在 县城 上网 结束 后 仍感 郁闷 烦躁
+10,null,null,就 萌发 了 盗窃 他 人财物 以求 发泄 的 念头
+11,null,null,随后
+12,null,null,他 在 上高县 锦江 镇 一 寿材 店内 发现 两副 已 做好 的 棺材 价值 4300 余元
+13,null,null,随即 将 棺材 装 到 车上 并 连夜 运走
+1273 14
+ (4,5), (14,14)
+1,null,null,李涛 夫妇 已 是 30 多岁 的 人 了
+2,null,null,在 亲朋好友 的 劝说 下
+3,null,null,他们 又 要 了 孩子
+4,happiness,高兴,令人高兴 的 是
+5,null,null,陈芳 怀起 了 龙凤胎
+6,null,null,1998 年
+7,null,null,陈芳 顺利 生产
+8,null,null,两个 孩子 的 到来
+9,null,null,转移 了 李涛 夫妇 的 注意力
+10,null,null,逐渐 把 精力 放在 两个 孩子 身上
+11,null,null,自从 龙龙 出事 以后
+12,null,null,李涛 不再 做 起早贪黑 的 肉摊 生意
+13,null,null,腾出 更 多 的 时间 照顾 家庭
+14,sadness,内疚,他 也 因 没有 更 多 的 时间 照顾 龙龙 而 感到 内疚
+1275 19
+ (17,15), (17,16)
+1,null,null,李涛 介绍
+2,null,null,每当 经过 有水
+3,null,null,有桥 的 地方
+4,null,null,他 都 会 想起 儿子
+5,null,null,都 会 喊 喊 儿子 的 名字
+6,null,null,情不自禁 的 思念 儿子
+7,null,null,当 两个 孩子 长大 一点 的 时候
+8,null,null,李涛 一 有空
+9,null,null,都 会 给 子女 讲述 龙龙 的 事情
+10,null,null,让 他们 一定 要 好好学习
+11,null,null,听 爸爸妈妈 的话
+12,null,null,如今
+13,null,null,李涛 的 两个 双胞胎 孩子
+14,null,null,已经 14 岁 了
+15,null,null,学习成绩 好
+16,null,null,又 非常 聪明
+17,happiness,欣慰,让 夫妻俩 十分 欣慰
+18,null,null,夫妻俩 想着 一定 要 把 两个 孩子 培养 成才
+19,null,null,一家人 生活 得 非常 幸福
+1278 11
+ (10,8), (10,9)
+1,null,null,龙龙 的 妻子 很 孝顺
+2,null,null,也 很 体贴
+3,null,null,李涛 夫妇 非常 喜欢 这个 外国 儿媳妇
+4,null,null,夫妇俩 从不 与 龙龙 视频
+5,null,null,因为 龙龙 和 养父 生活 在 一起
+6,null,null,他们 要 顾及 龙龙 养父 的 感受
+7,null,null,李涛 夫妇 告诉 记者
+8,null,null,知道 龙龙 现在 还 活着
+9,null,null,还 这么 有 出息
+10,happiness,高兴,真的 是 非常高兴
+11,null,null,这件 事是 天大 的 喜事 和 好事
+1297 13
+ (6,4), (6,5)
+1,null,null,在 父亲 的 开导 下
+2,null,null,张成 告诉 父亲
+3,null,null,当日 喝酒 是因为 那天 是 他 的 生日
+4,null,null,由于 思念 自己 生母 张成 7 岁 丧母
+5,null,null,并且 因为 住校 不能 回家 与 家人 一起 庆祝 生日
+6,disgust,郁闷,备感 郁闷
+7,null,null,才 买 了 一瓶 红星 二锅头
+8,null,null,自己 偷偷 喝掉
+9,null,null,并 把 酒瓶 藏 在 了 床 下
+10,null,null,随后
+11,null,null,张成 和 父亲 再次 找到 秦 老师 承认错误
+12,null,null,但 秦 老师 表示 张成 必须 写 检查
+13,null,null,还要 当着 全班同学 的 面念 检查
+1315 9
+ (5,4), (9,8)
+1,null,null,游客 二 猛兽 区 每个 猛兽 馆 都 是 分离 的
+2,null,null,我们 去 看 孟加拉虎
+3,null,null,兴致勃勃 地 欣赏 老虎 奔跑
+4,null,null,结果 老虎 不断 逼近
+5,fear,害怕,我们 也 有点 害怕
+6,null,null,开 到 孟加拉虎 馆 出口
+7,null,null,大门 锁住 了
+8,null,null,老虎 扑上来 咬 轮胎
+9,fear,害怕,我们 就 更 害怕 了
+1336 16
+ (8,7), (9,7), (13,13)
+1,null,null,去年 11 月
+2,null,null,14 岁 的 提娅 在 和 男友 乔丹 偷吃 禁果 后
+3,null,null,竟然 一不小心 怀上 了 身孕
+4,null,null,随着 腹部 不断 隆起
+5,null,null,提娅 意识 到 无法 继续 隐瞒 下去
+6,null,null,不得不 把 自己 怀孕 的 事实 告诉 了 父亲
+7,null,null,当 山姆 得知 14 岁 的 女儿 竟然 怀上 身孕 后
+8,surprise,惊呆,他 顿时 被 彻底 惊呆 了
+9,anger,暴跳如雷,继而 暴跳如雷
+10,null,null,山姆 回忆 称 我 14 岁 时 女儿 就 出生 了
+11,null,null,现在 她 14 岁 就 怀上 了 孩子
+12,null,null,这 就 仿佛 历史 再次 重演 一样
+13,anger,恼火,我 为 女儿 小小年纪 就 怀上 身孕 而 恼火 不已
+14,null,null,由于 我 有 亲身 体验
+15,null,null,所以 我 知道 十来 岁 就 当上 爹妈 的 日子 有 多么 艰难
+16,null,null,而 现在 她 必须 经历 同样 的 磨难
+1340 13
+ (5,5), (6,11)
+1,null,null,最 有趣 的 是
+2,null,null,刚当 上 外公 的 山姆 和 他 的 新 女友 罗冰 · 托马斯 还生 有 一名 9 个 月 大 的 儿子
+3,null,null,这 意味着
+4,null,null,提娅 刚出生 的 女儿 艾娃 将 必须 称 这名 只 比 她 大 9 个 月 的 男婴 叫 舅舅
+5,happiness,高兴,尽管 提娅 的 出生 让 山姆 一家 都 高兴 万分
+6,sadness,忧心忡忡,但 已经 与 山姆 分手 的 前女友 刚当 上 外婆 的 凯丽 却 有些 忧心忡忡
+7,null,null,如今 30 岁 的 凯丽 是 一名 咖啡店 员工
+8,null,null,她 说 当年 我 无法 应付 成为 少女 妈妈 后 带来 的 压力
+9,null,null,选择 了 逃跑
+10,null,null,一直 以来
+11,null,null,我 最坏 的 噩梦 就是 提娅会 重复 我 的 错误
+12,null,null,年纪轻轻 就 怀孕 生子
+13,null,null,但 万万 没有 想到 噩梦 还是 变为 了 现实
+1345 22
+ (2,1), (22,21)
+1,null,null,蜗牛 死 了
+2,sadness,伤心,青青 很 伤心
+3,null,null,青青 是 个 80 后
+4,null,null,蛮 漂亮 的
+5,null,null,她 说
+6,null,null,美容 保养
+7,null,null,是 她 这辈子 最 重要 的 事
+8,null,null,听说 蜗牛 霜 美容
+9,null,null,青青 突发奇想
+10,null,null,买来 蜗牛
+11,null,null,直接 放在 脸上 美容
+12,null,null,看看 效果 还 不错
+13,null,null,但是 昨天
+14,null,null,蜗牛 死 了
+15,null,null,青青 这下 慌 了 — —   蜗牛 怎么 死 的
+16,null,null,如果 是 蜗牛 体质 不好
+17,null,null,它 的 黏液 会 不会 有 问题
+18,null,null,那 我 的 脸 岂 不是 遭殃 了
+19,null,null,如果 是 我 的 皮肤 有 问题
+20,null,null,那 蜗牛 被 我 折腾 死 的 吗
+21,null,null,一连串 猜疑
+22,disgust,心烦意乱,让 青青 心烦意乱
+1349 13
+ (7,6), (9,8)
+1,null,null,徐俐 回忆
+2,null,null,他 到 了 上学 的 年龄
+3,null,null,但是 腿脚 不便
+4,null,null,他 的 父母 曾经 数次 到 学校 申请 为 他 入校
+5,null,null,但是 校方 考虑 到 徐俐 特殊 情况
+6,null,null,都 委婉 拒绝
+7,sadness,悲伤,父母 十分 悲伤
+8,null,null,看到 身体 残疾 的 儿子 整日 待在家里
+9,sadness,忧虑,不免 深深地 为 他 的 未来 忧虑
+10,null,null,我 当时 清楚 地 记得
+11,null,null,我 向 父母 提出
+12,null,null,哥哥 读完 的 书籍
+13,null,null,可以 让 我 使用
+1371 20
+ (5,5), (9,8)
+1,null,null,昨日 上午
+2,null,null,记者 来到 农业 路 与 桐柏路 交叉口 处
+3,null,null,看到 怪 老翁 正在 吃饭
+4,null,null,记者 试图 和 老人 进行 交流
+5,anger,愤怒,没想到 老人 听到 记者 的 问话 立即 变得 愤怒 起来
+6,null,null,大声 让 记者 赶紧 离开
+7,null,null,并 从 地面 上 拿 起 一根 树枝 做出 要 打人 的 样子
+8,null,null,当 记者 拍照 时
+9,anger,恼怒,老人 更加 恼怒
+10,null,null,抄起 一根 木头 要 砸 记者
+11,null,null,记者 只好 离开
+12,null,null,据 附近 商户 说
+13,null,null,老人 在 这里 已经 居住 三年 多 了
+14,null,null,以前 也 有 热心人 主动 和 老人 搭讪
+15,null,null,表示 关心
+16,null,null,但 都 遭到 老人 的 斥责
+17,null,null,老人 似乎 也 有 儿女
+18,null,null,但 当 他们 拿 着 食物 来看 他时
+19,null,null,遭到 老人 的 拒绝
+20,null,null,甚至 把 食物 扔掉
+1375 10
+ (7,7), (10,9), (10,10)
+1,null,null,雷切尔 的 一名 孙子 对 记者 说 我 祖母 是 一个 善良 的 女性
+2,null,null,她 居住 的 露天 市场 附近 经常 会 有 穷人 和 无家可归者 在 寻觅 食物
+3,null,null,而 我 的 祖母 经常 会 帮助 他们
+4,null,null,直到 两年 前
+5,null,null,她 都 一直 参与 所有 家庭 事件
+6,null,null,她 认识 所有 的 孙辈 曾孙 和 玄孙
+7,sadness,悲哀,我们 为 她 的 去世 感到 悲哀
+8,null,null,不过
+9,null,null,我们 也 为 她 一生 中所 做 的 一切
+10,happiness,骄傲,以及 她 的 正直 和 同情心 感到 骄傲
+1401 17
+ (10,9), (16,15)
+1,null,null,这名 写 小说 的 老翁 叫 成士忠
+2,null,null,今年 79 岁
+3,null,null,家住 北碚 龙凤 桥 街道
+4,null,null,昨天
+5,null,null,成 介绍 称
+6,null,null,以前 他 曾 在 北碚 一家 企业 从事 管理工作
+7,null,null,1991 年 他 退休 后 打工 赚 得 两万元
+8,null,null,1997 年 凑足 3 万元 投入 股市
+9,null,null,结果 亏了 一万
+10,sadness,痛心,这令 他 十分 痛心
+11,null,null,成士忠 说
+12,null,null,炒亏 后 自己 思考 了 好 几天
+13,null,null,认为 这 都 是因为 自己 盲目 投入 造成 的
+14,null,null,他 还 发现
+15,null,null,面对 涨 和 跌
+16,happiness&sadness,兴奋&悲伤,股民 要么 兴奋 要么 悲伤
+17,null,null,要是 把 这些 写成 一部 小说 该 多 好 啊
+1404 15
+ (8,7), (11,9)
+1,null,null,从 2005 年 开始
+2,null,null,成士忠 开始 准备 创作
+3,null,null,每天 有空 去 证券 交易所 时
+4,null,null,都 会 带上 本子 和 笔
+5,null,null,观察 和 记录 小股民 的 神态
+6,null,null,他 发现
+7,null,null,当 股票 上涨 时
+8,happiness,兴奋,股民 往往 兴奋 得 大叫
+9,null,null,暴跌 时
+10,null,null,一些 股民 则 捶胸顿足
+11,sadness,失声痛哭,失声痛哭
+12,null,null,成士忠 把 这些 全都 记 了 下来
+13,null,null,近三年 时间 里
+14,null,null,成士忠 记录 下 10 余万 字
+15,null,null,几个 笔记本 记得 满满的
+1410 11
+ (2,1), (10,11)
+1,null,null,当 朋友 们 得知 阿勇 和 小露 仅仅 通过 5 小时 电话 就 决定 结婚 时
+2,surprise,震惊,朋友 们 由 不 相信 变成 了 震惊
+3,null,null,大家 都 以为 他 疯 了
+4,null,null,阿勇 的 一个 朋友 说
+5,null,null,哪有 通个 电话 就 决定 结婚 的
+6,null,null,很多 朋友 连小露 的 面 都还没 见过
+7,null,null,见过 小露 的
+8,null,null,都 觉得 她 可以
+9,null,null,是 个 不错 的 结婚 对象
+10,happiness,欣慰,令阿勇 欣慰 的 是
+11,null,null,有 几个 朋友 是 支持 他 的
+1434 11
+ (6,5), (11,11)
+1,null,null,大年初一 失踪 的 4 岁 女孩
+2,null,null,40 多天 后 又 被 送 了 回来
+3,null,null,前天 早上 6 时 40 分许
+4,null,null,在 新安县 尤彰村 310 国道 附近
+5,null,null,女孩 郭佳诺 的 归来
+6,happiness,惊喜,让 亲戚 惊喜不已
+7,null,null,而 这个 地方 正是 小佳诺 之前 失踪 的 地方
+8,null,null,目前
+9,null,null,小佳诺 精神状态 良好
+10,null,null,全身 未 发现 有 被 伤害 的 痕迹
+11,fear,惊恐,但 谈及 过去 仍 不 时会 有 惊恐 表情
+1439 10
+ (2,2), (3,3)
+1,null,null,我 一直 关注 着 事件 的 进展
+2,anger,气愤,为 男子 的 行为 感到 气愤 的 同时
+3,sadness,心痛,也 对 女性 同胞 自我 防卫 意识 的 缺失 表示 心痛
+4,null,null,长沙市 妇联 权益部 负责人 向 微 长沙 记者 表示
+5,null,null,当 女性 同胞 受到 伤害 后
+6,null,null,首先 考虑 的 不 应该 是 逃避
+7,null,null,而是 应该 勇敢 站 出来
+8,null,null,用 法律 武器 维护 自己 的 合法权益
+9,null,null,如果 有 需要
+10,null,null,市妇联 将 为 当事 女性 提供 法律 和 心理 上 的 援助
+1457 23
+ (11,9), (18,17)
+1,null,null,当天 晚上 10 点多
+2,null,null,宋 女士 终于 赶到 坂田 派出所
+3,null,null,她 紧紧 地 抱住 儿子
+4,null,null,喜极而泣
+5,null,null,随后
+6,null,null,宋 女士 向 警方 透露 了 真相
+7,null,null,原来
+8,null,null,早 在 几年 前
+9,null,null,小鹏 的 父亲 已经 在 东莞 打工 时 意外 去世 了
+10,null,null,孩子 和 他 爸爸 特别 亲近
+11,sadness,伤心,怕 他 伤心
+12,null,null,便 一直 瞒 着 他
+13,null,null,宋 女士 含泪 说
+14,null,null,她 当场 检讨 道
+15,null,null,自己 平时 忙于 工作
+16,null,null,对小鹏 疏于 照顾
+17,null,null,小鹏 离家 后
+18,fear,心急如焚,她 心急如焚
+19,null,null,四处寻找
+20,null,null,但 一直 都 没有 音讯
+21,null,null,她 一再 向 龙岗 警方 认真负责 的 态度 表示感谢
+22,null,null,目前
+23,null,null,母子 两人 已经 平安 回到 老家
+1470 11
+ (6,5), (8,7)
+1,null,null,露露 爸爸 说 其实 这 三天
+2,null,null,我 都 很 想 女儿
+3,null,null,还 曾 悄悄 托人 去 法庭 看过 女儿
+4,null,null,他 知道 自己 不 对
+5,null,null,但 那场 失败 的 婚姻
+6,anger,愤怒,让 他 被 愤怒 冲昏 了 头脑
+7,null,null,而 自己 经济 情况 不好
+8,fear,担心,担心 无法 抚养 女儿
+9,null,null,如今
+10,null,null,他 也 想通 了
+11,null,null,只想 好好 照顾 女儿
+1472 15
+ (12,12), (13,12)
+1,null,null,小玲称
+2,null,null,在 北京 天天 与 阿辉 待 在 一起
+3,null,null,经常 出入 宾馆
+4,null,null,一 开始
+5,null,null,小玲 住校
+6,null,null,为了 见 阿辉 一面
+7,null,null,她 不惜 爬墙 出走
+8,null,null,后来 两人 干脆 住进 了 出租屋
+9,null,null,与 阿辉 交往 半年 后
+10,null,null,年仅 14 岁 的 小玲 发现自己 怀孕 了
+11,null,null,作为 未婚 且 未成年 妈妈
+12,happiness,喜悦,小玲 并 没有 感受 到 新 生命 带来 的 喜悦
+13,fear,恐惧,而是 恐惧
+14,null,null,经过 与 阿辉 的 商谈 后
+15,null,null,两人 决定 不要 这个 孩子

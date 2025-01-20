@@ -1,0 +1,143 @@
+1515 7
+ (2,2), (2,3)
+1,null,null,驾驶员 年轻
+2,sadness,无奈,被 打 了 那么 多 下 心里 也 难受 无奈 还手
+3,null,null,不过 我们 对 驾驶员 的 要求 是 骂不还口 打 不 还手
+4,null,null,该 驾驶员 违反 了 这项 规定
+5,null,null,尽管 他 背部 受伤
+6,null,null,头部 也 有 血肿
+7,null,null,我们 依然 将 对 其 进行 处罚
+1519 13
+ (1,5), (1,13)
+1,sadness,委屈,一眼 就 能 看出 她 心中 有 委屈
+2,null,null,说起 原因
+3,null,null,老 韩 抽泣 地说
+4,null,null,自己 花 3000 块钱 买 了 台 电视机
+5,null,null,婆婆 嫌贵 说 她 花钱 大手大脚
+6,null,null,数落 了 她 整整 一个 晚上
+7,null,null,难听 的话 没少 说
+8,null,null,想想 她 年轻 的 时候
+9,null,null,买过 一台 电风扇
+10,null,null,也 被 婆婆 这样 叨叨 过
+11,null,null,她 觉得 自己 添置 家电 也 是 为了 这个 家
+12,null,null,价格 也 是 家里 能 承受 的
+13,null,null,不该 受到 责骂
+1545 4
+ (1,2), (1,3)
+1,fear,害怕,刘某 低着头 心里 害怕
+2,null,null,第一 是 没 钱
+3,null,null,第二 是 怕 被 交警 处理
+4,null,null,车是 套牌车
+1565 31
+ (4,4), (6,5)
+1,null,null,从没 想过 出名 希望 平静 生活 记者 发现
+2,null,null,与 前段时间 相比
+3,null,null,孙 老师 的 精神状态 好 了 很多
+4,sadness,悲伤,逐渐 走出 了 失去 女儿 的 悲伤 中
+5,null,null,面对 这么 多人 的 关心
+6,happiness,高兴,他 觉得 很 高兴
+7,null,null,其实 这 段时间 生活 上 多少 还是 有点 影响 的
+8,null,null,来 了 人 我 总要 招待 的
+9,null,null,孙 老师 说
+10,null,null,以前 每天 早上 他 都 出门 买菜
+11,null,null,然后 回家 带 着 老伴 去 附近 的 街上 或者 超市 逛逛
+12,null,null,中午 吃过饭 后 就 睡个 午觉
+13,null,null,但是 捐款 以后
+14,null,null,经常 有人 登门
+15,null,null,最多 的 时候 一天 要 来 四五 拨人
+16,null,null,没 时间 买菜 做饭 就 叫 份 外卖
+17,null,null,我 很 感谢 来看 我 的 人
+18,null,null,但是 我 也 很 怀念 以前 平静 的 生活
+19,null,null,孙 老师 向 记者 坦言
+20,null,null,自己 从来 没想 过 出名
+21,null,null,捐款 对 他 来说 只是 偶尔 做 了 一件 善事
+22,null,null,偶尔 做 了 一次 好人
+23,null,null,他 希望 能 尽快 回到 从前 的 生活 中 去
+24,null,null,漕桥 中学 副校长 丁国荣 表示
+25,null,null,孙 老师 向来都是 一个 低调 的 人
+26,null,null,生活 简朴
+27,null,null,尽管 大家 都 是 好心
+28,null,null,但 我们 还是 希望 尽量少 打搅 两位 老人
+29,null,null,让 他们 的 生活 回归 平静
+30,null,null,也许 是 对 老人 最好 的 关心 和 尊重
+31,null,null,丁 校长 说
+1575 7
+ (3,3), (5,4)
+1,null,null,关微 透露
+2,null,null,他 一直 关注 陈思 的 博客
+3,happiness,高兴,每当 看到 又 一人 获救 就 会 高兴
+4,null,null,而 当 陈思 的 心灵 驿站 遇到困难 时
+5,fear,着急,也 会 一同 着急
+6,null,null,关微 知道 陈思 身体 不好
+7,null,null,因此 一再 叮嘱 要 保重
+1588 8
+ (4,3), (7,6)
+1,null,null,李立兴 说
+2,null,null,他们 的 心情 跟着 救援 情况 的 好坏 而 起伏
+3,null,null,如果 一个 人 救活 了
+4,happiness,高兴,大家 就 会 很 高兴
+5,null,null,晚上 会 吃 的 好 一点
+6,null,null,而 如果 人 没有 救 出来
+7,sadness,难受,心里 就 会 很 难受
+8,null,null,是 真 难受
+1631 31
+ (20,20), (22,23)
+1,null,null,张虎 交代
+2,null,null,当晚
+3,null,null,他 驾驶 自家 小轿车 行至 事发 路段 时
+4,null,null,因 前方 停着 一辆 小车
+5,null,null,他 准备 绕行 过去
+6,null,null,不料 前方 有 一名 老人 横穿马路
+7,null,null,因 事发 突然
+8,null,null,他 错 把 油门 当成 了 刹车
+9,null,null,将 老人 撞倒
+10,null,null,事发 后
+11,null,null,他 驾车 逃离现场
+12,null,null,回家 后经 商量
+13,null,null,决定 让 妻子 顶包
+14,null,null,昨日
+15,null,null,记者 在 随州市 看守所 见到 了 张虎
+16,null,null,他 身着 囚服
+17,null,null,手戴 镣铐
+18,null,null,一脸 憔悴
+19,null,null,撞人后 我 很 害怕
+20,fear,害怕,害怕 丢 了 院长 职位
+21,null,null,就 逃跑 了
+22,sadness,后悔,现在 很 后悔
+23,null,null,我 不该 肇事 后 逃逸
+24,null,null,更 不该 让 妻子 顶包
+25,null,null,害 了 家人
+26,null,null,也 害 了 自己
+27,null,null,张虎 说
+28,null,null,作为 一名 医务 工作者
+29,null,null,救死扶伤 本是 天职
+30,null,null,我 在 出事 时 却 选择 了 逃逸
+31,null,null,感到 很 自责
+1661 26
+ (7,5), (13,11)
+1,null,null,去年 6 月 18 日
+2,null,null,关 振兴 因 怀疑 女友 小霞 化名 有 外遇
+3,null,null,坚持 要 翻看 小霞 的 手机
+4,null,null,两人 为此 大 吵起来
+5,null,null,关 振兴 愤然 摔坏 了 女友 的 眼镜 和 手机
+6,null,null,第二天
+7,sadness,后悔,消了 气 的 关 振兴 有点 后悔
+8,null,null,于是 买 了 新手机 和 眼镜
+9,null,null,去 接 女友 下班
+10,null,null,希望 重归于好
+11,null,null,可 女友 拒绝 和 好
+12,null,null,走 到 湘雅 路 的 大 王家 巷时
+13,anger,愤怒,愤怒 的 关 振兴 一 回头 看见 路边 摊贩 上 有 把 菜刀
+14,null,null,抄起 刀 就 朝着 女友 砍 去
+15,null,null,小霞 倒地 后
+16,null,null,关 振兴 仍 不 罢手
+17,null,null,继续 挥刀 狂 砍
+18,null,null,直到 几分钟 后 附近 民警 赶到 将 其 制服
+19,null,null,经过 抢救
+20,null,null,小霞 捡回 了 一条 命
+21,null,null,经 法医鉴定
+22,null,null,她 的 伤情 程度 为 重伤
+23,null,null,脸部 脖子 手上 身上 的 刀伤 多达 35 处
+24,null,null,落下 了 多处 残疾
+25,null,null,即便 天气 暖和 了
+26,null,null,她 仍然 戴着 手套 遮着 受伤 的 手
