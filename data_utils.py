@@ -6,7 +6,7 @@ from transformers import T5ForConditionalGeneration, T5Tokenizer
 
 # 初始化 T5 模型和分词器
 model_name = "google-t5/t5-small"  # 可以选择 "t5-base" 或更大的模型
-# model_name = "./model/t5-small"  # 可以选择 "t5-base" 或更大的模型
+# model_name = "IDEA-CCNL/Randeng-T5-77M-MultiTask-Chinese"  
 tokenizer = T5Tokenizer.from_pretrained(model_name)
 model = T5ForConditionalGeneration.from_pretrained(model_name)
 
