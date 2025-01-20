@@ -560,7 +560,7 @@ def main():
             train_params = dict(
                 default_root_dir=args.output_dir,
                 accumulate_grad_batches=args.gradient_accumulation_steps,
-                # gpus=args.n_gpu,
+                gpus=args.n_gpu,
                 gradient_clip_val=1.0,
                 amp_level='O1',
                 max_epochs=args.num_train_epochs,
