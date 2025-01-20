@@ -1,0 +1,2084 @@
+--task ecpe --dataset eca_cn_20 --model_name_or_path ./model/Randeng-T5-77M-MultiTask-Chinese
+--paradigm multi_task --n_gpu 1 --do_train --do_eval --do_direct_eval --formatted True
+--train_batch_size 20 --gradient_accumulation_steps 2 --eval_batch_size 16 --learning_rate 0.005 --num_train_epochs 20
+将 data_utils.py model_name = "./model/Randeng-T5-77M-MultiTask-Chinese"  #
+============================dev results================================
+Sun Dec 22 10:43:50 2024
+ecpe on eca_cn_20 under multi_task epoch 2.61; fold_id = 1,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4729, R=0.4729, F1 = 0.4729, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7488, R=0.7488, F1 = 0.7488, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5320, R=0.5320, F1 = 0.5320, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9818, R=0.9874, F1 = 0.9846, 
+Fixed emo P=0.9989, R=0.9993, F1 = 0.9991 
+
+
+===========================text results=================================
+Sun Dec 22 10:44:21 2024
+ecpe on eca_cn_20 under multi_task epoch 2.61; fold_id = 1,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5049, R=0.5049, F1 = 0.5049, 
+Fixed ecpe P=0.9903, R=0.9903, F1 = 0.9903, 
+Raw ee P=0.7718, R=0.7718, F1 = 0.7718, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5291, R=0.5291, F1 = 0.5291, 
+Fixed ce P=0.9903, R=0.9903, F1 = 0.9903, 
+Raw emo P=0.9830, R=0.9887, F1 = 0.9858, 
+Fixed emo P=0.9991, R=0.9983, F1 = 0.9987 
+ 
+
+============================dev results================================
+Sun Dec 22 10:44:54 2024
+ecpe on eca_cn_20 under multi_task epoch 2.60; fold_id = 1,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4950, R=0.4926, F1 = 0.4938, 
+Fixed ecpe P=0.9901, R=0.9852, F1 = 0.9877, 
+Raw ee P=0.7624, R=0.7586, F1 = 0.7605, 
+Fixed ee P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw ce P=0.5495, R=0.5468, F1 = 0.5481, 
+Fixed ce P=0.9901, R=0.9852, F1 = 0.9877, 
+Raw emo P=0.9820, R=0.9869, F1 = 0.9844, 
+Fixed emo P=0.9983, R=0.9994, F1 = 0.9988 
+
+
+===========================text results=================================
+Sun Dec 22 10:45:25 2024
+ecpe on eca_cn_20 under multi_task epoch 2.60; fold_id = 1,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5291, R=0.5291, F1 = 0.5291, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7767, R=0.7767, F1 = 0.7767, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5485, R=0.5485, F1 = 0.5485, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9861, R=0.9889, F1 = 0.9875, 
+Fixed emo P=0.9994, R=0.9983, F1 = 0.9988 
+ 
+
+============================dev results================================
+Sun Dec 22 10:45:59 2024
+ecpe on eca_cn_20 under multi_task epoch 2.66; fold_id = 1,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4975, R=0.4975, F1 = 0.4975, 
+Fixed ecpe P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ee P=0.7537, R=0.7537, F1 = 0.7537, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5567, R=0.5567, F1 = 0.5567, 
+Fixed ce P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw emo P=0.9837, R=0.9865, F1 = 0.9851, 
+Fixed emo P=0.9991, R=0.9993, F1 = 0.9992 
+
+
+===========================text results=================================
+Sun Dec 22 10:46:30 2024
+ecpe on eca_cn_20 under multi_task epoch 2.66; fold_id = 1,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5194, R=0.5194, F1 = 0.5194, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7718, R=0.7718, F1 = 0.7718, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5485, R=0.5485, F1 = 0.5485, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9857, R=0.9896, F1 = 0.9877, 
+Fixed emo P=0.9995, R=0.9982, F1 = 0.9988 
+ 
+
+Sun Dec 22 10:46:30 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5194 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.61:
+f1      : 0.4729 / 0.5049     precision: 0.4729 / 0.5049     recall  : 0.4729 / 0.5049     
+Step-2.60:
+f1      : 0.4938 / 0.5291     precision: 0.4950 / 0.5291     recall  : 0.4926 / 0.5291     
+Step-2.66:
+f1      : 0.4975 / 0.5194     precision: 0.4975 / 0.5194     recall  : 0.4975 / 0.5194     
+
+
+============================direct================================
+Sun Dec 22 10:47:01 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 1,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5194, R=0.5194, F1 = 0.5194, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7718, R=0.7718, F1 = 0.7718, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5485, R=0.5485, F1 = 0.5485, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9857, R=0.9896, F1 = 0.9877, 
+Fixed emo P=0.9995, R=0.9982, F1 = 0.9988 
+ 
+
+============================dev results================================
+Sun Dec 22 13:25:37 2024
+ecpe on eca_cn_20 under multi_task epoch 2.92; fold_id = 2,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4211, R=0.4190, F1 = 0.4200, 
+Fixed ecpe P=0.9952, R=0.9905, F1 = 0.9928, 
+Raw ee P=0.7321, R=0.7286, F1 = 0.7303, 
+Fixed ee P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ce P=0.4880, R=0.4857, F1 = 0.4869, 
+Fixed ce P=0.9952, R=0.9905, F1 = 0.9928, 
+Raw emo P=0.9791, R=0.9881, F1 = 0.9836, 
+Fixed emo P=0.9987, R=0.9990, F1 = 0.9988 
+
+
+===========================text results=================================
+Sun Dec 22 13:26:10 2024
+ecpe on eca_cn_20 under multi_task epoch 2.92; fold_id = 2,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4455, R=0.4455, F1 = 0.4455, 
+Fixed ecpe P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw ee P=0.7574, R=0.7574, F1 = 0.7574, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4950, R=0.4950, F1 = 0.4950, 
+Fixed ce P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw emo P=0.9813, R=0.9892, F1 = 0.9852, 
+Fixed emo P=0.9992, R=0.9997, F1 = 0.9995 
+ 
+
+============================dev results================================
+Sun Dec 22 13:26:44 2024
+ecpe on eca_cn_20 under multi_task epoch 2.88; fold_id = 2,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4238, R=0.4238, F1 = 0.4238, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7333, R=0.7333, F1 = 0.7333, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4905, R=0.4905, F1 = 0.4905, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9794, R=0.9858, F1 = 0.9826, 
+Fixed emo P=0.9991, R=0.9989, F1 = 0.9990 
+
+
+===========================text results=================================
+Sun Dec 22 13:27:16 2024
+ecpe on eca_cn_20 under multi_task epoch 2.88; fold_id = 2,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4455, R=0.4455, F1 = 0.4455, 
+Fixed ecpe P=0.9851, R=0.9851, F1 = 0.9851, 
+Raw ee P=0.7574, R=0.7574, F1 = 0.7574, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4950, R=0.4950, F1 = 0.4950, 
+Fixed ce P=0.9851, R=0.9851, F1 = 0.9851, 
+Raw emo P=0.9806, R=0.9897, F1 = 0.9851, 
+Fixed emo P=0.9992, R=0.9996, F1 = 0.9994 
+ 
+
+============================dev results================================
+Sun Dec 22 13:27:50 2024
+ecpe on eca_cn_20 under multi_task epoch 2.93; fold_id = 2,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4238, R=0.4238, F1 = 0.4238, 
+Fixed ecpe P=0.9905, R=0.9905, F1 = 0.9905, 
+Raw ee P=0.7286, R=0.7286, F1 = 0.7286, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4905, R=0.4905, F1 = 0.4905, 
+Fixed ce P=0.9905, R=0.9905, F1 = 0.9905, 
+Raw emo P=0.9808, R=0.9878, F1 = 0.9843, 
+Fixed emo P=0.9994, R=0.9991, F1 = 0.9993 
+
+
+===========================text results=================================
+Sun Dec 22 13:28:22 2024
+ecpe on eca_cn_20 under multi_task epoch 2.93; fold_id = 2,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4604, R=0.4604, F1 = 0.4604, 
+Fixed ecpe P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw ee P=0.7624, R=0.7624, F1 = 0.7624, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5050, R=0.5050, F1 = 0.5050, 
+Fixed ce P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw emo P=0.9811, R=0.9884, F1 = 0.9847, 
+Fixed emo P=0.9990, R=0.9999, F1 = 0.9994 
+ 
+
+Sun Dec 22 13:28:22 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4455 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.92:
+f1      : 0.4200 / 0.4455     precision: 0.4211 / 0.4455     recall  : 0.4190 / 0.4455     
+Step-2.88:
+f1      : 0.4238 / 0.4455     precision: 0.4238 / 0.4455     recall  : 0.4238 / 0.4455     
+Step-2.93:
+f1      : 0.4238 / 0.4604     precision: 0.4238 / 0.4604     recall  : 0.4238 / 0.4604     
+
+
+============================direct================================
+Sun Dec 22 13:28:53 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 2,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4604, R=0.4604, F1 = 0.4604, 
+Fixed ecpe P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw ee P=0.7624, R=0.7624, F1 = 0.7624, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5050, R=0.5050, F1 = 0.5050, 
+Fixed ce P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw emo P=0.9811, R=0.9884, F1 = 0.9847, 
+Fixed emo P=0.9990, R=0.9999, F1 = 0.9994 
+ 
+
+============================dev results================================
+Sun Dec 22 16:09:21 2024
+ecpe on eca_cn_20 under multi_task epoch 2.47; fold_id = 3,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4831, R=0.4831, F1 = 0.4831, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7729, R=0.7729, F1 = 0.7729, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5266, R=0.5266, F1 = 0.5266, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9837, R=0.9901, F1 = 0.9869, 
+Fixed emo P=0.9989, R=0.9972, F1 = 0.9980 
+
+
+===========================text results=================================
+Sun Dec 22 16:09:53 2024
+ecpe on eca_cn_20 under multi_task epoch 2.47; fold_id = 3,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5297, R=0.5297, F1 = 0.5297, 
+Fixed ecpe P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw ee P=0.7228, R=0.7228, F1 = 0.7228, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5990, R=0.5990, F1 = 0.5990, 
+Fixed ce P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw emo P=0.9772, R=0.9871, F1 = 0.9821, 
+Fixed emo P=0.9987, R=0.9986, F1 = 0.9987 
+ 
+
+============================dev results================================
+Sun Dec 22 16:10:27 2024
+ecpe on eca_cn_20 under multi_task epoch 2.45; fold_id = 3,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4976, R=0.4976, F1 = 0.4976, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7826, R=0.7826, F1 = 0.7826, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5314, R=0.5314, F1 = 0.5314, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9848, R=0.9921, F1 = 0.9885, 
+Fixed emo P=0.9994, R=0.9972, F1 = 0.9983 
+
+
+===========================text results=================================
+Sun Dec 22 16:11:00 2024
+ecpe on eca_cn_20 under multi_task epoch 2.45; fold_id = 3,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5297, R=0.5297, F1 = 0.5297, 
+Fixed ecpe P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw ee P=0.7277, R=0.7277, F1 = 0.7277, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6089, R=0.6089, F1 = 0.6089, 
+Fixed ce P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw emo P=0.9806, R=0.9883, F1 = 0.9844, 
+Fixed emo P=0.9987, R=0.9987, F1 = 0.9987 
+ 
+
+============================dev results================================
+Sun Dec 22 16:11:34 2024
+ecpe on eca_cn_20 under multi_task epoch 2.42; fold_id = 3,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5072, R=0.5072, F1 = 0.5072, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7826, R=0.7826, F1 = 0.7826, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5459, R=0.5459, F1 = 0.5459, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9826, R=0.9932, F1 = 0.9879, 
+Fixed emo P=0.9989, R=0.9975, F1 = 0.9982 
+
+
+===========================text results=================================
+Sun Dec 22 16:12:06 2024
+ecpe on eca_cn_20 under multi_task epoch 2.42; fold_id = 3,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5347, R=0.5347, F1 = 0.5347, 
+Fixed ecpe P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw ee P=0.7277, R=0.7277, F1 = 0.7277, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6139, R=0.6139, F1 = 0.6139, 
+Fixed ce P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw emo P=0.9834, R=0.9875, F1 = 0.9855, 
+Fixed emo P=0.9992, R=0.9984, F1 = 0.9988 
+ 
+
+Sun Dec 22 16:12:06 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5347 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.47:
+f1      : 0.4831 / 0.5297     precision: 0.4831 / 0.5297     recall  : 0.4831 / 0.5297     
+Step-2.45:
+f1      : 0.4976 / 0.5297     precision: 0.4976 / 0.5297     recall  : 0.4976 / 0.5297     
+Step-2.42:
+f1      : 0.5072 / 0.5347     precision: 0.5072 / 0.5347     recall  : 0.5072 / 0.5347     
+
+
+============================direct================================
+Sun Dec 22 16:12:37 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 3,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5347, R=0.5347, F1 = 0.5347, 
+Fixed ecpe P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw ee P=0.7277, R=0.7277, F1 = 0.7277, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6139, R=0.6139, F1 = 0.6139, 
+Fixed ce P=0.9950, R=0.9950, F1 = 0.9950, 
+Raw emo P=0.9834, R=0.9875, F1 = 0.9855, 
+Fixed emo P=0.9992, R=0.9984, F1 = 0.9988 
+ 
+
+============================dev results================================
+Sun Dec 22 18:53:34 2024
+ecpe on eca_cn_20 under multi_task epoch 2.99; fold_id = 4,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4171, R=0.4171, F1 = 0.4171, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7441, R=0.7441, F1 = 0.7441, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4787, R=0.4787, F1 = 0.4787, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9836, R=0.9870, F1 = 0.9853, 
+Fixed emo P=0.9996, R=0.9996, F1 = 0.9996 
+
+
+===========================text results=================================
+Sun Dec 22 18:54:06 2024
+ecpe on eca_cn_20 under multi_task epoch 2.99; fold_id = 4,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4087, R=0.4067, F1 = 0.4077, 
+Fixed ecpe P=0.9952, R=0.9904, F1 = 0.9928, 
+Raw ee P=0.7356, R=0.7321, F1 = 0.7338, 
+Fixed ee P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ce P=0.4856, R=0.4833, F1 = 0.4844, 
+Fixed ce P=0.9952, R=0.9904, F1 = 0.9928, 
+Raw emo P=0.9834, R=0.9881, F1 = 0.9858, 
+Fixed emo P=0.9995, R=0.9995, F1 = 0.9995 
+ 
+
+============================dev results================================
+Sun Dec 22 18:54:40 2024
+ecpe on eca_cn_20 under multi_task epoch 3.00; fold_id = 4,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4360, R=0.4360, F1 = 0.4360, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7536, R=0.7536, F1 = 0.7536, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5071, R=0.5071, F1 = 0.5071, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9827, R=0.9859, F1 = 0.9843, 
+Fixed emo P=0.9993, R=0.9994, F1 = 0.9993 
+
+
+===========================text results=================================
+Sun Dec 22 18:55:11 2024
+ecpe on eca_cn_20 under multi_task epoch 3.00; fold_id = 4,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4402, R=0.4402, F1 = 0.4402, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7464, R=0.7464, F1 = 0.7464, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5120, R=0.5120, F1 = 0.5120, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9843, R=0.9867, F1 = 0.9855, 
+Fixed emo P=0.9995, R=0.9995, F1 = 0.9995 
+ 
+
+============================dev results================================
+Sun Dec 22 18:55:45 2024
+ecpe on eca_cn_20 under multi_task epoch 3.00; fold_id = 4,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4502, R=0.4502, F1 = 0.4502, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7583, R=0.7583, F1 = 0.7583, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5213, R=0.5213, F1 = 0.5213, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9840, R=0.9868, F1 = 0.9854, 
+Fixed emo P=0.9996, R=0.9996, F1 = 0.9996 
+
+
+===========================text results=================================
+Sun Dec 22 18:56:18 2024
+ecpe on eca_cn_20 under multi_task epoch 3.00; fold_id = 4,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4450, R=0.4450, F1 = 0.4450, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7512, R=0.7512, F1 = 0.7512, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5120, R=0.5120, F1 = 0.5120, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9837, R=0.9870, F1 = 0.9854, 
+Fixed emo P=0.9993, R=0.9995, F1 = 0.9994 
+ 
+
+Sun Dec 22 18:56:18 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4450 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.99:
+f1      : 0.4171 / 0.4077     precision: 0.4171 / 0.4087     recall  : 0.4171 / 0.4067     
+Step-3.00:
+f1      : 0.4502 / 0.4450     precision: 0.4502 / 0.4450     recall  : 0.4502 / 0.4450     
+Step-3.00:
+f1      : 0.4502 / 0.4450     precision: 0.4502 / 0.4450     recall  : 0.4502 / 0.4450     
+
+
+============================direct================================
+Sun Dec 22 18:56:50 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 4,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4450, R=0.4450, F1 = 0.4450, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7512, R=0.7512, F1 = 0.7512, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5120, R=0.5120, F1 = 0.5120, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9837, R=0.9870, F1 = 0.9854, 
+Fixed emo P=0.9993, R=0.9995, F1 = 0.9994 
+ 
+
+============================dev results================================
+Sun Dec 22 21:37:31 2024
+ecpe on eca_cn_20 under multi_task epoch 2.51; fold_id = 5,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5121, R=0.5121, F1 = 0.5121, 
+Fixed ecpe P=0.9807, R=0.9807, F1 = 0.9807, 
+Raw ee P=0.7681, R=0.7681, F1 = 0.7681, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5556, R=0.5556, F1 = 0.5556, 
+Fixed ce P=0.9807, R=0.9807, F1 = 0.9807, 
+Raw emo P=0.9833, R=0.9908, F1 = 0.9870, 
+Fixed emo P=1.0000, R=1.0000, F1 = 1.0000 
+
+
+===========================text results=================================
+Sun Dec 22 21:38:04 2024
+ecpe on eca_cn_20 under multi_task epoch 2.51; fold_id = 5,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5261, R=0.5236, F1 = 0.5248, 
+Fixed ecpe P=0.9905, R=0.9858, F1 = 0.9882, 
+Raw ee P=0.7915, R=0.7877, F1 = 0.7896, 
+Fixed ee P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ce P=0.5498, R=0.5472, F1 = 0.5485, 
+Fixed ce P=0.9905, R=0.9858, F1 = 0.9882, 
+Raw emo P=0.9846, R=0.9906, F1 = 0.9876, 
+Fixed emo P=0.9995, R=0.9995, F1 = 0.9995 
+ 
+
+============================dev results================================
+Sun Dec 22 21:38:38 2024
+ecpe on eca_cn_20 under multi_task epoch 2.47; fold_id = 5,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5291, R=0.5266, F1 = 0.5278, 
+Fixed ecpe P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ee P=0.7767, R=0.7729, F1 = 0.7748, 
+Fixed ee P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ce P=0.5777, R=0.5749, F1 = 0.5763, 
+Fixed ce P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw emo P=0.9841, R=0.9888, F1 = 0.9865, 
+Fixed emo P=1.0000, R=1.0000, F1 = 1.0000 
+
+
+===========================text results=================================
+Sun Dec 22 21:39:10 2024
+ecpe on eca_cn_20 under multi_task epoch 2.47; fold_id = 5,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5377, R=0.5377, F1 = 0.5377, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7877, R=0.7877, F1 = 0.7877, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5802, R=0.5802, F1 = 0.5802, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9835, R=0.9905, F1 = 0.9870, 
+Fixed emo P=0.9995, R=0.9995, F1 = 0.9995 
+ 
+
+============================dev results================================
+Sun Dec 22 21:39:44 2024
+ecpe on eca_cn_20 under multi_task epoch 2.50; fold_id = 5,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5266, R=0.5266, F1 = 0.5266, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7729, R=0.7729, F1 = 0.7729, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5749, R=0.5749, F1 = 0.5749, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9851, R=0.9892, F1 = 0.9871, 
+Fixed emo P=1.0000, R=1.0000, F1 = 1.0000 
+
+
+===========================text results=================================
+Sun Dec 22 21:40:23 2024
+ecpe on eca_cn_20 under multi_task epoch 2.50; fold_id = 5,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5330, R=0.5330, F1 = 0.5330, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7877, R=0.7877, F1 = 0.7877, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5755, R=0.5755, F1 = 0.5755, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9837, R=0.9897, F1 = 0.9867, 
+Fixed emo P=0.9990, R=0.9996, F1 = 0.9993 
+ 
+
+Sun Dec 22 21:40:23 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5377 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.51:
+f1      : 0.5121 / 0.5248     precision: 0.5121 / 0.5261     recall  : 0.5121 / 0.5236     
+Step-2.47:
+f1      : 0.5278 / 0.5377     precision: 0.5291 / 0.5377     recall  : 0.5266 / 0.5377     
+Step-2.50:
+f1      : 0.5266 / 0.5330     precision: 0.5266 / 0.5330     recall  : 0.5266 / 0.5330     
+
+
+============================direct================================
+Sun Dec 22 21:40:55 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 5,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5330, R=0.5330, F1 = 0.5330, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7877, R=0.7877, F1 = 0.7877, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5755, R=0.5755, F1 = 0.5755, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9837, R=0.9897, F1 = 0.9867, 
+Fixed emo P=0.9990, R=0.9996, F1 = 0.9993 
+ 
+
+============================dev results================================
+Mon Dec 23 00:16:07 2024
+ecpe on eca_cn_20 under multi_task epoch 2.10; fold_id = 6,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5164, R=0.5164, F1 = 0.5164, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7512, R=0.7512, F1 = 0.7512, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5869, R=0.5869, F1 = 0.5869, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9833, R=0.9881, F1 = 0.9857, 
+Fixed emo P=0.9996, R=1.0000, F1 = 0.9998 
+
+
+===========================text results=================================
+Mon Dec 23 00:16:38 2024
+ecpe on eca_cn_20 under multi_task epoch 2.10; fold_id = 6,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5395, R=0.5370, F1 = 0.5383, 
+Fixed ecpe P=0.9953, R=0.9907, F1 = 0.9930, 
+Raw ee P=0.8093, R=0.8056, F1 = 0.8074, 
+Fixed ee P=0.9953, R=0.9907, F1 = 0.9930, 
+Raw ce P=0.6233, R=0.6204, F1 = 0.6218, 
+Fixed ce P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw emo P=0.9867, R=0.9932, F1 = 0.9899, 
+Fixed emo P=0.9983, R=0.9998, F1 = 0.9990 
+ 
+
+============================dev results================================
+Mon Dec 23 00:17:11 2024
+ecpe on eca_cn_20 under multi_task epoch 2.09; fold_id = 6,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5164, R=0.5164, F1 = 0.5164, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7512, R=0.7512, F1 = 0.7512, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5869, R=0.5869, F1 = 0.5869, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9833, R=0.9906, F1 = 0.9869, 
+Fixed emo P=0.9996, R=1.0001, F1 = 0.9999 
+
+
+===========================text results=================================
+Mon Dec 23 00:17:41 2024
+ecpe on eca_cn_20 under multi_task epoch 2.09; fold_id = 6,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5463, R=0.5463, F1 = 0.5463, 
+Fixed ecpe P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw ee P=0.8148, R=0.8148, F1 = 0.8148, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6204, R=0.6204, F1 = 0.6204, 
+Fixed ce P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw emo P=0.9845, R=0.9948, F1 = 0.9896, 
+Fixed emo P=0.9979, R=1.0030, F1 = 1.0004 
+ 
+
+============================dev results================================
+Mon Dec 23 00:18:16 2024
+ecpe on eca_cn_20 under multi_task epoch 2.12; fold_id = 6,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5142, R=0.5117, F1 = 0.5129, 
+Fixed ecpe P=0.9953, R=0.9906, F1 = 0.9929, 
+Raw ee P=0.7547, R=0.7512, F1 = 0.7529, 
+Fixed ee P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ce P=0.5896, R=0.5869, F1 = 0.5882, 
+Fixed ce P=0.9953, R=0.9906, F1 = 0.9929, 
+Raw emo P=0.9845, R=0.9903, F1 = 0.9874, 
+Fixed emo P=0.9999, R=0.9999, F1 = 0.9999 
+
+
+===========================text results=================================
+Mon Dec 23 00:18:46 2024
+ecpe on eca_cn_20 under multi_task epoch 2.12; fold_id = 6,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5417, R=0.5417, F1 = 0.5417, 
+Fixed ecpe P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw ee P=0.8056, R=0.8056, F1 = 0.8056, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6204, R=0.6204, F1 = 0.6204, 
+Fixed ce P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw emo P=0.9879, R=0.9928, F1 = 0.9904, 
+Fixed emo P=0.9988, R=1.0026, F1 = 1.0007 
+ 
+
+Mon Dec 23 00:18:46 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5383 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.10:
+f1      : 0.5164 / 0.5383     precision: 0.5164 / 0.5395     recall  : 0.5164 / 0.5370     
+Step-2.09:
+f1      : 0.5164 / 0.5463     precision: 0.5164 / 0.5463     recall  : 0.5164 / 0.5463     
+Step-2.12:
+f1      : 0.5129 / 0.5417     precision: 0.5142 / 0.5417     recall  : 0.5117 / 0.5417     
+
+
+============================direct================================
+Mon Dec 23 00:19:18 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 6,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5417, R=0.5417, F1 = 0.5417, 
+Fixed ecpe P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw ee P=0.8056, R=0.8056, F1 = 0.8056, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6204, R=0.6204, F1 = 0.6204, 
+Fixed ce P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw emo P=0.9879, R=0.9928, F1 = 0.9904, 
+Fixed emo P=0.9988, R=1.0026, F1 = 1.0007 
+ 
+
+============================dev results================================
+Mon Dec 23 02:54:19 2024
+ecpe on eca_cn_20 under multi_task epoch 2.72; fold_id = 7,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4515, R=0.4515, F1 = 0.4515, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7476, R=0.7476, F1 = 0.7476, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5291, R=0.5291, F1 = 0.5291, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9819, R=0.9896, F1 = 0.9857, 
+Fixed emo P=0.9997, R=0.9999, F1 = 0.9998 
+
+
+===========================text results=================================
+Mon Dec 23 02:54:50 2024
+ecpe on eca_cn_20 under multi_task epoch 2.72; fold_id = 7,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4360, R=0.4360, F1 = 0.4360, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7630, R=0.7630, F1 = 0.7630, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5118, R=0.5118, F1 = 0.5118, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9840, R=0.9882, F1 = 0.9861, 
+Fixed emo P=0.9994, R=0.9985, F1 = 0.9990 
+ 
+
+============================dev results================================
+Mon Dec 23 02:55:23 2024
+ecpe on eca_cn_20 under multi_task epoch 2.69; fold_id = 7,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4757, R=0.4757, F1 = 0.4757, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7670, R=0.7670, F1 = 0.7670, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5485, R=0.5485, F1 = 0.5485, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9833, R=0.9900, F1 = 0.9867, 
+Fixed emo P=0.9997, R=0.9999, F1 = 0.9998 
+
+
+===========================text results=================================
+Mon Dec 23 02:55:55 2024
+ecpe on eca_cn_20 under multi_task epoch 2.69; fold_id = 7,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4692, R=0.4692, F1 = 0.4692, 
+Fixed ecpe P=0.9905, R=0.9905, F1 = 0.9905, 
+Raw ee P=0.7773, R=0.7773, F1 = 0.7773, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5450, R=0.5450, F1 = 0.5450, 
+Fixed ce P=0.9905, R=0.9905, F1 = 0.9905, 
+Raw emo P=0.9861, R=0.9895, F1 = 0.9878, 
+Fixed emo P=0.9996, R=0.9984, F1 = 0.9990 
+ 
+
+============================dev results================================
+Mon Dec 23 02:56:28 2024
+ecpe on eca_cn_20 under multi_task epoch 2.72; fold_id = 7,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4806, R=0.4806, F1 = 0.4806, 
+Fixed ecpe P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ee P=0.7670, R=0.7670, F1 = 0.7670, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5534, R=0.5534, F1 = 0.5534, 
+Fixed ce P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw emo P=0.9836, R=0.9904, F1 = 0.9870, 
+Fixed emo P=0.9999, R=0.9999, F1 = 0.9999 
+
+
+===========================text results=================================
+Mon Dec 23 02:57:00 2024
+ecpe on eca_cn_20 under multi_task epoch 2.72; fold_id = 7,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4645, R=0.4645, F1 = 0.4645, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7773, R=0.7773, F1 = 0.7773, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5403, R=0.5403, F1 = 0.5403, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9840, R=0.9893, F1 = 0.9867, 
+Fixed emo P=0.9996, R=0.9984, F1 = 0.9990 
+ 
+
+Mon Dec 23 02:57:00 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4645 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.72:
+f1      : 0.4806 / 0.4645     precision: 0.4806 / 0.4645     recall  : 0.4806 / 0.4645     
+Step-2.69:
+f1      : 0.4757 / 0.4692     precision: 0.4757 / 0.4692     recall  : 0.4757 / 0.4692     
+Step-2.72:
+f1      : 0.4806 / 0.4645     precision: 0.4806 / 0.4645     recall  : 0.4806 / 0.4645     
+
+
+============================direct================================
+Mon Dec 23 02:57:31 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 7,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4645, R=0.4645, F1 = 0.4645, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7773, R=0.7773, F1 = 0.7773, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5403, R=0.5403, F1 = 0.5403, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9840, R=0.9893, F1 = 0.9867, 
+Fixed emo P=0.9996, R=0.9984, F1 = 0.9990 
+ 
+
+============================dev results================================
+Mon Dec 23 05:32:19 2024
+ecpe on eca_cn_20 under multi_task epoch 2.73; fold_id = 8,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4175, R=0.4175, F1 = 0.4175, 
+Fixed ecpe P=0.9854, R=0.9854, F1 = 0.9854, 
+Raw ee P=0.6845, R=0.6845, F1 = 0.6845, 
+Fixed ee P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ce P=0.5097, R=0.5097, F1 = 0.5097, 
+Fixed ce P=0.9903, R=0.9903, F1 = 0.9903, 
+Raw emo P=0.9776, R=0.9840, F1 = 0.9808, 
+Fixed emo P=0.9975, R=0.9981, F1 = 0.9978 
+
+
+===========================text results=================================
+Mon Dec 23 05:32:51 2024
+ecpe on eca_cn_20 under multi_task epoch 2.73; fold_id = 8,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4408, R=0.4408, F1 = 0.4408, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7299, R=0.7299, F1 = 0.7299, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5450, R=0.5450, F1 = 0.5450, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9795, R=0.9860, F1 = 0.9828, 
+Fixed emo P=0.9982, R=0.9981, F1 = 0.9981 
+ 
+
+============================dev results================================
+Mon Dec 23 05:33:24 2024
+ecpe on eca_cn_20 under multi_task epoch 2.71; fold_id = 8,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4412, R=0.4369, F1 = 0.4390, 
+Fixed ecpe P=0.9951, R=0.9854, F1 = 0.9902, 
+Raw ee P=0.7059, R=0.6990, F1 = 0.7024, 
+Fixed ee P=0.9951, R=0.9854, F1 = 0.9902, 
+Raw ce P=0.5294, R=0.5243, F1 = 0.5268, 
+Fixed ce P=1.0000, R=0.9903, F1 = 0.9951, 
+Raw emo P=0.9802, R=0.9846, F1 = 0.9824, 
+Fixed emo P=0.9982, R=0.9979, F1 = 0.9981 
+
+
+===========================text results=================================
+Mon Dec 23 05:33:55 2024
+ecpe on eca_cn_20 under multi_task epoch 2.71; fold_id = 8,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4455, R=0.4455, F1 = 0.4455, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5498, R=0.5498, F1 = 0.5498, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9811, R=0.9858, F1 = 0.9834, 
+Fixed emo P=0.9983, R=0.9981, F1 = 0.9982 
+ 
+
+============================dev results================================
+Mon Dec 23 05:34:28 2024
+ecpe on eca_cn_20 under multi_task epoch 2.71; fold_id = 8,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4369, R=0.4369, F1 = 0.4369, 
+Fixed ecpe P=0.9903, R=0.9903, F1 = 0.9903, 
+Raw ee P=0.7087, R=0.7087, F1 = 0.7087, 
+Fixed ee P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ce P=0.5243, R=0.5243, F1 = 0.5243, 
+Fixed ce P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw emo P=0.9789, R=0.9844, F1 = 0.9817, 
+Fixed emo P=0.9976, R=0.9978, F1 = 0.9977 
+
+
+===========================text results=================================
+Mon Dec 23 05:34:59 2024
+ecpe on eca_cn_20 under multi_task epoch 2.71; fold_id = 8,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4645, R=0.4645, F1 = 0.4645, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5687, R=0.5687, F1 = 0.5687, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9800, R=0.9854, F1 = 0.9827, 
+Fixed emo P=0.9970, R=0.9982, F1 = 0.9976 
+ 
+
+Mon Dec 23 05:34:59 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4645 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.73:
+f1      : 0.4175 / 0.4408     precision: 0.4175 / 0.4408     recall  : 0.4175 / 0.4408     
+Step-2.71:
+f1      : 0.4369 / 0.4645     precision: 0.4369 / 0.4645     recall  : 0.4369 / 0.4645     
+Step-2.71:
+f1      : 0.4369 / 0.4645     precision: 0.4369 / 0.4645     recall  : 0.4369 / 0.4645     
+
+
+============================direct================================
+Mon Dec 23 05:35:29 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 8,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4645, R=0.4645, F1 = 0.4645, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5687, R=0.5687, F1 = 0.5687, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9800, R=0.9854, F1 = 0.9827, 
+Fixed emo P=0.9970, R=0.9982, F1 = 0.9976 
+ 
+
+============================dev results================================
+Mon Dec 23 08:10:28 2024
+ecpe on eca_cn_20 under multi_task epoch 2.88; fold_id = 9,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4341, R=0.4320, F1 = 0.4331, 
+Fixed ecpe P=1.0000, R=0.9951, F1 = 0.9976, 
+Raw ee P=0.7317, R=0.7282, F1 = 0.7299, 
+Fixed ee P=1.0000, R=0.9951, F1 = 0.9976, 
+Raw ce P=0.5220, R=0.5194, F1 = 0.5207, 
+Fixed ce P=1.0000, R=0.9951, F1 = 0.9976, 
+Raw emo P=0.9770, R=0.9872, F1 = 0.9821, 
+Fixed emo P=0.9980, R=0.9999, F1 = 0.9989 
+
+
+===========================text results=================================
+Mon Dec 23 08:11:00 2024
+ecpe on eca_cn_20 under multi_task epoch 2.88; fold_id = 9,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4313, R=0.4272, F1 = 0.4292, 
+Fixed ecpe P=0.9905, R=0.9812, F1 = 0.9858, 
+Raw ee P=0.6967, R=0.6901, F1 = 0.6934, 
+Fixed ee P=0.9953, R=0.9859, F1 = 0.9906, 
+Raw ce P=0.5166, R=0.5117, F1 = 0.5142, 
+Fixed ce P=0.9905, R=0.9812, F1 = 0.9858, 
+Raw emo P=0.9742, R=0.9826, F1 = 0.9784, 
+Fixed emo P=0.9976, R=1.0020, F1 = 0.9998 
+ 
+
+============================dev results================================
+Mon Dec 23 08:11:33 2024
+ecpe on eca_cn_20 under multi_task epoch 2.92; fold_id = 9,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4634, R=0.4612, F1 = 0.4623, 
+Fixed ecpe P=0.9902, R=0.9854, F1 = 0.9878, 
+Raw ee P=0.7512, R=0.7476, F1 = 0.7494, 
+Fixed ee P=1.0000, R=0.9951, F1 = 0.9976, 
+Raw ce P=0.5512, R=0.5485, F1 = 0.5499, 
+Fixed ce P=0.9902, R=0.9854, F1 = 0.9878, 
+Raw emo P=0.9820, R=0.9893, F1 = 0.9857, 
+Fixed emo P=0.9994, R=0.9998, F1 = 0.9996 
+
+
+===========================text results=================================
+Mon Dec 23 08:12:04 2024
+ecpe on eca_cn_20 under multi_task epoch 2.92; fold_id = 9,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4507, R=0.4507, F1 = 0.4507, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.6995, R=0.6995, F1 = 0.6995, 
+Fixed ee P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ce P=0.5305, R=0.5305, F1 = 0.5305, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9786, R=0.9833, F1 = 0.9810, 
+Fixed emo P=0.9980, R=1.0043, F1 = 1.0011 
+ 
+
+============================dev results================================
+Mon Dec 23 08:12:37 2024
+ecpe on eca_cn_20 under multi_task epoch 2.91; fold_id = 9,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4515, R=0.4515, F1 = 0.4515, 
+Fixed ecpe P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ee P=0.7233, R=0.7233, F1 = 0.7233, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5437, R=0.5437, F1 = 0.5437, 
+Fixed ce P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw emo P=0.9791, R=0.9867, F1 = 0.9829, 
+Fixed emo P=0.9988, R=0.9999, F1 = 0.9993 
+
+
+===========================text results=================================
+Mon Dec 23 08:13:09 2024
+ecpe on eca_cn_20 under multi_task epoch 2.91; fold_id = 9,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4695, R=0.4695, F1 = 0.4695, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.6948, R=0.6948, F1 = 0.6948, 
+Fixed ee P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ce P=0.5540, R=0.5540, F1 = 0.5540, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9764, R=0.9863, F1 = 0.9813, 
+Fixed emo P=0.9974, R=1.0019, F1 = 0.9996 
+ 
+
+Mon Dec 23 08:13:09 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4507 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.88:
+f1      : 0.4331 / 0.4292     precision: 0.4341 / 0.4313     recall  : 0.4320 / 0.4272     
+Step-2.92:
+f1      : 0.4623 / 0.4507     precision: 0.4634 / 0.4507     recall  : 0.4612 / 0.4507     
+Step-2.91:
+f1      : 0.4515 / 0.4695     precision: 0.4515 / 0.4695     recall  : 0.4515 / 0.4695     
+
+
+============================direct================================
+Mon Dec 23 08:13:40 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 9,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4695, R=0.4695, F1 = 0.4695, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.6948, R=0.6948, F1 = 0.6948, 
+Fixed ee P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ce P=0.5540, R=0.5540, F1 = 0.5540, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9764, R=0.9863, F1 = 0.9813, 
+Fixed emo P=0.9974, R=1.0019, F1 = 0.9996 
+ 
+
+============================dev results================================
+Mon Dec 23 10:50:08 2024
+ecpe on eca_cn_20 under multi_task epoch 2.78; fold_id = 10,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4877, R=0.4877, F1 = 0.4877, 
+Fixed ecpe P=0.9901, R=0.9901, F1 = 0.9901, 
+Raw ee P=0.7783, R=0.7783, F1 = 0.7783, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5567, R=0.5567, F1 = 0.5567, 
+Fixed ce P=0.9901, R=0.9901, F1 = 0.9901, 
+Raw emo P=0.9810, R=0.9935, F1 = 0.9872, 
+Fixed emo P=0.9986, R=0.9996, F1 = 0.9991 
+
+
+===========================text results=================================
+Mon Dec 23 10:50:39 2024
+ecpe on eca_cn_20 under multi_task epoch 2.78; fold_id = 10,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4541, R=0.4541, F1 = 0.4541, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7488, R=0.7488, F1 = 0.7488, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5314, R=0.5314, F1 = 0.5314, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9770, R=0.9875, F1 = 0.9822, 
+Fixed emo P=0.9990, R=0.9994, F1 = 0.9992 
+ 
+
+============================dev results================================
+Mon Dec 23 10:51:12 2024
+ecpe on eca_cn_20 under multi_task epoch 2.83; fold_id = 10,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4851, R=0.4828, F1 = 0.4840, 
+Fixed ecpe P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw ee P=0.7822, R=0.7783, F1 = 0.7802, 
+Fixed ee P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw ce P=0.5545, R=0.5517, F1 = 0.5531, 
+Fixed ce P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw emo P=0.9804, R=0.9924, F1 = 0.9864, 
+Fixed emo P=0.9987, R=0.9995, F1 = 0.9991 
+
+
+===========================text results=================================
+Mon Dec 23 10:51:43 2024
+ecpe on eca_cn_20 under multi_task epoch 2.83; fold_id = 10,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4563, R=0.4541, F1 = 0.4552, 
+Fixed ecpe P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ee P=0.7524, R=0.7488, F1 = 0.7506, 
+Fixed ee P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ce P=0.5340, R=0.5314, F1 = 0.5327, 
+Fixed ce P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw emo P=0.9791, R=0.9856, F1 = 0.9823, 
+Fixed emo P=0.9993, R=0.9994, F1 = 0.9993 
+ 
+
+============================dev results================================
+Mon Dec 23 10:52:16 2024
+ecpe on eca_cn_20 under multi_task epoch 2.81; fold_id = 10,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4901, R=0.4877, F1 = 0.4889, 
+Fixed ecpe P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw ee P=0.7822, R=0.7783, F1 = 0.7802, 
+Fixed ee P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw ce P=0.5594, R=0.5567, F1 = 0.5580, 
+Fixed ce P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw emo P=0.9822, R=0.9920, F1 = 0.9871, 
+Fixed emo P=0.9987, R=0.9994, F1 = 0.9990 
+
+
+===========================text results=================================
+Mon Dec 23 10:52:47 2024
+ecpe on eca_cn_20 under multi_task epoch 2.81; fold_id = 10,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4444, R=0.4444, F1 = 0.4444, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7440, R=0.7440, F1 = 0.7440, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5266, R=0.5266, F1 = 0.5266, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9784, R=0.9861, F1 = 0.9822, 
+Fixed emo P=0.9990, R=0.9995, F1 = 0.9993 
+ 
+
+Mon Dec 23 10:52:47 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4444 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.78:
+f1      : 0.4877 / 0.4541     precision: 0.4877 / 0.4541     recall  : 0.4877 / 0.4541     
+Step-2.83:
+f1      : 0.4840 / 0.4552     precision: 0.4851 / 0.4563     recall  : 0.4828 / 0.4541     
+Step-2.81:
+f1      : 0.4889 / 0.4444     precision: 0.4901 / 0.4444     recall  : 0.4877 / 0.4444     
+
+
+============================direct================================
+Mon Dec 23 10:53:19 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 10,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4444, R=0.4444, F1 = 0.4444, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7440, R=0.7440, F1 = 0.7440, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5266, R=0.5266, F1 = 0.5266, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9784, R=0.9861, F1 = 0.9822, 
+Fixed emo P=0.9990, R=0.9995, F1 = 0.9993 
+ 
+
+============================dev results================================
+Mon Dec 23 13:28:02 2024
+ecpe on eca_cn_20 under multi_task epoch 2.48; fold_id = 11,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5142, R=0.5142, F1 = 0.5142, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7642, R=0.7642, F1 = 0.7642, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5896, R=0.5896, F1 = 0.5896, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9839, R=0.9870, F1 = 0.9854, 
+Fixed emo P=0.9994, R=0.9998, F1 = 0.9996 
+
+
+===========================text results=================================
+Mon Dec 23 13:28:33 2024
+ecpe on eca_cn_20 under multi_task epoch 2.48; fold_id = 11,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4953, R=0.4930, F1 = 0.4941, 
+Fixed ecpe P=0.9953, R=0.9906, F1 = 0.9929, 
+Raw ee P=0.7736, R=0.7700, F1 = 0.7718, 
+Fixed ee P=0.9953, R=0.9906, F1 = 0.9929, 
+Raw ce P=0.5708, R=0.5681, F1 = 0.5694, 
+Fixed ce P=0.9953, R=0.9906, F1 = 0.9929, 
+Raw emo P=0.9851, R=0.9893, F1 = 0.9872, 
+Fixed emo P=0.9990, R=1.0020, F1 = 1.0005 
+ 
+
+============================dev results================================
+Mon Dec 23 13:29:06 2024
+ecpe on eca_cn_20 under multi_task epoch 2.50; fold_id = 11,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5190, R=0.5142, F1 = 0.5166, 
+Fixed ecpe P=1.0000, R=0.9906, F1 = 0.9953, 
+Raw ee P=0.7667, R=0.7594, F1 = 0.7630, 
+Fixed ee P=1.0000, R=0.9906, F1 = 0.9953, 
+Raw ce P=0.5952, R=0.5896, F1 = 0.5924, 
+Fixed ce P=1.0000, R=0.9906, F1 = 0.9953, 
+Raw emo P=0.9829, R=0.9858, F1 = 0.9843, 
+Fixed emo P=0.9996, R=0.9996, F1 = 0.9996 
+
+
+===========================text results=================================
+Mon Dec 23 13:29:37 2024
+ecpe on eca_cn_20 under multi_task epoch 2.50; fold_id = 11,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4883, R=0.4883, F1 = 0.4883, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7700, R=0.7700, F1 = 0.7700, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5728, R=0.5728, F1 = 0.5728, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9867, R=0.9899, F1 = 0.9883, 
+Fixed emo P=0.9998, R=0.9992, F1 = 0.9995 
+ 
+
+============================dev results================================
+Mon Dec 23 13:30:11 2024
+ecpe on eca_cn_20 under multi_task epoch 2.51; fold_id = 11,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5330, R=0.5330, F1 = 0.5330, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7689, R=0.7689, F1 = 0.7689, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5943, R=0.5943, F1 = 0.5943, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9865, R=0.9875, F1 = 0.9870, 
+Fixed emo P=0.9998, R=0.9996, F1 = 0.9997 
+
+
+===========================text results=================================
+Mon Dec 23 13:30:42 2024
+ecpe on eca_cn_20 under multi_task epoch 2.51; fold_id = 11,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4883, R=0.4883, F1 = 0.4883, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7840, R=0.7840, F1 = 0.7840, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5634, R=0.5634, F1 = 0.5634, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9843, R=0.9906, F1 = 0.9874, 
+Fixed emo P=0.9996, R=0.9996, F1 = 0.9996 
+ 
+
+Mon Dec 23 13:30:42 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4883 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.48:
+f1      : 0.5142 / 0.4941     precision: 0.5142 / 0.4953     recall  : 0.5142 / 0.4930     
+Step-2.50:
+f1      : 0.5166 / 0.4883     precision: 0.5190 / 0.4883     recall  : 0.5142 / 0.4883     
+Step-2.51:
+f1      : 0.5330 / 0.4883     precision: 0.5330 / 0.4883     recall  : 0.5330 / 0.4883     
+
+
+============================direct================================
+Mon Dec 23 13:31:14 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 11,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4883, R=0.4883, F1 = 0.4883, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7840, R=0.7840, F1 = 0.7840, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5634, R=0.5634, F1 = 0.5634, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9843, R=0.9906, F1 = 0.9874, 
+Fixed emo P=0.9996, R=0.9996, F1 = 0.9996 
+ 
+
+============================dev results================================
+Mon Dec 23 16:06:17 2024
+ecpe on eca_cn_20 under multi_task epoch 2.40; fold_id = 12,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4686, R=0.4686, F1 = 0.4686, 
+Fixed ecpe P=0.9903, R=0.9903, F1 = 0.9903, 
+Raw ee P=0.7488, R=0.7488, F1 = 0.7488, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5121, R=0.5121, F1 = 0.5121, 
+Fixed ce P=0.9903, R=0.9903, F1 = 0.9903, 
+Raw emo P=0.9836, R=0.9902, F1 = 0.9869, 
+Fixed emo P=0.9991, R=0.9989, F1 = 0.9990 
+
+
+===========================text results=================================
+Mon Dec 23 16:06:48 2024
+ecpe on eca_cn_20 under multi_task epoch 2.40; fold_id = 12,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4882, R=0.4882, F1 = 0.4882, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5782, R=0.5782, F1 = 0.5782, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9831, R=0.9866, F1 = 0.9848, 
+Fixed emo P=0.9987, R=0.9981, F1 = 0.9984 
+ 
+
+============================dev results================================
+Mon Dec 23 16:07:21 2024
+ecpe on eca_cn_20 under multi_task epoch 2.36; fold_id = 12,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4734, R=0.4734, F1 = 0.4734, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7536, R=0.7536, F1 = 0.7536, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5217, R=0.5217, F1 = 0.5217, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9854, R=0.9910, F1 = 0.9882, 
+Fixed emo P=0.9988, R=0.9991, F1 = 0.9990 
+
+
+===========================text results=================================
+Mon Dec 23 16:07:53 2024
+ecpe on eca_cn_20 under multi_task epoch 2.36; fold_id = 12,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5118, R=0.5118, F1 = 0.5118, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7441, R=0.7441, F1 = 0.7441, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6066, R=0.6066, F1 = 0.6066, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9791, R=0.9885, F1 = 0.9838, 
+Fixed emo P=0.9985, R=0.9985, F1 = 0.9985 
+ 
+
+============================dev results================================
+Mon Dec 23 16:08:26 2024
+ecpe on eca_cn_20 under multi_task epoch 2.40; fold_id = 12,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4734, R=0.4734, F1 = 0.4734, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7536, R=0.7536, F1 = 0.7536, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5217, R=0.5217, F1 = 0.5217, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9833, R=0.9901, F1 = 0.9867, 
+Fixed emo P=0.9991, R=0.9988, F1 = 0.9990 
+
+
+===========================text results=================================
+Mon Dec 23 16:08:58 2024
+ecpe on eca_cn_20 under multi_task epoch 2.40; fold_id = 12,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5118, R=0.5118, F1 = 0.5118, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6019, R=0.6019, F1 = 0.6019, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9800, R=0.9901, F1 = 0.9851, 
+Fixed emo P=0.9987, R=0.9982, F1 = 0.9985 
+ 
+
+Mon Dec 23 16:08:58 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5118 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.40:
+f1      : 0.4734 / 0.5118     precision: 0.4734 / 0.5118     recall  : 0.4734 / 0.5118     
+Step-2.36:
+f1      : 0.4734 / 0.5118     precision: 0.4734 / 0.5118     recall  : 0.4734 / 0.5118     
+Step-2.40:
+f1      : 0.4734 / 0.5118     precision: 0.4734 / 0.5118     recall  : 0.4734 / 0.5118     
+
+
+============================direct================================
+Mon Dec 23 16:09:29 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 12,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5118, R=0.5118, F1 = 0.5118, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6019, R=0.6019, F1 = 0.6019, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9800, R=0.9901, F1 = 0.9851, 
+Fixed emo P=0.9987, R=0.9982, F1 = 0.9985 
+ 
+
+============================dev results================================
+Mon Dec 23 18:44:49 2024
+ecpe on eca_cn_20 under multi_task epoch 2.31; fold_id = 13,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5000, R=0.5000, F1 = 0.5000, 
+Fixed ecpe P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ee P=0.7427, R=0.7427, F1 = 0.7427, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5437, R=0.5437, F1 = 0.5437, 
+Fixed ce P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw emo P=0.9798, R=0.9932, F1 = 0.9864, 
+Fixed emo P=0.9985, R=0.9995, F1 = 0.9990 
+
+
+===========================text results=================================
+Mon Dec 23 18:45:21 2024
+ecpe on eca_cn_20 under multi_task epoch 2.31; fold_id = 13,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5118, R=0.5118, F1 = 0.5118, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7488, R=0.7488, F1 = 0.7488, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5829, R=0.5829, F1 = 0.5829, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9807, R=0.9876, F1 = 0.9842, 
+Fixed emo P=0.9988, R=0.9981, F1 = 0.9984 
+ 
+
+============================dev results================================
+Mon Dec 23 18:45:55 2024
+ecpe on eca_cn_20 under multi_task epoch 2.30; fold_id = 13,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5049, R=0.5049, F1 = 0.5049, 
+Fixed ecpe P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ee P=0.7330, R=0.7330, F1 = 0.7330, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5485, R=0.5485, F1 = 0.5485, 
+Fixed ce P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw emo P=0.9817, R=0.9892, F1 = 0.9855, 
+Fixed emo P=0.9988, R=0.9994, F1 = 0.9991 
+
+
+===========================text results=================================
+Mon Dec 23 18:46:26 2024
+ecpe on eca_cn_20 under multi_task epoch 2.30; fold_id = 13,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5238, R=0.5213, F1 = 0.5226, 
+Fixed ecpe P=0.9952, R=0.9905, F1 = 0.9929, 
+Raw ee P=0.7524, R=0.7488, F1 = 0.7506, 
+Fixed ee P=0.9952, R=0.9905, F1 = 0.9929, 
+Raw ce P=0.6000, R=0.5972, F1 = 0.5986, 
+Fixed ce P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw emo P=0.9798, R=0.9885, F1 = 0.9841, 
+Fixed emo P=0.9977, R=0.9980, F1 = 0.9978 
+ 
+
+============================dev results================================
+Mon Dec 23 18:47:01 2024
+ecpe on eca_cn_20 under multi_task epoch 2.30; fold_id = 13,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5097, R=0.5097, F1 = 0.5097, 
+Fixed ecpe P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw ee P=0.7427, R=0.7427, F1 = 0.7427, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5534, R=0.5534, F1 = 0.5534, 
+Fixed ce P=0.9951, R=0.9951, F1 = 0.9951, 
+Raw emo P=0.9821, R=0.9885, F1 = 0.9853, 
+Fixed emo P=0.9986, R=0.9993, F1 = 0.9989 
+
+
+===========================text results=================================
+Mon Dec 23 18:47:32 2024
+ecpe on eca_cn_20 under multi_task epoch 2.30; fold_id = 13,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5286, R=0.5261, F1 = 0.5273, 
+Fixed ecpe P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ee P=0.7571, R=0.7536, F1 = 0.7553, 
+Fixed ee P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ce P=0.5952, R=0.5924, F1 = 0.5938, 
+Fixed ce P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw emo P=0.9795, R=0.9879, F1 = 0.9837, 
+Fixed emo P=0.9989, R=0.9986, F1 = 0.9987 
+ 
+
+Mon Dec 23 18:47:32 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5273 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.31:
+f1      : 0.5000 / 0.5118     precision: 0.5000 / 0.5118     recall  : 0.5000 / 0.5118     
+Step-2.30:
+f1      : 0.5097 / 0.5273     precision: 0.5097 / 0.5286     recall  : 0.5097 / 0.5261     
+Step-2.30:
+f1      : 0.5097 / 0.5273     precision: 0.5097 / 0.5286     recall  : 0.5097 / 0.5261     
+
+
+============================direct================================
+Mon Dec 23 18:48:03 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 13,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5286, R=0.5261, F1 = 0.5273, 
+Fixed ecpe P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ee P=0.7571, R=0.7536, F1 = 0.7553, 
+Fixed ee P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ce P=0.5952, R=0.5924, F1 = 0.5938, 
+Fixed ce P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw emo P=0.9795, R=0.9879, F1 = 0.9837, 
+Fixed emo P=0.9989, R=0.9986, F1 = 0.9987 
+ 
+
+============================dev results================================
+Mon Dec 23 21:22:50 2024
+ecpe on eca_cn_20 under multi_task epoch 2.81; fold_id = 14,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4187, R=0.4187, F1 = 0.4187, 
+Fixed ecpe P=0.9901, R=0.9901, F1 = 0.9901, 
+Raw ee P=0.7340, R=0.7340, F1 = 0.7340, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4729, R=0.4729, F1 = 0.4729, 
+Fixed ce P=0.9901, R=0.9901, F1 = 0.9901, 
+Raw emo P=0.9850, R=0.9873, F1 = 0.9862, 
+Fixed emo P=0.9993, R=0.9990, F1 = 0.9991 
+
+
+===========================text results=================================
+Mon Dec 23 21:23:21 2024
+ecpe on eca_cn_20 under multi_task epoch 2.81; fold_id = 14,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4810, R=0.4810, F1 = 0.4810, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7333, R=0.7333, F1 = 0.7333, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5429, R=0.5429, F1 = 0.5429, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9754, R=0.9877, F1 = 0.9815, 
+Fixed emo P=0.9987, R=0.9977, F1 = 0.9982 
+ 
+
+============================dev results================================
+Mon Dec 23 21:23:55 2024
+ecpe on eca_cn_20 under multi_task epoch 2.78; fold_id = 14,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4680, R=0.4680, F1 = 0.4680, 
+Fixed ecpe P=0.9704, R=0.9704, F1 = 0.9704, 
+Raw ee P=0.7488, R=0.7488, F1 = 0.7488, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5271, R=0.5271, F1 = 0.5271, 
+Fixed ce P=0.9704, R=0.9704, F1 = 0.9704, 
+Raw emo P=0.9834, R=0.9898, F1 = 0.9866, 
+Fixed emo P=0.9994, R=0.9991, F1 = 0.9993 
+
+
+===========================text results=================================
+Mon Dec 23 21:24:26 2024
+ecpe on eca_cn_20 under multi_task epoch 2.78; fold_id = 14,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4952, R=0.4952, F1 = 0.4952, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7333, R=0.7333, F1 = 0.7333, 
+Fixed ee P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ce P=0.5619, R=0.5619, F1 = 0.5619, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9770, R=0.9885, F1 = 0.9827, 
+Fixed emo P=0.9975, R=0.9972, F1 = 0.9973 
+ 
+
+============================dev results================================
+Mon Dec 23 21:25:00 2024
+ecpe on eca_cn_20 under multi_task epoch 2.82; fold_id = 14,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4828, R=0.4828, F1 = 0.4828, 
+Fixed ecpe P=0.9901, R=0.9901, F1 = 0.9901, 
+Raw ee P=0.7537, R=0.7537, F1 = 0.7537, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5419, R=0.5419, F1 = 0.5419, 
+Fixed ce P=0.9901, R=0.9901, F1 = 0.9901, 
+Raw emo P=0.9865, R=0.9899, F1 = 0.9882, 
+Fixed emo P=0.9993, R=0.9995, F1 = 0.9994 
+
+
+===========================text results=================================
+Mon Dec 23 21:25:31 2024
+ecpe on eca_cn_20 under multi_task epoch 2.82; fold_id = 14,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5144, R=0.5095, F1 = 0.5120, 
+Fixed ecpe P=0.9952, R=0.9857, F1 = 0.9904, 
+Raw ee P=0.7452, R=0.7381, F1 = 0.7416, 
+Fixed ee P=0.9952, R=0.9857, F1 = 0.9904, 
+Raw ce P=0.5817, R=0.5762, F1 = 0.5789, 
+Fixed ce P=1.0000, R=0.9905, F1 = 0.9952, 
+Raw emo P=0.9777, R=0.9888, F1 = 0.9832, 
+Fixed emo P=0.9973, R=0.9980, F1 = 0.9976 
+ 
+
+Mon Dec 23 21:25:31 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5120 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.81:
+f1      : 0.4187 / 0.4810     precision: 0.4187 / 0.4810     recall  : 0.4187 / 0.4810     
+Step-2.78:
+f1      : 0.4680 / 0.4952     precision: 0.4680 / 0.4952     recall  : 0.4680 / 0.4952     
+Step-2.82:
+f1      : 0.4828 / 0.5120     precision: 0.4828 / 0.5144     recall  : 0.4828 / 0.5095     
+
+
+============================direct================================
+Mon Dec 23 21:26:03 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 14,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5144, R=0.5095, F1 = 0.5120, 
+Fixed ecpe P=0.9952, R=0.9857, F1 = 0.9904, 
+Raw ee P=0.7452, R=0.7381, F1 = 0.7416, 
+Fixed ee P=0.9952, R=0.9857, F1 = 0.9904, 
+Raw ce P=0.5817, R=0.5762, F1 = 0.5789, 
+Fixed ce P=1.0000, R=0.9905, F1 = 0.9952, 
+Raw emo P=0.9777, R=0.9888, F1 = 0.9832, 
+Fixed emo P=0.9973, R=0.9980, F1 = 0.9976 
+ 
+
+============================dev results================================
+Tue Dec 24 00:04:35 2024
+ecpe on eca_cn_20 under multi_task epoch 2.90; fold_id = 15,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4930, R=0.4907, F1 = 0.4919, 
+Fixed ecpe P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw ee P=0.7349, R=0.7315, F1 = 0.7332, 
+Fixed ee P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw ce P=0.5860, R=0.5833, F1 = 0.5847, 
+Fixed ce P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw emo P=0.9800, R=0.9875, F1 = 0.9837, 
+Fixed emo P=0.9980, R=0.9988, F1 = 0.9984 
+
+
+===========================text results=================================
+Tue Dec 24 00:05:08 2024
+ecpe on eca_cn_20 under multi_task epoch 2.90; fold_id = 15,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4183, R=0.4183, F1 = 0.4183, 
+Fixed ecpe P=0.9904, R=0.9904, F1 = 0.9904, 
+Raw ee P=0.7548, R=0.7548, F1 = 0.7548, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4808, R=0.4808, F1 = 0.4808, 
+Fixed ce P=0.9904, R=0.9904, F1 = 0.9904, 
+Raw emo P=0.9812, R=0.9901, F1 = 0.9856, 
+Fixed emo P=0.9985, R=0.9994, F1 = 0.9990 
+ 
+
+============================dev results================================
+Tue Dec 24 00:05:42 2024
+ecpe on eca_cn_20 under multi_task epoch 2.96; fold_id = 15,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4884, R=0.4861, F1 = 0.4872, 
+Fixed ecpe P=0.9953, R=0.9907, F1 = 0.9930, 
+Raw ee P=0.7349, R=0.7315, F1 = 0.7332, 
+Fixed ee P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw ce P=0.5767, R=0.5741, F1 = 0.5754, 
+Fixed ce P=0.9953, R=0.9907, F1 = 0.9930, 
+Raw emo P=0.9801, R=0.9874, F1 = 0.9837, 
+Fixed emo P=0.9976, R=0.9989, F1 = 0.9983 
+
+
+===========================text results=================================
+Tue Dec 24 00:06:16 2024
+ecpe on eca_cn_20 under multi_task epoch 2.96; fold_id = 15,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4279, R=0.4279, F1 = 0.4279, 
+Fixed ecpe P=0.9904, R=0.9904, F1 = 0.9904, 
+Raw ee P=0.7548, R=0.7548, F1 = 0.7548, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4904, R=0.4904, F1 = 0.4904, 
+Fixed ce P=0.9904, R=0.9904, F1 = 0.9904, 
+Raw emo P=0.9823, R=0.9882, F1 = 0.9852, 
+Fixed emo P=0.9989, R=0.9983, F1 = 0.9986 
+ 
+
+============================dev results================================
+Tue Dec 24 00:06:49 2024
+ecpe on eca_cn_20 under multi_task epoch 2.96; fold_id = 15,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4861, R=0.4861, F1 = 0.4861, 
+Fixed ecpe P=0.9907, R=0.9907, F1 = 0.9907, 
+Raw ee P=0.7315, R=0.7315, F1 = 0.7315, 
+Fixed ee P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw ce P=0.5787, R=0.5787, F1 = 0.5787, 
+Fixed ce P=0.9954, R=0.9954, F1 = 0.9954, 
+Raw emo P=0.9792, R=0.9882, F1 = 0.9837, 
+Fixed emo P=0.9973, R=0.9988, F1 = 0.9981 
+
+
+===========================text results=================================
+Tue Dec 24 00:07:21 2024
+ecpe on eca_cn_20 under multi_task epoch 2.96; fold_id = 15,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4327, R=0.4327, F1 = 0.4327, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7548, R=0.7548, F1 = 0.7548, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4952, R=0.4952, F1 = 0.4952, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9829, R=0.9883, F1 = 0.9856, 
+Fixed emo P=0.9978, R=1.0009, F1 = 0.9993 
+ 
+
+Tue Dec 24 00:07:21 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4183 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.90:
+f1      : 0.4919 / 0.4183     precision: 0.4930 / 0.4183     recall  : 0.4907 / 0.4183     
+Step-2.96:
+f1      : 0.4861 / 0.4327     precision: 0.4861 / 0.4327     recall  : 0.4861 / 0.4327     
+Step-2.96:
+f1      : 0.4861 / 0.4327     precision: 0.4861 / 0.4327     recall  : 0.4861 / 0.4327     
+
+
+============================direct================================
+Tue Dec 24 00:07:53 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 15,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4327, R=0.4327, F1 = 0.4327, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7548, R=0.7548, F1 = 0.7548, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4952, R=0.4952, F1 = 0.4952, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9829, R=0.9883, F1 = 0.9856, 
+Fixed emo P=0.9978, R=1.0009, F1 = 0.9993 
+ 
+
+============================dev results================================
+Tue Dec 24 02:47:36 2024
+ecpe on eca_cn_20 under multi_task epoch 2.37; fold_id = 16,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5498, R=0.5498, F1 = 0.5498, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.8009, R=0.8009, F1 = 0.8009, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6256, R=0.6256, F1 = 0.6256, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9836, R=0.9889, F1 = 0.9862, 
+Fixed emo P=0.9998, R=0.9984, F1 = 0.9991 
+
+
+===========================text results=================================
+Tue Dec 24 02:48:07 2024
+ecpe on eca_cn_20 under multi_task epoch 2.37; fold_id = 16,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4689, R=0.4667, F1 = 0.4678, 
+Fixed ecpe P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ee P=0.7990, R=0.7952, F1 = 0.7971, 
+Fixed ee P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw ce P=0.5263, R=0.5238, F1 = 0.5251, 
+Fixed ce P=1.0000, R=0.9952, F1 = 0.9976, 
+Raw emo P=0.9855, R=0.9912, F1 = 0.9884, 
+Fixed emo P=0.9995, R=0.9991, F1 = 0.9993 
+ 
+
+============================dev results================================
+Tue Dec 24 02:48:41 2024
+ecpe on eca_cn_20 under multi_task epoch 2.38; fold_id = 16,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5810, R=0.5782, F1 = 0.5796, 
+Fixed ecpe P=0.9952, R=0.9905, F1 = 0.9929, 
+Raw ee P=0.8095, R=0.8057, F1 = 0.8076, 
+Fixed ee P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ce P=0.6524, R=0.6493, F1 = 0.6508, 
+Fixed ce P=0.9952, R=0.9905, F1 = 0.9929, 
+Raw emo P=0.9830, R=0.9889, F1 = 0.9859, 
+Fixed emo P=0.9991, R=0.9984, F1 = 0.9988 
+
+
+===========================text results=================================
+Tue Dec 24 02:49:15 2024
+ecpe on eca_cn_20 under multi_task epoch 2.38; fold_id = 16,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4762, R=0.4762, F1 = 0.4762, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7952, R=0.7952, F1 = 0.7952, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5381, R=0.5381, F1 = 0.5381, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9853, R=0.9928, F1 = 0.9890, 
+Fixed emo P=0.9998, R=0.9990, F1 = 0.9994 
+ 
+
+============================dev results================================
+Tue Dec 24 02:49:49 2024
+ecpe on eca_cn_20 under multi_task epoch 2.40; fold_id = 16,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5782, R=0.5782, F1 = 0.5782, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.8057, R=0.8057, F1 = 0.8057, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6493, R=0.6493, F1 = 0.6493, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9858, R=0.9888, F1 = 0.9873, 
+Fixed emo P=0.9994, R=0.9985, F1 = 0.9990 
+
+
+===========================text results=================================
+Tue Dec 24 02:50:22 2024
+ecpe on eca_cn_20 under multi_task epoch 2.40; fold_id = 16,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4762, R=0.4762, F1 = 0.4762, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7952, R=0.7952, F1 = 0.7952, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5381, R=0.5381, F1 = 0.5381, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9888, R=0.9930, F1 = 0.9909, 
+Fixed emo P=0.9998, R=0.9990, F1 = 0.9994 
+ 
+
+Tue Dec 24 02:50:22 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4762 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.37:
+f1      : 0.5498 / 0.4678     precision: 0.5498 / 0.4689     recall  : 0.5498 / 0.4667     
+Step-2.38:
+f1      : 0.5796 / 0.4762     precision: 0.5810 / 0.4762     recall  : 0.5782 / 0.4762     
+Step-2.40:
+f1      : 0.5782 / 0.4762     precision: 0.5782 / 0.4762     recall  : 0.5782 / 0.4762     
+
+
+============================direct================================
+Tue Dec 24 02:50:54 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 16,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4762, R=0.4762, F1 = 0.4762, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7952, R=0.7952, F1 = 0.7952, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5381, R=0.5381, F1 = 0.5381, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9888, R=0.9930, F1 = 0.9909, 
+Fixed emo P=0.9998, R=0.9990, F1 = 0.9994 
+ 
+
+============================dev results================================
+Tue Dec 24 05:30:58 2024
+ecpe on eca_cn_20 under multi_task epoch 2.67; fold_id = 17,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4902, R=0.4878, F1 = 0.4890, 
+Fixed ecpe P=0.9853, R=0.9805, F1 = 0.9829, 
+Raw ee P=0.7500, R=0.7463, F1 = 0.7482, 
+Fixed ee P=1.0000, R=0.9951, F1 = 0.9976, 
+Raw ce P=0.5588, R=0.5561, F1 = 0.5575, 
+Fixed ce P=0.9853, R=0.9805, F1 = 0.9829, 
+Raw emo P=0.9809, R=0.9885, F1 = 0.9847, 
+Fixed emo P=0.9993, R=0.9983, F1 = 0.9988 
+
+
+===========================text results=================================
+Tue Dec 24 05:31:29 2024
+ecpe on eca_cn_20 under multi_task epoch 2.67; fold_id = 17,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4648, R=0.4605, F1 = 0.4626, 
+Fixed ecpe P=0.9953, R=0.9860, F1 = 0.9907, 
+Raw ee P=0.7887, R=0.7814, F1 = 0.7850, 
+Fixed ee P=1.0000, R=0.9907, F1 = 0.9953, 
+Raw ce P=0.5211, R=0.5163, F1 = 0.5187, 
+Fixed ce P=0.9953, R=0.9860, F1 = 0.9907, 
+Raw emo P=0.9821, R=0.9924, F1 = 0.9872, 
+Fixed emo P=0.9982, R=0.9986, F1 = 0.9984 
+ 
+
+============================dev results================================
+Tue Dec 24 05:32:03 2024
+ecpe on eca_cn_20 under multi_task epoch 2.65; fold_id = 17,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5073, R=0.5073, F1 = 0.5073, 
+Fixed ecpe P=0.9902, R=0.9902, F1 = 0.9902, 
+Raw ee P=0.7561, R=0.7561, F1 = 0.7561, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5805, R=0.5805, F1 = 0.5805, 
+Fixed ce P=0.9902, R=0.9902, F1 = 0.9902, 
+Raw emo P=0.9830, R=0.9879, F1 = 0.9854, 
+Fixed emo P=0.9998, R=0.9984, F1 = 0.9991 
+
+
+===========================text results=================================
+Tue Dec 24 05:32:35 2024
+ecpe on eca_cn_20 under multi_task epoch 2.65; fold_id = 17,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4837, R=0.4837, F1 = 0.4837, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7814, R=0.7814, F1 = 0.7814, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5442, R=0.5442, F1 = 0.5442, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9823, R=0.9894, F1 = 0.9858, 
+Fixed emo P=0.9984, R=0.9984, F1 = 0.9984 
+ 
+
+============================dev results================================
+Tue Dec 24 05:33:10 2024
+ecpe on eca_cn_20 under multi_task epoch 2.70; fold_id = 17,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5073, R=0.5073, F1 = 0.5073, 
+Fixed ecpe P=0.9902, R=0.9902, F1 = 0.9902, 
+Raw ee P=0.7561, R=0.7561, F1 = 0.7561, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5805, R=0.5805, F1 = 0.5805, 
+Fixed ce P=0.9902, R=0.9902, F1 = 0.9902, 
+Raw emo P=0.9814, R=0.9876, F1 = 0.9845, 
+Fixed emo P=0.9995, R=0.9984, F1 = 0.9989 
+
+
+===========================text results=================================
+Tue Dec 24 05:33:41 2024
+ecpe on eca_cn_20 under multi_task epoch 2.70; fold_id = 17,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4884, R=0.4884, F1 = 0.4884, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7814, R=0.7814, F1 = 0.7814, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5442, R=0.5442, F1 = 0.5442, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9849, R=0.9896, F1 = 0.9873, 
+Fixed emo P=0.9988, R=1.0011, F1 = 0.9999 
+ 
+
+Tue Dec 24 05:33:41 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4837 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.67:
+f1      : 0.4890 / 0.4626     precision: 0.4902 / 0.4648     recall  : 0.4878 / 0.4605     
+Step-2.65:
+f1      : 0.5073 / 0.4837     precision: 0.5073 / 0.4837     recall  : 0.5073 / 0.4837     
+Step-2.70:
+f1      : 0.5073 / 0.4884     precision: 0.5073 / 0.4884     recall  : 0.5073 / 0.4884     
+
+
+============================direct================================
+Tue Dec 24 05:34:13 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 17,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4884, R=0.4884, F1 = 0.4884, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7814, R=0.7814, F1 = 0.7814, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5442, R=0.5442, F1 = 0.5442, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9849, R=0.9896, F1 = 0.9873, 
+Fixed emo P=0.9988, R=1.0011, F1 = 0.9999 
+ 
+
+============================dev results================================
+Tue Dec 24 08:14:12 2024
+ecpe on eca_cn_20 under multi_task epoch 2.95; fold_id = 18,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4381, R=0.4381, F1 = 0.4381, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7429, R=0.7429, F1 = 0.7429, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5143, R=0.5143, F1 = 0.5143, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9800, R=0.9874, F1 = 0.9837, 
+Fixed emo P=0.9991, R=0.9995, F1 = 0.9993 
+
+
+===========================text results=================================
+Tue Dec 24 08:14:44 2024
+ecpe on eca_cn_20 under multi_task epoch 2.95; fold_id = 18,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4583, R=0.4562, F1 = 0.4573, 
+Fixed ecpe P=0.9954, R=0.9908, F1 = 0.9931, 
+Raw ee P=0.6991, R=0.6959, F1 = 0.6975, 
+Fixed ee P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw ce P=0.5509, R=0.5484, F1 = 0.5497, 
+Fixed ce P=0.9954, R=0.9908, F1 = 0.9931, 
+Raw emo P=0.9774, R=0.9869, F1 = 0.9821, 
+Fixed emo P=0.9990, R=0.9993, F1 = 0.9991 
+ 
+
+============================dev results================================
+Tue Dec 24 08:15:18 2024
+ecpe on eca_cn_20 under multi_task epoch 3.00; fold_id = 18,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4762, R=0.4762, F1 = 0.4762, 
+Fixed ecpe P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw ee P=0.7619, R=0.7619, F1 = 0.7619, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5524, R=0.5524, F1 = 0.5524, 
+Fixed ce P=0.9952, R=0.9952, F1 = 0.9952, 
+Raw emo P=0.9829, R=0.9899, F1 = 0.9864, 
+Fixed emo P=0.9995, R=0.9995, F1 = 0.9995 
+
+
+===========================text results=================================
+Tue Dec 24 08:15:49 2024
+ecpe on eca_cn_20 under multi_task epoch 3.00; fold_id = 18,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4562, R=0.4562, F1 = 0.4562, 
+Fixed ecpe P=0.9908, R=0.9908, F1 = 0.9908, 
+Raw ee P=0.6959, R=0.6959, F1 = 0.6959, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5576, R=0.5576, F1 = 0.5576, 
+Fixed ce P=0.9908, R=0.9908, F1 = 0.9908, 
+Raw emo P=0.9780, R=0.9852, F1 = 0.9816, 
+Fixed emo P=0.9986, R=0.9994, F1 = 0.9990 
+ 
+
+============================dev results================================
+Tue Dec 24 08:16:23 2024
+ecpe on eca_cn_20 under multi_task epoch 2.99; fold_id = 18,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4810, R=0.4810, F1 = 0.4810, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7714, R=0.7714, F1 = 0.7714, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5571, R=0.5571, F1 = 0.5571, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9813, R=0.9907, F1 = 0.9860, 
+Fixed emo P=0.9993, R=0.9996, F1 = 0.9995 
+
+
+===========================text results=================================
+Tue Dec 24 08:16:55 2024
+ecpe on eca_cn_20 under multi_task epoch 2.99; fold_id = 18,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4676, R=0.4654, F1 = 0.4665, 
+Fixed ecpe P=0.9954, R=0.9908, F1 = 0.9931, 
+Raw ee P=0.6991, R=0.6959, F1 = 0.6975, 
+Fixed ee P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw ce P=0.5694, R=0.5668, F1 = 0.5681, 
+Fixed ce P=0.9954, R=0.9908, F1 = 0.9931, 
+Raw emo P=0.9792, R=0.9847, F1 = 0.9819, 
+Fixed emo P=0.9991, R=0.9994, F1 = 0.9992 
+ 
+
+Tue Dec 24 08:16:55 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.4665 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.95:
+f1      : 0.4381 / 0.4573     precision: 0.4381 / 0.4583     recall  : 0.4381 / 0.4562     
+Step-3.00:
+f1      : 0.4762 / 0.4562     precision: 0.4762 / 0.4562     recall  : 0.4762 / 0.4562     
+Step-2.99:
+f1      : 0.4810 / 0.4665     precision: 0.4810 / 0.4676     recall  : 0.4810 / 0.4654     
+
+
+============================direct================================
+Tue Dec 24 08:17:27 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 18,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4676, R=0.4654, F1 = 0.4665, 
+Fixed ecpe P=0.9954, R=0.9908, F1 = 0.9931, 
+Raw ee P=0.6991, R=0.6959, F1 = 0.6975, 
+Fixed ee P=1.0000, R=0.9954, F1 = 0.9977, 
+Raw ce P=0.5694, R=0.5668, F1 = 0.5681, 
+Fixed ce P=0.9954, R=0.9908, F1 = 0.9931, 
+Raw emo P=0.9792, R=0.9847, F1 = 0.9819, 
+Fixed emo P=0.9991, R=0.9994, F1 = 0.9992 
+ 
+
+============================dev results================================
+Tue Dec 24 10:57:46 2024
+ecpe on eca_cn_20 under multi_task epoch 2.34; fold_id = 19,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4455, R=0.4455, F1 = 0.4455, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5450, R=0.5450, F1 = 0.5450, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9808, R=0.9880, F1 = 0.9844, 
+Fixed emo P=0.9987, R=0.9996, F1 = 0.9991 
+
+
+===========================text results=================================
+Tue Dec 24 10:58:17 2024
+ecpe on eca_cn_20 under multi_task epoch 2.34; fold_id = 19,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5025, R=0.5000, F1 = 0.5012, 
+Fixed ecpe P=0.9951, R=0.9902, F1 = 0.9926, 
+Raw ee P=0.7734, R=0.7696, F1 = 0.7715, 
+Fixed ee P=1.0000, R=0.9951, F1 = 0.9975, 
+Raw ce P=0.6010, R=0.5980, F1 = 0.5995, 
+Fixed ce P=0.9951, R=0.9902, F1 = 0.9926, 
+Raw emo P=0.9818, R=0.9888, F1 = 0.9852, 
+Fixed emo P=0.9986, R=0.9990, F1 = 0.9988 
+ 
+
+============================dev results================================
+Tue Dec 24 10:58:51 2024
+ecpe on eca_cn_20 under multi_task epoch 2.34; fold_id = 19,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4455, R=0.4455, F1 = 0.4455, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7393, R=0.7393, F1 = 0.7393, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5450, R=0.5450, F1 = 0.5450, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9807, R=0.9887, F1 = 0.9847, 
+Fixed emo P=0.9988, R=0.9996, F1 = 0.9992 
+
+
+===========================text results=================================
+Tue Dec 24 10:59:23 2024
+ecpe on eca_cn_20 under multi_task epoch 2.34; fold_id = 19,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5196, R=0.5196, F1 = 0.5196, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7745, R=0.7745, F1 = 0.7745, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6078, R=0.6078, F1 = 0.6078, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9825, R=0.9914, F1 = 0.9869, 
+Fixed emo P=0.9986, R=0.9990, F1 = 0.9988 
+ 
+
+============================dev results================================
+Tue Dec 24 10:59:56 2024
+ecpe on eca_cn_20 under multi_task epoch 2.34; fold_id = 19,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4597, R=0.4597, F1 = 0.4597, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7441, R=0.7441, F1 = 0.7441, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5592, R=0.5592, F1 = 0.5592, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9824, R=0.9878, F1 = 0.9851, 
+Fixed emo P=0.9991, R=0.9996, F1 = 0.9994 
+
+
+===========================text results=================================
+Tue Dec 24 11:00:28 2024
+ecpe on eca_cn_20 under multi_task epoch 2.34; fold_id = 19,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5343, R=0.5343, F1 = 0.5343, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7843, R=0.7843, F1 = 0.7843, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6127, R=0.6127, F1 = 0.6127, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9813, R=0.9900, F1 = 0.9856, 
+Fixed emo P=0.9988, R=0.9985, F1 = 0.9986 
+ 
+
+Tue Dec 24 11:00:28 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5343 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.34:
+f1      : 0.4597 / 0.5343     precision: 0.4597 / 0.5343     recall  : 0.4597 / 0.5343     
+Step-2.34:
+f1      : 0.4597 / 0.5343     precision: 0.4597 / 0.5343     recall  : 0.4597 / 0.5343     
+Step-2.34:
+f1      : 0.4597 / 0.5343     precision: 0.4597 / 0.5343     recall  : 0.4597 / 0.5343     
+
+
+============================direct================================
+Tue Dec 24 11:00:59 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 19,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5343, R=0.5343, F1 = 0.5343, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7843, R=0.7843, F1 = 0.7843, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.6127, R=0.6127, F1 = 0.6127, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9813, R=0.9900, F1 = 0.9856, 
+Fixed emo P=0.9988, R=0.9985, F1 = 0.9986 
+ 
+
+============================dev results================================
+Tue Dec 24 13:41:02 2024
+ecpe on eca_cn_20 under multi_task epoch 2.50; fold_id = 20,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4265, R=0.4245, F1 = 0.4255, 
+Fixed ecpe P=0.9953, R=0.9906, F1 = 0.9929, 
+Raw ee P=0.7062, R=0.7028, F1 = 0.7045, 
+Fixed ee P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ce P=0.4834, R=0.4811, F1 = 0.4823, 
+Fixed ce P=0.9953, R=0.9906, F1 = 0.9929, 
+Raw emo P=0.9776, R=0.9845, F1 = 0.9810, 
+Fixed emo P=0.9990, R=0.9989, F1 = 0.9990 
+
+
+===========================text results=================================
+Tue Dec 24 13:41:34 2024
+ecpe on eca_cn_20 under multi_task epoch 2.50; fold_id = 20,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4857, R=0.4834, F1 = 0.4846, 
+Fixed ecpe P=0.9952, R=0.9905, F1 = 0.9929, 
+Raw ee P=0.7524, R=0.7488, F1 = 0.7506, 
+Fixed ee P=1.0000, R=0.9953, F1 = 0.9976, 
+Raw ce P=0.5476, R=0.5450, F1 = 0.5463, 
+Fixed ce P=0.9952, R=0.9905, F1 = 0.9929, 
+Raw emo P=0.9788, R=0.9883, F1 = 0.9835, 
+Fixed emo P=0.9989, R=0.9982, F1 = 0.9986 
+ 
+
+============================dev results================================
+Tue Dec 24 13:42:09 2024
+ecpe on eca_cn_20 under multi_task epoch 2.49; fold_id = 20,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4292, R=0.4292, F1 = 0.4292, 
+Fixed ecpe P=0.9906, R=0.9906, F1 = 0.9906, 
+Raw ee P=0.7170, R=0.7170, F1 = 0.7170, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4811, R=0.4811, F1 = 0.4811, 
+Fixed ce P=0.9906, R=0.9906, F1 = 0.9906, 
+Raw emo P=0.9779, R=0.9883, F1 = 0.9831, 
+Fixed emo P=0.9992, R=0.9993, F1 = 0.9992 
+
+
+===========================text results=================================
+Tue Dec 24 13:42:44 2024
+ecpe on eca_cn_20 under multi_task epoch 2.49; fold_id = 20,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4929, R=0.4929, F1 = 0.4929, 
+Fixed ecpe P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ee P=0.7536, R=0.7536, F1 = 0.7536, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5592, R=0.5592, F1 = 0.5592, 
+Fixed ce P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw emo P=0.9807, R=0.9902, F1 = 0.9854, 
+Fixed emo P=0.9982, R=0.9989, F1 = 0.9986 
+ 
+
+============================dev results================================
+Tue Dec 24 13:43:21 2024
+ecpe on eca_cn_20 under multi_task epoch 2.49; fold_id = 20,Train bs=20, num_epochs = 20
+Raw ecpe P=0.4387, R=0.4387, F1 = 0.4387, 
+Fixed ecpe P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw ee P=0.7170, R=0.7170, F1 = 0.7170, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.4953, R=0.4953, F1 = 0.4953, 
+Fixed ce P=0.9953, R=0.9953, F1 = 0.9953, 
+Raw emo P=0.9813, R=0.9862, F1 = 0.9838, 
+Fixed emo P=0.9994, R=0.9989, F1 = 0.9992 
+
+
+===========================text results=================================
+Tue Dec 24 13:43:54 2024
+ecpe on eca_cn_20 under multi_task epoch 2.49; fold_id = 20,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5024, R=0.5024, F1 = 0.5024, 
+Fixed ecpe P=0.9858, R=0.9858, F1 = 0.9858, 
+Raw ee P=0.7536, R=0.7536, F1 = 0.7536, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5687, R=0.5687, F1 = 0.5687, 
+Fixed ce P=0.9858, R=0.9858, F1 = 0.9858, 
+Raw emo P=0.9834, R=0.9890, F1 = 0.9862, 
+Fixed emo P=0.9982, R=1.0012, F1 = 0.9997 
+ 
+
+Tue Dec 24 13:43:54 2024
+Exp setting: ecpe on eca_cn_20 under multi_task | 0.5024 | 
+Train setting: bs=20, lr=0.005, num_epochs=20
+
+* Results *:  Dev  /  Test  
+Step-2.50:
+f1      : 0.4255 / 0.4846     precision: 0.4265 / 0.4857     recall  : 0.4245 / 0.4834     
+Step-2.49:
+f1      : 0.4387 / 0.5024     precision: 0.4387 / 0.5024     recall  : 0.4387 / 0.5024     
+Step-2.49:
+f1      : 0.4387 / 0.5024     precision: 0.4387 / 0.5024     recall  : 0.4387 / 0.5024     
+
+
+============================direct================================
+Tue Dec 24 13:44:28 2024
+ecpe on eca_cn_20 under multi_task; fold_id = 20,Train bs=20, num_epochs = 20
+Raw ecpe P=0.5024, R=0.5024, F1 = 0.5024, 
+Fixed ecpe P=0.9858, R=0.9858, F1 = 0.9858, 
+Raw ee P=0.7536, R=0.7536, F1 = 0.7536, 
+Fixed ee P=1.0000, R=1.0000, F1 = 1.0000, 
+Raw ce P=0.5687, R=0.5687, F1 = 0.5687, 
+Fixed ce P=0.9858, R=0.9858, F1 = 0.9858, 
+Raw emo P=0.9834, R=0.9890, F1 = 0.9862, 
+Fixed emo P=0.9982, R=1.0012, F1 = 0.9997 
+ 
+
