@@ -22,7 +22,7 @@
 in implicit sentiment analysis (ISA) the opinion cues come in an implicit and obscure manner.
 
 <p align="center">
-  <img src="./figures/task.png" width="450"/>
+  <img src="./figures/fig2.jpg" width="450"/>
 </p>
 
 
