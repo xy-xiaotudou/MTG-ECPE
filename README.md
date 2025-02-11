@@ -18,21 +18,34 @@
 
 ## Overview<a name="overview" />
 
-> While sentiment analysis systems try to determine the sentiment polarities of given targets based on the key opinion expressions in input texts, 
-in implicit sentiment analysis (ISA) the opinion cues come in an implicit and obscure manner.
+> The framework incorporates three parts: multi-task generative framework setting, multi-task learning objective, clause prediction normalization.
 
 <p align="center">
   <img src="./figures/fig2.jpg" width="450"/>
 </p>
 
 
-> Thus detecting implicit sentiment requires the common-sense and multi-hop reasoning ability to infer the latent intent of opinion.
-Inspired by the recent chain-of-thought (CoT) idea, in this work we introduce a *Three-hop Reasoning* (**THOR**) CoT framework to mimic the human-like reasoning process for ISA.
-We design a three-step prompting principle for THOR to step-by-step induce the implicit aspect, opinion, and finally the sentiment polarity.
-
-<p align="center">
-  <img src="./figures/framework.png" width="1000"/>
-</p>
+\begin{table}[!h]
+    \centering
+    \scalebox{0.8}{
+    \begin{tabular}{p{8.2cm}}
+    \hline
+    \underline{\centerline{ \textbf{Input}:}} 
+         Task Descriptions:c1:The family currently relies on her for more than 2,000 yuan in wages to live, c2:the medical treatment has been heavily indebted, c3:if I disappeared, c4:and my wife did not have a Shenzhen household registration, c5:the days would be even more difficult, c6:it is helpless and heartbreaking, c7:but I also appreciate the netizens who help me, c8:and the family's unwavering commitment, c9:now I can only grit my teeth and continue to hold on, c10:and I hope to achieve the wish. \\ \hline
+    \underline{\centerline{ \textbf{Ground Truth}:}  }
+         Emotion Clauses: c7:but I also appreciate the netizens who help me \\
+         Emotion Types: happiness \\
+         ECPs: $\{c7,c7\},\{c7,c8\}$ \\  \hline
+    \underline{\centerline{ \textbf{Target}: } }
+         \textbf{EE Target}: [emotion clause: c7:but I also appreciate the netizens who help me, emotion type: happiness, keywords: appreciate] \\ 
+         \hline
+         \textbf{ECPE Target}: [emotion clause: c7:but I also appreciate the netizens who help me, cause clause: c7:but I also appreciate the netizens who help me, c8:and the family's unwavering commitment] \\ \hline
+    \end{tabular}
+    }
+    \caption{Example of EE and ECPE tasks. The input is task description and all clauses. The target is the ECPs or emotion clauses.}
+    % The input is the task description and a sequence of all clauses in the document, each annotated with its respective clause id. The output targets is the ECPs or emotion clauses.}
+    \label{tab:illustrative example}
+\end{table}
 
 
 ----------
