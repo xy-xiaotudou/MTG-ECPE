@@ -4,6 +4,7 @@
 
 ## Quick Links
 - [Overview](#overview)
+- [Generative Paradigm](#generative_paradigm)
 - [Code Usage](#code)
   - [Requirement](#requirement)
   - [Dataset](#data)
@@ -24,32 +25,14 @@
   <img src="./figures/fig2.jpg" width="450"/>
 </p>
 
-
-\begin{table}[!h]
-    \centering
-    \scalebox{0.8}{
-    \begin{tabular}{p{8.2cm}}
-    \hline
-    \underline{\centerline{ \textbf{Input}:}} 
-         Task Descriptions:c1:The family currently relies on her for more than 2,000 yuan in wages to live, c2:the medical treatment has been heavily indebted, c3:if I disappeared, c4:and my wife did not have a Shenzhen household registration, c5:the days would be even more difficult, c6:it is helpless and heartbreaking, c7:but I also appreciate the netizens who help me, c8:and the family's unwavering commitment, c9:now I can only grit my teeth and continue to hold on, c10:and I hope to achieve the wish. \\ \hline
-    \underline{\centerline{ \textbf{Ground Truth}:}  }
-         Emotion Clauses: c7:but I also appreciate the netizens who help me \\
-         Emotion Types: happiness \\
-         ECPs: $\{c7,c7\},\{c7,c8\}$ \\  \hline
-    \underline{\centerline{ \textbf{Target}: } }
-         \textbf{EE Target}: [emotion clause: c7:but I also appreciate the netizens who help me, emotion type: happiness, keywords: appreciate] \\ 
-         \hline
-         \textbf{ECPE Target}: [emotion clause: c7:but I also appreciate the netizens who help me, cause clause: c7:but I also appreciate the netizens who help me, c8:and the family's unwavering commitment] \\ \hline
-    \end{tabular}
-    }
-    \caption{Example of EE and ECPE tasks. The input is task description and all clauses. The target is the ECPs or emotion clauses.}
-    % The input is the task description and a sequence of all clauses in the document, each annotated with its respective clause id. The output targets is the ECPs or emotion clauses.}
-    \label{tab:illustrative example}
-\end{table}
-
-
 ----------
+## Generative Paradigm<a name="generative_paradigm" />
 
+> Example of EE and ECPE tasks. The input is task description and all clauses. The target is the ECPs or emotion clauses.
+
+<p align="center">
+  <img src="./figures/table1.jpg" width="450"/>
+</p>
 
 ----------
 
