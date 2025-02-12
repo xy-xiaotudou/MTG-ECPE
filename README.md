@@ -58,7 +58,7 @@ pip install -r requirements.txt
 
 ### Dataset<a name="data" />
 
-Chinese data ([Sina City News](data%2Flaptops)) and English data ([NTCIR-13](data%2Frestaurants)).
+Chinese data ([Sina City News](data%ecpe%cn-10)) and English data ([NTCIR-13](data%ecpe%)).
 
 ----------
 ### Generation Model<a name="g_model" />
