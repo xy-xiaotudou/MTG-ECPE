@@ -8,11 +8,8 @@
 - [Code Usage](#code)
   - [Requirement](#requirement)
   - [Dataset](#data)
-  - [LLMs](#llm)
-  - [Run with Flan-T5](#runt5)
-  - [Run with GPT-3.5](#GPT)
-  - [Suggestions](#suggest)
-- [MISC](#misc)
+  - [Generation Model](#g_model)
+  - [Training and Evaluating](#train&eval)
 
 
 ----------
@@ -47,11 +44,10 @@ conda create -n mtg python=3.8
 ```
 
 ``` bash
-# CUDA 10.2
-conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=10.2 -c pytorch
-
-# CUDA 11.3
-conda install pytorch==1.10.0 torchvision==0.11.0 torchaudio==0.10.0 cudatoolkit=11.3 -c pytorch -c conda-forge
+# CUDA 11.6
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.6 -c pytorch -c nvidia
+# CUDA 11.7
+conda install pytorch==1.13.1 torchvision==0.14.1 torchaudio==0.13.1 pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
 
 ```bash
@@ -62,105 +58,20 @@ pip install -r requirements.txt
 
 ### Dataset<a name="data" />
 
-SemEval14 Laptop ([laptops](data%2Flaptops)) and Restaurant ([restaurants](data%2Frestaurants)), with fine-grained target-level annotations.
-
-
+Chinese data ([Sina City News](data%2Flaptops)) and English data ([NTCIR-13](data%2Frestaurants)).
 
 ----------
-### LLMs<a name="llm" />
+### Generation Model<a name="g_model" />
 
-A. Use the Flan-T5 as the backbone LLM reasoner:
-  - [google/flan-t5-base](https://huggingface.co/google/flan-t5-base),  
-  - [google/flan-t5-large](https://huggingface.co/google/flan-t5-large), 
-  - [google/flan-t5-xl](https://huggingface.co/google/flan-t5-xl),  
-  - [google/flan-t5-xxl](https://huggingface.co/google/flan-t5-xxl),  
-
-B. Evaluate with OpenAI [GPT-3.5](https://platform.openai.com/docs/models/gpt-3-5)
+A. Randeng-T5 for Chinese data: 
+  - [IDEA-CCNL/Randeng-T5-77M](https://huggingface.co/IDEA-CCNL/Randeng-T5-77M),  
+B. T5-small for English data:
+  - [google-t5/t5-small](https://huggingface.co/google-t5/t5-small), 
 
 ----------
-### Training and Evaluating with Flan-T5<a name="runt5" />
+### Training and Evaluating<a name="train&eval" />
 
-Use the [main.py](main.py) script with command-line arguments to run the Flan-T5-based THOR system. 
-
-
-```bash
-python main.py -c <cuda_index> -r [thor|prompt] -d [restaurants|laptops] -z [True|False] -f <config_file>
-```
-Some important arguments:
-
-- `-c`, `--cuda_index`: Index of the GPU to use for computation (default is 0).
-- `-d`, `--data_name`: Name of the dataset. Choices are 'restaurants' or 'laptops' (default is 'laptops').
-- `-r`, `--reasoning`: Specifies the reasoning mode, with one-step prompt or multi-step thor mode (default is 'thor').
-- `-z`, `--zero_shot`: If True, the system directly performs zero-shot prediction, otherwise run the fine-tuning on the train set (default is True).
-- `-f`, `--config`: Specifies the location of [config.yaml](config%2Fconfig.yaml) file.
-
-Configurate more parameters in [config.yaml](config%2Fconfig.yaml) file.
-
+Use the [main.py](main.py) script to run system. 
 
 ----------
-
-### Evaluating with GPT-3.5<a name="GPT" />
-
-Go to the [eval_GPT](eval_GPT) fold, and run the [run_gpt_eval.py](eval_GPT%2Frun_gpt_eval.py) script:
-
-```bash
-python run_gpt_eval.py -k <openai_key> -d [restaurants|laptops]
-```
-
-Indicating your openai key. 
-The reasoning traces and outputs of GPT for all instances are saved in `output_<data_name>.txt` file.
-
-----------
-
-### Suggestions<a name="suggest" />
-
-- Suggest start with big enough LLM (e.g., `flan-t5-xl`), to better see the extraordinary reasoning ability.
-- To tune the system with supervision, preferred with bigger batch size, and with large GPU ram; suggest with A100. 
-- THOR is quite slower than the prompting mode.
-
-
-
-----------
-
-----------
-
-## MISC<a name="misc" />
-
-----------
-
-### Citation
-
-If you use this work, please kindly cite:
-
-```
-@inproceedings{FeiAcl23THOR,
-  title={Reasoning Implicit Sentiment with Chain-of-Thought Prompting},
-  author={Hao Fei, Bobo Li, Qian Liu, Lidong Bing, Fei Li, Tat-Seng Chua},
-  booktitle = "Proceedings of the Annual Meeting of the Association for Computational Linguistics",
-  pages = "1171--1182",
-  year={2023}
-}
-```
-
-
-----------
-
-
-### Acknowledgement
-
-This code is referred from following projects:
-[CoT](https://arxiv.org/abs/2201.11903); 
-[Flan-T5](https://huggingface.co/docs/transformers/model_doc/flan-t5);
-[OpenAI-GPT3](https://platform.openai.com/docs/models/gpt-3-5);
-[Transformer](https://github.com/huggingface/transformers),
-
-
-----------
-
-
-### License
-
-The code is released under Apache License 2.0 for Noncommercial use only. 
-
-
 
