@@ -43,7 +43,7 @@
 ### Requirement<a name="requirement" />
 
 ``` bash 
-conda create -n thor python=3.8
+conda create -n mtg python=3.8
 ```
 
 ``` bash
